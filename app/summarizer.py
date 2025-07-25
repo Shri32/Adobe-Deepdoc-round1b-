@@ -29,7 +29,13 @@ JOB_CATEGORY_KEYWORDS = {
         "key_concepts": ["concept", "definition", "principle", "structure", "atomic", "bond"],
         "mechanisms": ["reaction", "process", "oxidation", "reduction", "step", "conversion"],
         "examples": ["example", "illustration", "case", "application", "uses"]
-    }
+    },
+    "general": {
+        "relevant_content": [
+            "overview", "conclusion", "important", "summary", "highlight", "main idea",
+            "objective", "findings", "key points", "introduction", "impact", "benefit", "challenges"
+        ]
+    },
 }
 
 def detect_job_type(job):
@@ -40,7 +46,8 @@ def detect_job_type(job):
         return "financial"
     elif "exam" in job or "study" in job or "education" in job:
         return "exam"
-    return "general"
+    else:
+        return "general"
 
 def clean_text(text):
     text = re.sub(r'\n+', ' ', text)
@@ -83,8 +90,8 @@ def extract_text_per_page(pdf_path):
     return pages
 
 def process_documents():
-    input_docs = ["rp1.pdf.pdf","rp2.pdf.pdf","rp4.pdf.pdf"]
-    job = "Prepare a exam report"
+    input_docs = ["annual1.pdf","annual2.pdf","annual3.pdf"]
+    job = "Prepare a fin report"
     persona = "exam prep"
 
     job_type = detect_job_type(job)

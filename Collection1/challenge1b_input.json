@@ -1,0 +1,17 @@
+{
+  "challenge_info": {
+    "challenge_id": "round_1b_001",
+    "test_case_name": "research_summary_case"
+  },
+  "documents": [
+    {"filename": "rp1.pdf.pdf", "title": "Skin Cancer Deep Learning"},
+    {"filename": "rp2.pdf.pdf", "title": "Neural Networks Optimization"},
+    {"filename": "rp4.pdf.pdf", "title": "Transfer Learning Survey"}
+  ],
+  "persona": {
+    "role": "Research Assistant"
+  },
+  "job_to_be_done": {
+    "task": "Prepare a detailed summary of each research paper focusing on datasets, results, and methodologies"
+  }
+}

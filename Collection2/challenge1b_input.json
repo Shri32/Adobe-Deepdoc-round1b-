@@ -1,0 +1,17 @@
+{
+  "challenge_info": {
+    "challenge_id": "round_1b_002",
+    "test_case_name": "chemistry_exam_summary"
+  },
+  "documents": [
+    {"filename": "chem1.pdf.pdf", "title": "Chemistry Paper I"},
+    {"filename": "chem2.pdf.pdf", "title": "Chemistry Paper II"},
+    {"filename": "chem3.pdf.pdf", "title": "Chemistry Paper III"}
+  ],
+  "persona": {
+    "role": "Exam Coordinator"
+  },
+  "job_to_be_done": {
+    "task": "Analyze chemistry papers to extract key questions and important answer formats"
+  }
+}

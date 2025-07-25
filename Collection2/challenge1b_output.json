@@ -1,0 +1,3466 @@
+{
+  "metadata": {
+    "input_documents": [
+      "chem1.pdf",
+      "chem2.pdf",
+      "chem3.pdf"
+    ],
+    "persona": "exam prep",
+    "job_to_be_done": "Prepare a exam report",
+    "processing_timestamp": "2025-07-25T13:25:43.054686"
+  },
+  "extracted_sections": [
+    {
+      "document": "chem1.pdf",
+      "page_number": 2,
+      "section_title": "8.1 Nomenclature and Structure of Carbonyl Group",
+      "importance_rank": 1
+    },
+    {
+      "document": "chem1.pdf",
+      "page_number": 4,
+      "section_title": "2-Methylpropanal",
+      "importance_rank": 2
+    },
+    {
+      "document": "chem1.pdf",
+      "page_number": 4,
+      "section_title": "3-Methylcyclohexanecarbaldehyde",
+      "importance_rank": 2
+    },
+    {
+      "document": "chem1.pdf",
+      "page_number": 4,
+      "section_title": "2-Methoxypropanal",
+      "importance_rank": 2
+    },
+    {
+      "document": "chem1.pdf",
+      "page_number": 4,
+      "section_title": "3-Bromobenzaldehyde",
+      "importance_rank": 2
+    },
+    {
+      "document": "chem1.pdf",
+      "page_number": 4,
+      "section_title": "2,4-Dimethylpentan-3-one",
+      "importance_rank": 1
+    },
+    {
+      "document": "chem1.pdf",
+      "page_number": 4,
+      "section_title": "2-Methylcyclohexanone",
+      "importance_rank": 1
+    },
+    {
+      "document": "chem1.pdf",
+      "page_number": 4,
+      "section_title": "(CH3)2C=CHCOCH3",
+      "importance_rank": 1
+    },
+    {
+      "document": "chem1.pdf",
+      "page_number": 4,
+      "section_title": "4-Methylpent-3-en-2-one",
+      "importance_rank": 1
+    },
+    {
+      "document": "chem1.pdf",
+      "page_number": 5,
+      "section_title": "2-hybridised and forms three sigma (s)",
+      "importance_rank": 1
+    },
+    {
+      "document": "chem1.pdf",
+      "page_number": 5,
+      "section_title": "8.1.2 Structure of",
+      "importance_rank": 1
+    },
+    {
+      "document": "chem1.pdf",
+      "page_number": 5,
+      "section_title": "1. By oxidation of alcohols",
+      "importance_rank": 1
+    },
+    {
+      "document": "chem1.pdf",
+      "page_number": 5,
+      "section_title": "2. By dehydrogenation of alcohols",
+      "importance_rank": 1
+    },
+    {
+      "document": "chem1.pdf",
+      "page_number": 5,
+      "section_title": "3. From hydrocarbons",
+      "importance_rank": 1
+    },
+    {
+      "document": "chem1.pdf",
+      "page_number": 5,
+      "section_title": "8.2 Preparation of Aldehydes",
+      "importance_rank": 2
+    },
+    {
+      "document": "chem1.pdf",
+      "page_number": 6,
+      "section_title": "1. From acyl chloride (acid chloride)",
+      "importance_rank": 1
+    },
+    {
+      "document": "chem1.pdf",
+      "page_number": 6,
+      "section_title": "2. From nitriles and esters",
+      "importance_rank": 1
+    },
+    {
+      "document": "chem1.pdf",
+      "page_number": 6,
+      "section_title": "3. From hydrocarbons",
+      "importance_rank": 1
+    },
+    {
+      "document": "chem1.pdf",
+      "page_number": 7,
+      "section_title": "1. From acyl chlorides",
+      "importance_rank": 1
+    },
+    {
+      "document": "chem1.pdf",
+      "page_number": 8,
+      "section_title": "2. From nitriles",
+      "importance_rank": 2
+    },
+    {
+      "document": "chem1.pdf",
+      "page_number": 8,
+      "section_title": "1. CrO2Cl2 2. HOH",
+      "importance_rank": 1
+    },
+    {
+      "document": "chem1.pdf",
+      "page_number": 8,
+      "section_title": "8.2 Write the structures of products of the following reactions;",
+      "importance_rank": 1
+    },
+    {
+      "document": "chem1.pdf",
+      "page_number": 8,
+      "section_title": "3. From benzene or substituted benzenes",
+      "importance_rank": 1
+    },
+    {
+      "document": "chem1.pdf",
+      "page_number": 9,
+      "section_title": "8.3 Physical",
+      "importance_rank": 2
+    },
+    {
+      "document": "chem1.pdf",
+      "page_number": 9,
+      "section_title": "8.3 Physical",
+      "importance_rank": 2
+    },
+    {
+      "document": "chem1.pdf",
+      "page_number": 9,
+      "section_title": "8.3 Physical",
+      "importance_rank": 2
+    },
+    {
+      "document": "chem1.pdf",
+      "page_number": 9,
+      "section_title": "8.3 Physical",
+      "importance_rank": 2
+    },
+    {
+      "document": "chem1.pdf",
+      "page_number": 9,
+      "section_title": "8.3 Physical",
+      "importance_rank": 2
+    },
+    {
+      "document": "chem1.pdf",
+      "page_number": 9,
+      "section_title": "CH3CH2CH2CHO, CH3CH2CH2CH2OH, H5C2-O-C2H5, CH3CH2CH2CH3",
+      "importance_rank": 1
+    },
+    {
+      "document": "chem1.pdf",
+      "page_number": 9,
+      "section_title": "74. Since only butan-1-ol molecules are associated due to extensive",
+      "importance_rank": 1
+    },
+    {
+      "document": "chem1.pdf",
+      "page_number": 9,
+      "section_title": "CH3CH2CH2CH3 < H5C2-O-C2H5 < CH3CH2CH2CHO < CH3CH2CH2CH2OH",
+      "importance_rank": 1
+    },
+    {
+      "document": "chem1.pdf",
+      "page_number": 10,
+      "section_title": "1. Nucleophilic addition reactions",
+      "importance_rank": 1
+    },
+    {
+      "document": "chem1.pdf",
+      "page_number": 10,
+      "section_title": "2 hybridised orbitals of carbonyl carbon (Fig.",
+      "importance_rank": 1
+    },
+    {
+      "document": "chem1.pdf",
+      "page_number": 10,
+      "section_title": "8.2). The hybridisation of carbon changes from sp",
+      "importance_rank": 1
+    },
+    {
+      "document": "chem1.pdf",
+      "page_number": 10,
+      "section_title": "2 to sp",
+      "importance_rank": 1
+    },
+    {
+      "document": "chem1.pdf",
+      "page_number": 10,
+      "section_title": "3 in",
+      "importance_rank": 1
+    },
+    {
+      "document": "chem1.pdf",
+      "page_number": 10,
+      "section_title": "CH3CHO, CH3CH2OH, CH3OCH3, CH3CH2CH3",
+      "importance_rank": 1
+    },
+    {
+      "document": "chem1.pdf",
+      "page_number": 10,
+      "section_title": "8.4 Chemical",
+      "importance_rank": 1
+    },
+    {
+      "document": "chem1.pdf",
+      "page_number": 10,
+      "section_title": "8.4 Chemical",
+      "importance_rank": 1
+    },
+    {
+      "document": "chem1.pdf",
+      "page_number": 10,
+      "section_title": "8.4 Chemical",
+      "importance_rank": 1
+    },
+    {
+      "document": "chem1.pdf",
+      "page_number": 10,
+      "section_title": "8.4 Chemical",
+      "importance_rank": 1
+    },
+    {
+      "document": "chem1.pdf",
+      "page_number": 10,
+      "section_title": "8.4 Chemical",
+      "importance_rank": 1
+    },
+    {
+      "document": "chem1.pdf",
+      "page_number": 12,
+      "section_title": "2,4-Dinitrophenyl-",
+      "importance_rank": 1
+    },
+    {
+      "document": "chem1.pdf",
+      "page_number": 12,
+      "section_title": "2,4 Dinitrophenyl-",
+      "importance_rank": 1
+    },
+    {
+      "document": "chem1.pdf",
+      "page_number": 12,
+      "section_title": "2. Reduction",
+      "importance_rank": 1
+    },
+    {
+      "document": "chem1.pdf",
+      "page_number": 13,
+      "section_title": "3. Oxidation",
+      "importance_rank": 1
+    },
+    {
+      "document": "chem1.pdf",
+      "page_number": 15,
+      "section_title": "4. Reactions due to a-hydrogen",
+      "importance_rank": 1
+    },
+    {
+      "document": "chem1.pdf",
+      "page_number": 16,
+      "section_title": "5. Other reactions",
+      "importance_rank": 1
+    },
+    {
+      "document": "chem1.pdf",
+      "page_number": 17,
+      "section_title": "8.5 Uses of",
+      "importance_rank": 1
+    },
+    {
+      "document": "chem1.pdf",
+      "page_number": 18,
+      "section_title": "2-Methylpropanoic acid",
+      "importance_rank": 2
+    },
+    {
+      "document": "chem1.pdf",
+      "page_number": 19,
+      "section_title": "2-Phenylethanoic acid",
+      "importance_rank": 1
+    },
+    {
+      "document": "chem1.pdf",
+      "page_number": 19,
+      "section_title": "1. From primary alcohols and aldehydes",
+      "importance_rank": 2
+    },
+    {
+      "document": "chem1.pdf",
+      "page_number": 19,
+      "section_title": "8.7 Methods of",
+      "importance_rank": 2
+    },
+    {
+      "document": "chem1.pdf",
+      "page_number": 20,
+      "section_title": "2. From alkylbenzenes",
+      "importance_rank": 1
+    },
+    {
+      "document": "chem1.pdf",
+      "page_number": 20,
+      "section_title": "3. From nitriles and amides",
+      "importance_rank": 1
+    },
+    {
+      "document": "chem1.pdf",
+      "page_number": 20,
+      "section_title": "4. From Grignard reagents",
+      "importance_rank": 2
+    },
+    {
+      "document": "chem1.pdf",
+      "page_number": 21,
+      "section_title": "5. From acyl halides and anhydrides",
+      "importance_rank": 2
+    },
+    {
+      "document": "chem1.pdf",
+      "page_number": 21,
+      "section_title": "6. From esters",
+      "importance_rank": 1
+    },
+    {
+      "document": "chem1.pdf",
+      "page_number": 23,
+      "section_title": "8.8 Physical",
+      "importance_rank": 2
+    },
+    {
+      "document": "chem1.pdf",
+      "page_number": 23,
+      "section_title": "8.9 Chemical Reactions",
+      "importance_rank": 1
+    },
+    {
+      "document": "chem1.pdf",
+      "page_number": 24,
+      "section_title": "0.23, 4.19 and 4.76, respectively.",
+      "importance_rank": 2
+    },
+    {
+      "document": "chem1.pdf",
+      "page_number": 25,
+      "section_title": "2 hybridised carbon",
+      "importance_rank": 2
+    },
+    {
+      "document": "chem1.pdf",
+      "page_number": 25,
+      "section_title": "4-Methoxy",
+      "importance_rank": 2
+    },
+    {
+      "document": "chem1.pdf",
+      "page_number": 25,
+      "section_title": "4-Nitrobenzoic",
+      "importance_rank": 2
+    },
+    {
+      "document": "chem1.pdf",
+      "page_number": 25,
+      "section_title": "1. Formation of anhydride",
+      "importance_rank": 2
+    },
+    {
+      "document": "chem1.pdf",
+      "page_number": 25,
+      "section_title": "2. Esterification",
+      "importance_rank": 1
+    },
+    {
+      "document": "chem1.pdf",
+      "page_number": 26,
+      "section_title": "3. Reactions with PCl5, PCl3 and SOCl2",
+      "importance_rank": 1
+    },
+    {
+      "document": "chem1.pdf",
+      "page_number": 26,
+      "section_title": "4. Reaction with ammonia",
+      "importance_rank": 1
+    },
+    {
+      "document": "chem1.pdf",
+      "page_number": 27,
+      "section_title": "\u2013COOH",
+      "importance_rank": 1
+    },
+    {
+      "document": "chem1.pdf",
+      "page_number": 27,
+      "section_title": "1. Reduction",
+      "importance_rank": 1
+    },
+    {
+      "document": "chem1.pdf",
+      "page_number": 27,
+      "section_title": "2. Decarboxylation",
+      "importance_rank": 1
+    },
+    {
+      "document": "chem1.pdf",
+      "page_number": 27,
+      "section_title": "3 : 1). The reaction is known as decarboxylation.",
+      "importance_rank": 1
+    },
+    {
+      "document": "chem1.pdf",
+      "page_number": 27,
+      "section_title": "1. Halogenation",
+      "importance_rank": 1
+    },
+    {
+      "document": "chem1.pdf",
+      "page_number": 27,
+      "section_title": "8.9.4 Substitution",
+      "importance_rank": 1
+    },
+    {
+      "document": "chem1.pdf",
+      "page_number": 28,
+      "section_title": "8.10 Uses of",
+      "importance_rank": 1
+    },
+    {
+      "document": "chem1.pdf",
+      "page_number": 28,
+      "section_title": "2. Ring substitution",
+      "importance_rank": 1
+    },
+    {
+      "document": "chem1.pdf",
+      "page_number": 29,
+      "section_title": "CHO",
+      "importance_rank": 1
+    },
+    {
+      "document": "chem1.pdf",
+      "page_number": 30,
+      "section_title": "4-Methoxybenzoic acid (acid strength)",
+      "importance_rank": 2
+    },
+    {
+      "document": "chem1.pdf",
+      "page_number": 32,
+      "section_title": "3-Phenylpropanoic acid",
+      "importance_rank": 2
+    },
+    {
+      "document": "chem1.pdf",
+      "page_number": 32,
+      "section_title": "2-Methylcyclopentanecarboxylic acid.",
+      "importance_rank": 2
+    },
+    {
+      "document": "chem2.pdf",
+      "page_number": 1,
+      "section_title": "I. AMINES",
+      "importance_rank": 1
+    },
+    {
+      "document": "chem2.pdf",
+      "page_number": 1,
+      "section_title": "9.1 Structure of Amines",
+      "importance_rank": 1
+    },
+    {
+      "document": "chem2.pdf",
+      "page_number": 1,
+      "section_title": "9.1 Structure of Amines",
+      "importance_rank": 1
+    },
+    {
+      "document": "chem2.pdf",
+      "page_number": 1,
+      "section_title": "9.1 Structure of Amines",
+      "importance_rank": 1
+    },
+    {
+      "document": "chem2.pdf",
+      "page_number": 1,
+      "section_title": "9.1 Structure of Amines",
+      "importance_rank": 1
+    },
+    {
+      "document": "chem2.pdf",
+      "page_number": 1,
+      "section_title": "9.1 Structure of Amines",
+      "importance_rank": 1
+    },
+    {
+      "document": "chem2.pdf",
+      "page_number": 3,
+      "section_title": "2-Methylaniline",
+      "importance_rank": 2
+    },
+    {
+      "document": "chem2.pdf",
+      "page_number": 3,
+      "section_title": "4-Bromobenzenamine",
+      "importance_rank": 2
+    },
+    {
+      "document": "chem2.pdf",
+      "page_number": 3,
+      "section_title": "4-Bromoaniline",
+      "importance_rank": 2
+    },
+    {
+      "document": "chem2.pdf",
+      "page_number": 4,
+      "section_title": "1. Reduction of nitro compounds",
+      "importance_rank": 1
+    },
+    {
+      "document": "chem2.pdf",
+      "page_number": 4,
+      "section_title": "2. Ammonolysis of alkyl halides",
+      "importance_rank": 1
+    },
+    {
+      "document": "chem2.pdf",
+      "page_number": 4,
+      "section_title": "9.4 Preparation",
+      "importance_rank": 2
+    },
+    {
+      "document": "chem2.pdf",
+      "page_number": 5,
+      "section_title": "3. Reduction of nitriles",
+      "importance_rank": 1
+    },
+    {
+      "document": "chem2.pdf",
+      "page_number": 5,
+      "section_title": "4. Reduction of amides",
+      "importance_rank": 1
+    },
+    {
+      "document": "chem2.pdf",
+      "page_number": 6,
+      "section_title": "5. Gabriel phthalimide synthesis",
+      "importance_rank": 2
+    },
+    {
+      "document": "chem2.pdf",
+      "page_number": 6,
+      "section_title": "6. Hoffmann bromamide degradation reaction",
+      "importance_rank": 1
+    },
+    {
+      "document": "chem2.pdf",
+      "page_number": 7,
+      "section_title": "9.5 Physical",
+      "importance_rank": 2
+    },
+    {
+      "document": "chem2.pdf",
+      "page_number": 8,
+      "section_title": "1. Basic character of amines",
+      "importance_rank": 2
+    },
+    {
+      "document": "chem2.pdf",
+      "page_number": 8,
+      "section_title": "9.6 Chemical",
+      "importance_rank": 1
+    },
+    {
+      "document": "chem2.pdf",
+      "page_number": 9,
+      "section_title": "4.22. On the other hand, aromatic amines are weaker bases than",
+      "importance_rank": 2
+    },
+    {
+      "document": "chem2.pdf",
+      "page_number": 12,
+      "section_title": "2. Alkylation",
+      "importance_rank": 1
+    },
+    {
+      "document": "chem2.pdf",
+      "page_number": 12,
+      "section_title": "6, Class XII).",
+      "importance_rank": 1
+    },
+    {
+      "document": "chem2.pdf",
+      "page_number": 12,
+      "section_title": "3. Acylation",
+      "importance_rank": 1
+    },
+    {
+      "document": "chem2.pdf",
+      "page_number": 12,
+      "section_title": "C6H5NH2, C2H5NH2, (C2H5)2NH,  NH3",
+      "importance_rank": 1
+    },
+    {
+      "document": "chem2.pdf",
+      "page_number": 13,
+      "section_title": "5 + HCl",
+      "importance_rank": 2
+    },
+    {
+      "document": "chem2.pdf",
+      "page_number": 13,
+      "section_title": "C H",
+      "importance_rank": 1
+    },
+    {
+      "document": "chem2.pdf",
+      "page_number": 13,
+      "section_title": "C H",
+      "importance_rank": 1
+    },
+    {
+      "document": "chem2.pdf",
+      "page_number": 13,
+      "section_title": "4. Carbylamine reaction",
+      "importance_rank": 1
+    },
+    {
+      "document": "chem2.pdf",
+      "page_number": 13,
+      "section_title": "5. Reaction with nitrous acid",
+      "importance_rank": 1
+    },
+    {
+      "document": "chem2.pdf",
+      "page_number": 13,
+      "section_title": "6. Reaction with arylsulphonyl chloride",
+      "importance_rank": 1
+    },
+    {
+      "document": "chem2.pdf",
+      "page_number": 14,
+      "section_title": "7. Electrophilic substitution",
+      "importance_rank": 1
+    },
+    {
+      "document": "chem2.pdf",
+      "page_number": 16,
+      "section_title": "9.7 Method of",
+      "importance_rank": 2
+    },
+    {
+      "document": "chem2.pdf",
+      "page_number": 17,
+      "section_title": ", CN",
+      "importance_rank": 1
+    },
+    {
+      "document": "chem2.pdf",
+      "page_number": 17,
+      "section_title": "1. Replacement by halide or cyanide ion: The Cl",
+      "importance_rank": 1
+    },
+    {
+      "document": "chem2.pdf",
+      "page_number": 17,
+      "section_title": "2. Replacement by iodide ion: Iodine is not easily introduced into",
+      "importance_rank": 2
+    },
+    {
+      "document": "chem2.pdf",
+      "page_number": 17,
+      "section_title": "3. Replacement by fluoride ion: When arenediazonium chloride is",
+      "importance_rank": 2
+    },
+    {
+      "document": "chem2.pdf",
+      "page_number": 17,
+      "section_title": "4. Replacement by H: Certain mild reducing agents like",
+      "importance_rank": 2
+    },
+    {
+      "document": "chem2.pdf",
+      "page_number": 17,
+      "section_title": "9.9 Chemical",
+      "importance_rank": 1
+    },
+    {
+      "document": "chem2.pdf",
+      "page_number": 18,
+      "section_title": "5. Replacement by hydroxyl group: If the temperature of the",
+      "importance_rank": 1
+    },
+    {
+      "document": "chem2.pdf",
+      "page_number": 18,
+      "section_title": "6. Replacement by \u2013NO2 group: When diazonium fluoroborate is",
+      "importance_rank": 1
+    },
+    {
+      "document": "chem3.pdf",
+      "page_number": 2,
+      "section_title": "3 hybridised carbon atom of an",
+      "importance_rank": 2
+    },
+    {
+      "document": "chem3.pdf",
+      "page_number": 2,
+      "section_title": "3 hybridised carbon adjacent to the carbon-carbon double",
+      "importance_rank": 1
+    },
+    {
+      "document": "chem3.pdf",
+      "page_number": 2,
+      "section_title": "3\u2014hybridised carbon atom next to an aromatic ring. For",
+      "importance_rank": 1
+    },
+    {
+      "document": "chem3.pdf",
+      "page_number": 2,
+      "section_title": "7.1 Classification",
+      "importance_rank": 2
+    },
+    {
+      "document": "chem3.pdf",
+      "page_number": 3,
+      "section_title": "CH C",
+      "importance_rank": 1
+    },
+    {
+      "document": "chem3.pdf",
+      "page_number": 3,
+      "section_title": "CH3",
+      "importance_rank": 1
+    },
+    {
+      "document": "chem3.pdf",
+      "page_number": 3,
+      "section_title": "CH3",
+      "importance_rank": 1
+    },
+    {
+      "document": "chem3.pdf",
+      "page_number": 3,
+      "section_title": "7.1 Classify the following as primary, secondary and tertiary alcohols:",
+      "importance_rank": 1
+    },
+    {
+      "document": "chem3.pdf",
+      "page_number": 3,
+      "section_title": "7.2 Identify allylic alcohols in the above examples.",
+      "importance_rank": 1
+    },
+    {
+      "document": "chem3.pdf",
+      "page_number": 3,
+      "section_title": "7.2 Nomenclature",
+      "importance_rank": 1
+    },
+    {
+      "document": "chem3.pdf",
+      "page_number": 3,
+      "section_title": "7.2 Nomenclature",
+      "importance_rank": 1
+    },
+    {
+      "document": "chem3.pdf",
+      "page_number": 3,
+      "section_title": "7.2 Nomenclature",
+      "importance_rank": 1
+    },
+    {
+      "document": "chem3.pdf",
+      "page_number": 3,
+      "section_title": "7.2 Nomenclature",
+      "importance_rank": 1
+    },
+    {
+      "document": "chem3.pdf",
+      "page_number": 3,
+      "section_title": "7.2 Nomenclature",
+      "importance_rank": 1
+    },
+    {
+      "document": "chem3.pdf",
+      "page_number": 4,
+      "section_title": "2-Methylpropan-1-ol",
+      "importance_rank": 2
+    },
+    {
+      "document": "chem3.pdf",
+      "page_number": 4,
+      "section_title": "2-Methylpropan-2-ol",
+      "importance_rank": 2
+    },
+    {
+      "document": "chem3.pdf",
+      "page_number": 4,
+      "section_title": "CH3",
+      "importance_rank": 1
+    },
+    {
+      "document": "chem3.pdf",
+      "page_number": 4,
+      "section_title": "2-Methylcyclopentanol",
+      "importance_rank": 1
+    },
+    {
+      "document": "chem3.pdf",
+      "page_number": 5,
+      "section_title": "2-Methylphenol",
+      "importance_rank": 2
+    },
+    {
+      "document": "chem3.pdf",
+      "page_number": 5,
+      "section_title": "3-Methylphenol",
+      "importance_rank": 2
+    },
+    {
+      "document": "chem3.pdf",
+      "page_number": 5,
+      "section_title": "4-Methylphenol",
+      "importance_rank": 2
+    },
+    {
+      "document": "chem3.pdf",
+      "page_number": 5,
+      "section_title": "1-Methoxypropane",
+      "importance_rank": 2
+    },
+    {
+      "document": "chem3.pdf",
+      "page_number": 5,
+      "section_title": "1-Phenoxyheptane",
+      "importance_rank": 2
+    },
+    {
+      "document": "chem3.pdf",
+      "page_number": 5,
+      "section_title": "2-Methoxypropane",
+      "importance_rank": 2
+    },
+    {
+      "document": "chem3.pdf",
+      "page_number": 5,
+      "section_title": "3- Methylbutoxybenzene",
+      "importance_rank": 2
+    },
+    {
+      "document": "chem3.pdf",
+      "page_number": 5,
+      "section_title": "1,2-Dimethoxyethane",
+      "importance_rank": 2
+    },
+    {
+      "document": "chem3.pdf",
+      "page_number": 6,
+      "section_title": "NO2",
+      "importance_rank": 1
+    },
+    {
+      "document": "chem3.pdf",
+      "page_number": 6,
+      "section_title": "OC H",
+      "importance_rank": 1
+    },
+    {
+      "document": "chem3.pdf",
+      "page_number": 6,
+      "section_title": "7.3  Name the following compounds according to IUPAC system.",
+      "importance_rank": 2
+    },
+    {
+      "document": "chem3.pdf",
+      "page_number": 6,
+      "section_title": "3 hybridised orbital of",
+      "importance_rank": 2
+    },
+    {
+      "document": "chem3.pdf",
+      "page_number": 6,
+      "section_title": "3 hybridised orbital of oxygen. Fig. 7.1 depicts",
+      "importance_rank": 1
+    },
+    {
+      "document": "chem3.pdf",
+      "page_number": 6,
+      "section_title": "7.3 Structures of",
+      "importance_rank": 1
+    },
+    {
+      "document": "chem3.pdf",
+      "page_number": 7,
+      "section_title": "2 hybridised state of carbon to which oxygen",
+      "importance_rank": 1
+    },
+    {
+      "document": "chem3.pdf",
+      "page_number": 7,
+      "section_title": "1. From alkenes",
+      "importance_rank": 1
+    },
+    {
+      "document": "chem3.pdf",
+      "page_number": 7,
+      "section_title": "H2O + H",
+      "importance_rank": 1
+    },
+    {
+      "document": "chem3.pdf",
+      "page_number": 7,
+      "section_title": "7.4 Alcohols and",
+      "importance_rank": 2
+    },
+    {
+      "document": "chem3.pdf",
+      "page_number": 8,
+      "section_title": "2 carbon",
+      "importance_rank": 1
+    },
+    {
+      "document": "chem3.pdf",
+      "page_number": 8,
+      "section_title": "2. From carbonyl compounds",
+      "importance_rank": 1
+    },
+    {
+      "document": "chem3.pdf",
+      "page_number": 8,
+      "section_title": "RCH OH",
+      "importance_rank": 1
+    },
+    {
+      "document": "chem3.pdf",
+      "page_number": 8,
+      "section_title": "7.4.4), followed by their reduction using hydrogen in the",
+      "importance_rank": 1
+    },
+    {
+      "document": "chem3.pdf",
+      "page_number": 8,
+      "section_title": "R'OH",
+      "importance_rank": 1
+    },
+    {
+      "document": "chem3.pdf",
+      "page_number": 9,
+      "section_title": "3. From Grignard reagents",
+      "importance_rank": 1
+    },
+    {
+      "document": "chem3.pdf",
+      "page_number": 10,
+      "section_title": "1. From haloarenes",
+      "importance_rank": 2
+    },
+    {
+      "document": "chem3.pdf",
+      "page_number": 10,
+      "section_title": "2. From benzenesulphonic acid",
+      "importance_rank": 2
+    },
+    {
+      "document": "chem3.pdf",
+      "page_number": 10,
+      "section_title": "3. From diazonium salts",
+      "importance_rank": 2
+    },
+    {
+      "document": "chem3.pdf",
+      "page_number": 10,
+      "section_title": "4. From cumene",
+      "importance_rank": 1
+    },
+    {
+      "document": "chem3.pdf",
+      "page_number": 13,
+      "section_title": "+ H O",
+      "importance_rank": 1
+    },
+    {
+      "document": "chem3.pdf",
+      "page_number": 14,
+      "section_title": "2 hybridised carbon of benzene ring which acts as an",
+      "importance_rank": 1
+    },
+    {
+      "document": "chem3.pdf",
+      "page_number": 14,
+      "section_title": "2 hybridised carbon",
+      "importance_rank": 1
+    },
+    {
+      "document": "chem3.pdf",
+      "page_number": 15,
+      "section_title": "2,4, 6-trinitrophenol.",
+      "importance_rank": 1
+    },
+    {
+      "document": "chem3.pdf",
+      "page_number": 15,
+      "section_title": "2. Esterification",
+      "importance_rank": 2
+    },
+    {
+      "document": "chem3.pdf",
+      "page_number": 16,
+      "section_title": "COC",
+      "importance_rank": 1
+    },
+    {
+      "document": "chem3.pdf",
+      "page_number": 16,
+      "section_title": "1. Reaction with hydrogen halides: Alcohols react with hydrogen",
+      "importance_rank": 1
+    },
+    {
+      "document": "chem3.pdf",
+      "page_number": 16,
+      "section_title": "ROH + HX  \u00ae  R\u2013X + H2O",
+      "importance_rank": 1
+    },
+    {
+      "document": "chem3.pdf",
+      "page_number": 16,
+      "section_title": "2. Reaction with phosphorus trihalides: Alcohols are converted to",
+      "importance_rank": 1
+    },
+    {
+      "document": "chem3.pdf",
+      "page_number": 16,
+      "section_title": "3. Dehydration: Alcohols undergo dehydration (removal of a molecule",
+      "importance_rank": 2
+    },
+    {
+      "document": "chem3.pdf",
+      "page_number": 17,
+      "section_title": "4. Oxidation: Oxidation of alcohols involves the formation of a carbon-",
+      "importance_rank": 1
+    },
+    {
+      "document": "chem3.pdf",
+      "page_number": 18,
+      "section_title": "R H",
+      "importance_rank": 1
+    },
+    {
+      "document": "chem3.pdf",
+      "page_number": 18,
+      "section_title": "CHO",
+      "importance_rank": 1
+    },
+    {
+      "document": "chem3.pdf",
+      "page_number": 19,
+      "section_title": "1. Electrophilic aromatic substitution",
+      "importance_rank": 1
+    },
+    {
+      "document": "chem3.pdf",
+      "page_number": 19,
+      "section_title": "2,4,6-trinitrophenol. The product is commonly known as picric",
+      "importance_rank": 1
+    },
+    {
+      "document": "chem3.pdf",
+      "page_number": 19,
+      "section_title": "2, 4, 6 - Trinitrophenol",
+      "importance_rank": 2
+    },
+    {
+      "document": "chem3.pdf",
+      "page_number": 20,
+      "section_title": "2,4,6-tribromophenol is formed as white precipitate.",
+      "importance_rank": 1
+    },
+    {
+      "document": "chem3.pdf",
+      "page_number": 21,
+      "section_title": "3. Reimer-Tiemann reaction",
+      "importance_rank": 1
+    },
+    {
+      "document": "chem3.pdf",
+      "page_number": 21,
+      "section_title": "4. Reaction of phenol with zinc dust",
+      "importance_rank": 1
+    },
+    {
+      "document": "chem3.pdf",
+      "page_number": 21,
+      "section_title": "5. Oxidation",
+      "importance_rank": 1
+    },
+    {
+      "document": "chem3.pdf",
+      "page_number": 22,
+      "section_title": "1. Methanol",
+      "importance_rank": 2
+    },
+    {
+      "document": "chem3.pdf",
+      "page_number": 22,
+      "section_title": "2. Ethanol",
+      "importance_rank": 2
+    },
+    {
+      "document": "chem3.pdf",
+      "page_number": 22,
+      "section_title": "7.5 Some",
+      "importance_rank": 2
+    },
+    {
+      "document": "chem3.pdf",
+      "page_number": 23,
+      "section_title": "1. By dehydration of alcohols",
+      "importance_rank": 1
+    },
+    {
+      "document": "chem3.pdf",
+      "page_number": 23,
+      "section_title": "7.6 Ethers",
+      "importance_rank": 2
+    },
+    {
+      "document": "chem3.pdf",
+      "page_number": 23,
+      "section_title": "2. Williamson synthesis",
+      "importance_rank": 2
+    },
+    {
+      "document": "chem3.pdf",
+      "page_number": 23,
+      "section_title": "1849, he became",
+      "importance_rank": 2
+    },
+    {
+      "document": "chem3.pdf",
+      "page_number": 25,
+      "section_title": "1. Cleavage of C\u2013O bond in ethers",
+      "importance_rank": 1
+    },
+    {
+      "document": "chem3.pdf",
+      "page_number": 26,
+      "section_title": "CH3",
+      "importance_rank": 1
+    },
+    {
+      "document": "chem3.pdf",
+      "page_number": 26,
+      "section_title": "CH3",
+      "importance_rank": 1
+    },
+    {
+      "document": "chem3.pdf",
+      "page_number": 26,
+      "section_title": "CH3",
+      "importance_rank": 1
+    },
+    {
+      "document": "chem3.pdf",
+      "page_number": 26,
+      "section_title": "CH3",
+      "importance_rank": 1
+    },
+    {
+      "document": "chem3.pdf",
+      "page_number": 26,
+      "section_title": "2 hybridised and there",
+      "importance_rank": 1
+    },
+    {
+      "document": "chem3.pdf",
+      "page_number": 27,
+      "section_title": "2 hybridised carbon",
+      "importance_rank": 1
+    },
+    {
+      "document": "chem3.pdf",
+      "page_number": 27,
+      "section_title": "2. Electrophilic substitution",
+      "importance_rank": 2
+    },
+    {
+      "document": "chem3.pdf",
+      "page_number": 29,
+      "section_title": "3 or sp",
+      "importance_rank": 1
+    },
+    {
+      "document": "chem3.pdf",
+      "page_number": 29,
+      "section_title": "2 to",
+      "importance_rank": 1
+    },
+    {
+      "document": "chem3.pdf",
+      "page_number": 30,
+      "section_title": "7.1 Write IUPAC names of the following compounds:",
+      "importance_rank": 2
+    },
+    {
+      "document": "chem3.pdf",
+      "page_number": 30,
+      "section_title": "7.2 Write structures of the compounds whose IUPAC names are as follows:",
+      "importance_rank": 1
+    },
+    {
+      "document": "chem3.pdf",
+      "page_number": 30,
+      "section_title": "7.5 Alcohols are comparatively more soluble in water than hydrocarbons of",
+      "importance_rank": 1
+    },
+    {
+      "document": "chem3.pdf",
+      "page_number": 30,
+      "section_title": "7.6 What is meant by hydroboration-oxidation reaction? Illustrate it with an example.",
+      "importance_rank": 1
+    },
+    {
+      "document": "chem3.pdf",
+      "page_number": 30,
+      "section_title": "7.7 Give the structures and IUPAC names of monohydric phenols of molecular",
+      "importance_rank": 1
+    },
+    {
+      "document": "chem3.pdf",
+      "page_number": 30,
+      "section_title": "7.8 While separating a mixture of ortho and para nitrophenols by steam",
+      "importance_rank": 1
+    },
+    {
+      "document": "chem3.pdf",
+      "page_number": 30,
+      "section_title": "7.10 Write chemical reaction for the preparation of phenol from chlorobenzene.",
+      "importance_rank": 1
+    },
+    {
+      "document": "chem3.pdf",
+      "page_number": 30,
+      "section_title": "7.11 Write the mechanism of hydration of ethene to yield ethanol.",
+      "importance_rank": 2
+    },
+    {
+      "document": "chem3.pdf",
+      "page_number": 31,
+      "section_title": "7.13 Show how will you synthesise:",
+      "importance_rank": 1
+    },
+    {
+      "document": "chem3.pdf",
+      "page_number": 31,
+      "section_title": "7.15 Explain why is ortho nitrophenol more acidic than ortho methoxyphenol ?",
+      "importance_rank": 1
+    },
+    {
+      "document": "chem3.pdf",
+      "page_number": 31,
+      "section_title": "7.17 Give equations of the following reactions:",
+      "importance_rank": 1
+    },
+    {
+      "document": "chem3.pdf",
+      "page_number": 31,
+      "section_title": "7.18 Explain the following with an example.",
+      "importance_rank": 1
+    },
+    {
+      "document": "chem3.pdf",
+      "page_number": 31,
+      "section_title": "7.19 Write the mechanism of acid dehydration of ethanol to yield ethene.",
+      "importance_rank": 1
+    },
+    {
+      "document": "chem3.pdf",
+      "page_number": 31,
+      "section_title": "7.20 How are the following conversions carried out?",
+      "importance_rank": 1
+    },
+    {
+      "document": "chem3.pdf",
+      "page_number": 31,
+      "section_title": "7.21 Name the reagents used in the following reactions:",
+      "importance_rank": 1
+    },
+    {
+      "document": "chem3.pdf",
+      "page_number": 32,
+      "section_title": "7.23 Give IUPAC names of the following ethers:",
+      "importance_rank": 1
+    },
+    {
+      "document": "chem3.pdf",
+      "page_number": 32,
+      "section_title": "7.25 Illustrate with examples the limitations of Williamson synthesis for the",
+      "importance_rank": 1
+    },
+    {
+      "document": "chem3.pdf",
+      "page_number": 32,
+      "section_title": "7.26 How is 1-propoxypropane synthesised from propan-1-ol? Write mechanism",
+      "importance_rank": 1
+    },
+    {
+      "document": "chem3.pdf",
+      "page_number": 32,
+      "section_title": "7.27 Preparation of ethers by acid dehydration of secondary or tertiary alcohols",
+      "importance_rank": 1
+    },
+    {
+      "document": "chem3.pdf",
+      "page_number": 32,
+      "section_title": "7.28 Write the equation of the reaction of hydrogen iodide with:",
+      "importance_rank": 1
+    },
+    {
+      "document": "chem3.pdf",
+      "page_number": 32,
+      "section_title": "7.30 Write the mechanism of the reaction of HI with methoxymethane.",
+      "importance_rank": 1
+    },
+    {
+      "document": "chem3.pdf",
+      "page_number": 32,
+      "section_title": "7.31 Write equations of the following reactions:",
+      "importance_rank": 1
+    },
+    {
+      "document": "chem3.pdf",
+      "page_number": 32,
+      "section_title": "7.32 Show how would you synthesise the following alcohols from appropriate",
+      "importance_rank": 2
+    },
+    {
+      "document": "chem3.pdf",
+      "page_number": 32,
+      "section_title": "7.33 When 3-methylbutan-2-ol is treated with HBr, the following reaction takes",
+      "importance_rank": 1
+    },
+    {
+      "document": "chem3.pdf",
+      "page_number": 33,
+      "section_title": "7.1 Primary alcohols",
+      "importance_rank": 2
+    },
+    {
+      "document": "chem3.pdf",
+      "page_number": 33,
+      "section_title": "7.2 Allylic alcohols",
+      "importance_rank": 2
+    },
+    {
+      "document": "chem3.pdf",
+      "page_number": 33,
+      "section_title": "7.7  (i) 1-Methylcyclohexene",
+      "importance_rank": 2
+    }
+  ],
+  "subsection_analysis": [
+    {
+      "document": "chem1.pdf",
+      "section_title": "8.1 Nomenclature and Structure of Carbonyl Group",
+      "refined_text": "8.1 Nomenclature and Structure of Carbonyl Group Nomenclature and Structure of Carbonyl Group Nomenclature and Structure of Carbonyl Group Nomenclature and Structure of Carbonyl Group Nomenclature and Structure of Carbonyl Group They are used in many food products and pharmaceuticals to add flavours. Some of these families are manufactured for use as solvents (i.e., acetone) and for preparing mate...",
+      "page_number": 2,
+      "reason": "Matched: structure",
+      "summary_insight": "8.1 Nomenclature and Structure of Carbonyl Group Nomenclature and Structure of Carbonyl Group Nomenclature and Structure of Carbonyl Group Nomenclature and Structure of Carbonyl Group Nomenclature and Structure of Carbonyl Group They are used in many food products and pharmaceuticals to add flavours.",
+      "relevance_score": 0.17
+    },
+    {
+      "document": "chem1.pdf",
+      "section_title": "2-Methylpropanal",
+      "refined_text": "2-Methylpropanal g-Methylcyclohexanecarbaldehyde 3-Methylcyclohexanecarbaldehyde CH3CH(OCH3)CHO a-Methoxypropionaldehyde 2-Methoxypropanal CH3CH2CH2CH2CHO Valeraldehyde",
+      "page_number": 4,
+      "reason": "Accepted by pattern (fallback)",
+      "summary_insight": "2-Methylpropanal g-Methylcyclohexanecarbaldehyde 3-Methylcyclohexanecarbaldehyde CH3CH(OCH3)CHO a-Methoxypropionaldehyde 2-Methoxypropanal CH3CH2CH2CH2CHO Valeraldehyde.",
+      "relevance_score": 0.5
+    },
+    {
+      "document": "chem1.pdf",
+      "section_title": "3-Methylcyclohexanecarbaldehyde",
+      "refined_text": "3-Methylcyclohexanecarbaldehyde CH3CH(OCH3)CHO a-Methoxypropionaldehyde 2-Methoxypropanal CH3CH2CH2CH2CHO Valeraldehyde Pentanal CH2=CHCHO",
+      "page_number": 4,
+      "reason": "Accepted by pattern (fallback)",
+      "summary_insight": "3-Methylcyclohexanecarbaldehyde CH3CH(OCH3)CHO a-Methoxypropionaldehyde 2-Methoxypropanal CH3CH2CH2CH2CHO Valeraldehyde Pentanal CH2=CHCHO.",
+      "relevance_score": 0.5
+    },
+    {
+      "document": "chem1.pdf",
+      "section_title": "2-Methoxypropanal",
+      "refined_text": "2-Methoxypropanal CH3CH2CH2CH2CHO Valeraldehyde Pentanal CH2=CHCHO Acrolein Prop-2-enal Phthaldehyde",
+      "page_number": 4,
+      "reason": "Accepted by pattern (fallback)",
+      "summary_insight": "2-Methoxypropanal CH3CH2CH2CH2CHO Valeraldehyde Pentanal CH2=CHCHO Acrolein Prop-2-enal Phthaldehyde.",
+      "relevance_score": 0.5
+    },
+    {
+      "document": "chem1.pdf",
+      "section_title": "3-Bromobenzaldehyde",
+      "refined_text": "3-Bromobenzaldehyde Ketones CH3COCH2CH2CH3 Methyl n-propyl ketone Pentan-2-one (CH3)2CHCOCH(CH3)2 Diisopropyl ketone 2,4-Dimethylpentan-3-one",
+      "page_number": 4,
+      "reason": "Accepted by pattern (fallback)",
+      "summary_insight": "3-Bromobenzaldehyde Ketones CH3COCH2CH2CH3 Methyl n-propyl ketone Pentan-2-one (CH3)2CHCOCH(CH3)2 Diisopropyl ketone 2,4-Dimethylpentan-3-one.",
+      "relevance_score": 0.5
+    },
+    {
+      "document": "chem1.pdf",
+      "section_title": "2,4-Dimethylpentan-3-one",
+      "refined_text": "2,4-Dimethylpentan-3-one a-Methylcyclohexanone 2-Methylcyclohexanone (CH3)2C=CHCOCH3 Mesityl oxide 4-Methylpent-3-en-2-one Table 8.1: Common and IUPAC Names of Some Aldehydes and Ketones Structure",
+      "page_number": 4,
+      "reason": "Matched: structure",
+      "summary_insight": "2,4-Dimethylpentan-3-one a-Methylcyclohexanone 2-Methylcyclohexanone (CH3)2C=CHCOCH3 Mesityl oxide 4-Methylpent-3-en-2-one Table 8.1: Common and IUPAC Names of Some Aldehydes and Ketones Structure.",
+      "relevance_score": 0.17
+    },
+    {
+      "document": "chem1.pdf",
+      "section_title": "2-Methylcyclohexanone",
+      "refined_text": "2-Methylcyclohexanone (CH3)2C=CHCOCH3 Mesityl oxide 4-Methylpent-3-en-2-one Table 8.1: Common and IUPAC Names of Some Aldehydes and Ketones Structure Common name IUPAC name",
+      "page_number": 4,
+      "reason": "Matched: structure",
+      "summary_insight": "2-Methylcyclohexanone (CH3)2C=CHCOCH3 Mesityl oxide 4-Methylpent-3-en-2-one Table 8.1: Common and IUPAC Names of Some Aldehydes and Ketones Structure Common name IUPAC name.",
+      "relevance_score": 0.17
+    },
+    {
+      "document": "chem1.pdf",
+      "section_title": "(CH3)2C=CHCOCH3",
+      "refined_text": "(CH3)2C=CHCOCH3 Mesityl oxide 4-Methylpent-3-en-2-one Table 8.1: Common and IUPAC Names of Some Aldehydes and Ketones Structure Common name IUPAC name The common and IUPAC names of some aldehydes and ketones are",
+      "page_number": 4,
+      "reason": "Matched: structure",
+      "summary_insight": "(CH3)2C=CHCOCH3 Mesityl oxide 4-Methylpent-3-en-2-one Table 8.1: Common and IUPAC Names of Some Aldehydes and Ketones Structure Common name IUPAC name The common and IUPAC names of some aldehydes and ketones are.",
+      "relevance_score": 0.17
+    },
+    {
+      "document": "chem1.pdf",
+      "section_title": "4-Methylpent-3-en-2-one",
+      "refined_text": "4-Methylpent-3-en-2-one Table 8.1: Common and IUPAC Names of Some Aldehydes and Ketones Structure Common name IUPAC name The common and IUPAC names of some aldehydes and ketones are given in Table 8.1",
+      "page_number": 4,
+      "reason": "Matched: structure",
+      "summary_insight": "4-Methylpent-3-en-2-one Table 8.1: Common and IUPAC Names of Some Aldehydes and Ketones Structure Common name IUPAC name The common and IUPAC names of some aldehydes and ketones are given in Table 8.1.",
+      "relevance_score": 0.17
+    },
+    {
+      "document": "chem1.pdf",
+      "section_title": "2-hybridised and forms three sigma (s)",
+      "refined_text": "2-hybridised and forms three sigma (s) bonds. The fourth valence electron of carbon remains in its p-orbital and forms a p-bond with oxygen by overlap with p-orbital of an oxygen. In addition, the oxygen atom also has two non bonding electron pairs. Thus, the carbonyl carbon and the three atoms attached to it lie in the same plane and the p-electron cloud is above and below this plane. The bond an...",
+      "page_number": 5,
+      "reason": "Matched: bond",
+      "summary_insight": "2-hybridised and forms three sigma (s) bonds.",
+      "relevance_score": 0.17
+    },
+    {
+      "document": "chem1.pdf",
+      "section_title": "8.1.2 Structure of",
+      "refined_text": "8.1.2 Structure of the Carbonyl Group \u03c0 Fig.8.1 Orbital diagram for the formation of carbonyl group The carbon-oxygen double bond is polarised due to higher electronegativity of oxygen relative to carbon",
+      "page_number": 5,
+      "reason": "Matched: structure, bond",
+      "summary_insight": "8.1.2 Structure of the Carbonyl Group \u03c0 Fig.8.1 Orbital diagram for the formation of carbonyl group The carbon-oxygen double bond is polarised due to higher electronegativity of oxygen relative to carbon.",
+      "relevance_score": 0.33
+    },
+    {
+      "document": "chem1.pdf",
+      "section_title": "1. By oxidation of alcohols",
+      "refined_text": "By oxidation of alcohols Aldehydes and ketones are generally prepared by oxidation of primary and secondary alcohols, respectively (Unit 7, Class XII). By dehydrogenation of alcohols This method is suitable for volatile alcohols and is of industrial application. In this method alcohol vapours are passed over heavy metal catalysts (Ag or Cu). Primary and secondary alcohols give aldehydes and ketone...",
+      "page_number": 5,
+      "reason": "Matched: oxidation",
+      "summary_insight": "By oxidation of alcohols Aldehydes and ketones are generally prepared by oxidation of primary and secondary alcohols, respectively (Unit 7, Class XII).",
+      "relevance_score": 0.17
+    },
+    {
+      "document": "chem1.pdf",
+      "section_title": "2. By dehydrogenation of alcohols",
+      "refined_text": "By dehydrogenation of alcohols This method is suitable for volatile alcohols and is of industrial application. In this method alcohol vapours are passed over heavy metal catalysts (Ag or Cu). Primary and secondary alcohols give aldehydes and ketones, respectively (Unit 7, Class XII). From hydrocarbons (i) By ozonolysis of alkenes: As we know, ozonolysis of alkenes followed by reaction with zinc du...",
+      "page_number": 5,
+      "reason": "Matched: reaction",
+      "summary_insight": "By dehydrogenation of alcohols This method is suitable for volatile alcohols and is of industrial application.",
+      "relevance_score": 0.17
+    },
+    {
+      "document": "chem1.pdf",
+      "section_title": "3. From hydrocarbons",
+      "refined_text": "From hydrocarbons (i) By ozonolysis of alkenes: As we know, ozonolysis of alkenes followed by reaction with zinc dust and water gives aldehydes, 8.2.1 Preparation of Aldehydes and",
+      "page_number": 5,
+      "reason": "Matched: reaction",
+      "summary_insight": "From hydrocarbons (i) By ozonolysis of alkenes: As we know, ozonolysis of alkenes followed by reaction with zinc dust and water gives aldehydes, 8.2.1 Preparation of Aldehydes and.",
+      "relevance_score": 0.17
+    },
+    {
+      "document": "chem1.pdf",
+      "section_title": "8.2 Preparation of Aldehydes",
+      "refined_text": "8.2 Preparation of Aldehydes Preparation of Aldehydes Preparation of Aldehydes Preparation of Aldehydes Preparation of Aldehydes and Ketones and Ketones and Ketones",
+      "page_number": 5,
+      "reason": "Accepted by pattern (fallback)",
+      "summary_insight": "8.2 Preparation of Aldehydes Preparation of Aldehydes Preparation of Aldehydes Preparation of Aldehydes Preparation of Aldehydes and Ketones and Ketones and Ketones.",
+      "relevance_score": 0.5
+    },
+    {
+      "document": "chem1.pdf",
+      "section_title": "1. From acyl chloride (acid chloride)",
+      "refined_text": "From acyl chloride (acid chloride) Acyl chloride (acid chloride) is hydrogenated over catalyst, palladium on barium sulphate. This reaction is called Rosenmund reduction. From nitriles and esters Nitriles are reduced to corresponding imine with stannous chloride in the presence of hydrochloric acid, which on hydrolysis give corresponding aldehyde. This reaction is called Stephen reaction.",
+      "page_number": 6,
+      "reason": "Matched: reaction, reduction, step",
+      "summary_insight": "From acyl chloride (acid chloride) Acyl chloride (acid chloride) is hydrogenated over catalyst, palladium on barium sulphate.",
+      "relevance_score": 0.5
+    },
+    {
+      "document": "chem1.pdf",
+      "section_title": "2. From nitriles and esters",
+      "refined_text": "From nitriles and esters Nitriles are reduced to corresponding imine with stannous chloride in the presence of hydrochloric acid, which on hydrolysis give corresponding aldehyde. This reaction is called Stephen reaction",
+      "page_number": 6,
+      "reason": "Matched: reaction, step",
+      "summary_insight": "From nitriles and esters Nitriles are reduced to corresponding imine with stannous chloride in the presence of hydrochloric acid, which on hydrolysis give corresponding aldehyde.",
+      "relevance_score": 0.33
+    },
+    {
+      "document": "chem1.pdf",
+      "section_title": "3. From hydrocarbons",
+      "refined_text": "From hydrocarbons Aromatic aldehydes (benzaldehyde and its derivatives) are prepared from aromatic hydrocarbons by the following methods: (i) By oxidation of methylbenzene Strong oxidising agents oxidise toluene and its derivatives to benzoic acids. However, it is possible to stop the oxidation at the aldehyde stage with suitable reagents that convert the methyl group to an intermediate that is di...",
+      "page_number": 6,
+      "reason": "Matched: oxidation",
+      "summary_insight": "From hydrocarbons Aromatic aldehydes (benzaldehyde and its derivatives) are prepared from aromatic hydrocarbons by the following methods: (i) By oxidation of methylbenzene Strong oxidising agents oxidise toluene and its derivatives to benzoic acids.",
+      "relevance_score": 0.17
+    },
+    {
+      "document": "chem1.pdf",
+      "section_title": "1. From acyl chlorides",
+      "refined_text": "From acyl chlorides Treatment of acyl chlorides with dialkylcadmium, prepared by the reaction of cadmium chloride with Grignard reagent, gives ketones. 8.2.3 Preparation of Ketones Rationalised 2023-24",
+      "page_number": 7,
+      "reason": "Matched: reaction",
+      "summary_insight": "From acyl chlorides Treatment of acyl chlorides with dialkylcadmium, prepared by the reaction of cadmium chloride with Grignard reagent, gives ketones.",
+      "relevance_score": 0.17
+    },
+    {
+      "document": "chem1.pdf",
+      "section_title": "2. From nitriles",
+      "refined_text": "From nitriles Treating a nitrile with Grignard reagent followed by hydrolysis yields a ketone. Give names of the reagents to bring about the following transformations: (i) Hexan-1-ol to hexanal (ii) Cyclohexanol to cyclohexanone",
+      "page_number": 8,
+      "reason": "Accepted by pattern (fallback)",
+      "summary_insight": "From nitriles Treating a nitrile with Grignard reagent followed by hydrolysis yields a ketone.",
+      "relevance_score": 0.5
+    },
+    {
+      "document": "chem1.pdf",
+      "section_title": "1. CrO2Cl2 2. HOH",
+      "refined_text": "HOH (v) PCC (vi) O3/H2O-Zn dust Example 8.1 Example 8.1 Example 8.1 Example 8.1",
+      "page_number": 8,
+      "reason": "Matched: example",
+      "summary_insight": "HOH (v) PCC (vi) O3/H2O-Zn dust Example 8.1 Example 8.1 Example 8.1 Example 8.1.",
+      "relevance_score": 0.2
+    },
+    {
+      "document": "chem1.pdf",
+      "section_title": "8.2 Write the structures of products of the following reactions;",
+      "refined_text": "8.2 Write the structures of products of the following reactions; (i) (ii) 3. From benzene or substituted benzenes When benzene or substituted benzene is treated with acid chloride in the presence of anhydrous aluminium chloride, it affords the corresponding ketone. This reaction is known as Friedel-Crafts acylation reaction.",
+      "page_number": 8,
+      "reason": "Matched: structure",
+      "summary_insight": "8.2 Write the structures of products of the following reactions; (i) (ii) 3.",
+      "relevance_score": 0.17
+    },
+    {
+      "document": "chem1.pdf",
+      "section_title": "3. From benzene or substituted benzenes",
+      "refined_text": "From benzene or substituted benzenes When benzene or substituted benzene is treated with acid chloride in the presence of anhydrous aluminium chloride, it affords the corresponding ketone. This reaction is known as Friedel-Crafts acylation reaction",
+      "page_number": 8,
+      "reason": "Matched: reaction",
+      "summary_insight": "From benzene or substituted benzenes When benzene or substituted benzene is treated with acid chloride in the presence of anhydrous aluminium chloride, it affords the corresponding ketone.",
+      "relevance_score": 0.17
+    },
+    {
+      "document": "chem1.pdf",
+      "section_title": "8.3 Physical",
+      "refined_text": "8.3 Physical 8.3 Physical 8.3 Physical 8.3 Physical 8.3 Physical Properties Properties Properties",
+      "page_number": 9,
+      "reason": "Accepted by pattern (fallback)",
+      "summary_insight": "8.3 Physical 8.3 Physical 8.3 Physical 8.3 Physical 8.3 Physical Properties Properties Properties.",
+      "relevance_score": 0.5
+    },
+    {
+      "document": "chem1.pdf",
+      "section_title": "8.3 Physical",
+      "refined_text": "8.3 Physical 8.3 Physical 8.3 Physical 8.3 Physical Properties Properties Properties Properties",
+      "page_number": 9,
+      "reason": "Accepted by pattern (fallback)",
+      "summary_insight": "8.3 Physical 8.3 Physical 8.3 Physical 8.3 Physical Properties Properties Properties Properties.",
+      "relevance_score": 0.5
+    },
+    {
+      "document": "chem1.pdf",
+      "section_title": "8.3 Physical",
+      "refined_text": "8.3 Physical 8.3 Physical 8.3 Physical Properties Properties Properties Properties Properties",
+      "page_number": 9,
+      "reason": "Accepted by pattern (fallback)",
+      "summary_insight": "8.3 Physical 8.3 Physical 8.3 Physical Properties Properties Properties Properties Properties.",
+      "relevance_score": 0.5
+    },
+    {
+      "document": "chem1.pdf",
+      "section_title": "8.3 Physical",
+      "refined_text": "8.3 Physical 8.3 Physical Properties Properties Properties Properties Properties Arrange the following compounds in the increasing order of their",
+      "page_number": 9,
+      "reason": "Accepted by pattern (fallback)",
+      "summary_insight": "8.3 Physical 8.3 Physical Properties Properties Properties Properties Properties Arrange the following compounds in the increasing order of their.",
+      "relevance_score": 0.5
+    },
+    {
+      "document": "chem1.pdf",
+      "section_title": "8.3 Physical",
+      "refined_text": "8.3 Physical Properties Properties Properties Properties Properties Arrange the following compounds in the increasing order of their boiling points:",
+      "page_number": 9,
+      "reason": "Accepted by pattern (fallback)",
+      "summary_insight": "8.3 Physical Properties Properties Properties Properties Properties Arrange the following compounds in the increasing order of their boiling points:.",
+      "relevance_score": 0.5
+    },
+    {
+      "document": "chem1.pdf",
+      "section_title": "CH3CH2CH2CHO, CH3CH2CH2CH2OH, H5C2-O-C2H5, CH3CH2CH2CH3",
+      "refined_text": "CH3CH2CH2CHO, CH3CH2CH2CH2OH, H5C2-O-C2H5, CH3CH2CH2CH3 The molecular masses of these compounds are in the range of 72 to 74. Since only butan-1-ol molecules are associated due to extensive intermolecular hydrogen bonding, therefore, the boiling point of butan-1-ol would be the highest. Butanal is more polar than ethoxyethane. Therefore, the intermolecular dipole-dipole attraction is stronger in t...",
+      "page_number": 9,
+      "reason": "Matched: bond",
+      "summary_insight": "CH3CH2CH2CHO, CH3CH2CH2CH2OH, H5C2-O-C2H5, CH3CH2CH2CH3 The molecular masses of these compounds are in the range of 72 to 74.",
+      "relevance_score": 0.17
+    },
+    {
+      "document": "chem1.pdf",
+      "section_title": "74. Since only butan-1-ol molecules are associated due to extensive",
+      "refined_text": "Since only butan-1-ol molecules are associated due to extensive intermolecular hydrogen bonding, therefore, the boiling point of butan-1-ol would be the highest. Butanal is more polar than ethoxyethane. Therefore, the intermolecular dipole-dipole attraction is stronger in the former. n-Pentane molecules have only weak van der Waals forces. Hence increasing order of boiling points of the given comp...",
+      "page_number": 9,
+      "reason": "Matched: bond",
+      "summary_insight": "Since only butan-1-ol molecules are associated due to extensive intermolecular hydrogen bonding, therefore, the boiling point of butan-1-ol would be the highest.",
+      "relevance_score": 0.17
+    },
+    {
+      "document": "chem1.pdf",
+      "section_title": "CH3CH2CH2CH3 < H5C2-O-C2H5 < CH3CH2CH2CHO < CH3CH2CH2CH2OH",
+      "refined_text": "CH3CH2CH2CH3 < H5C2-O-C2H5 < CH3CH2CH2CHO < CH3CH2CH2CH2OH Example 8.2 Example 8.2 Example 8.2 Example 8.2 Example 8.2 Solution Solution",
+      "page_number": 9,
+      "reason": "Matched: example",
+      "summary_insight": "CH3CH2CH2CH3 < H5C2-O-C2H5 < CH3CH2CH2CHO < CH3CH2CH2CH2OH Example 8.2 Example 8.2 Example 8.2 Example 8.2 Example 8.2 Solution Solution.",
+      "relevance_score": 0.2
+    },
+    {
+      "document": "chem1.pdf",
+      "section_title": "1. Nucleophilic addition reactions",
+      "refined_text": "Nucleophilic addition reactions Contrary to electrophilic addition reactions observed in alkenes, the aldehydes and ketones undergo nucleophilic addition reactions. (i) Mechanism of nucleophilic addition reactions A nucleophile attacks the electrophilic carbon atom of the polar carbonyl group from a direction approximately perpendicular to the plane of sp 2 hybridised orbitals of carbonyl carbon (...",
+      "page_number": 10,
+      "reason": "Matched: reaction",
+      "summary_insight": "Nucleophilic addition reactions Contrary to electrophilic addition reactions observed in alkenes, the aldehydes and ketones undergo nucleophilic addition reactions.",
+      "relevance_score": 0.17
+    },
+    {
+      "document": "chem1.pdf",
+      "section_title": "2 hybridised orbitals of carbonyl carbon (Fig.",
+      "refined_text": "2 hybridised orbitals of carbonyl carbon (Fig. The hybridisation of carbon changes from sp 2 to sp 3 in this process, and a tetrahedral alkoxide intermediate is produced. This intermediate captures a proton from the reaction medium to give the electrically neutral",
+      "page_number": 10,
+      "reason": "Matched: reaction, process",
+      "summary_insight": "2 hybridised orbitals of carbonyl carbon (Fig.",
+      "relevance_score": 0.33
+    },
+    {
+      "document": "chem1.pdf",
+      "section_title": "8.2). The hybridisation of carbon changes from sp",
+      "refined_text": "The hybridisation of carbon changes from sp 2 to sp 3 in this process, and a tetrahedral alkoxide intermediate is produced. This intermediate captures a proton from the reaction medium to give the electrically neutral product",
+      "page_number": 10,
+      "reason": "Matched: reaction, process",
+      "summary_insight": "The hybridisation of carbon changes from sp 2 to sp 3 in this process, and a tetrahedral alkoxide intermediate is produced.",
+      "relevance_score": 0.33
+    },
+    {
+      "document": "chem1.pdf",
+      "section_title": "2 to sp",
+      "refined_text": "2 to sp 3 in this process, and a tetrahedral alkoxide intermediate is produced. This intermediate captures a proton from the reaction medium to give the electrically neutral product. The net result is addition of Nu",
+      "page_number": 10,
+      "reason": "Matched: reaction, process",
+      "summary_insight": "2 to sp 3 in this process, and a tetrahedral alkoxide intermediate is produced.",
+      "relevance_score": 0.33
+    },
+    {
+      "document": "chem1.pdf",
+      "section_title": "3 in",
+      "refined_text": "3 in this process, and a tetrahedral alkoxide intermediate is produced. This intermediate captures a proton from the reaction medium to give the electrically neutral product. The net result is addition of Nu \u2013 and H",
+      "page_number": 10,
+      "reason": "Matched: reaction, process",
+      "summary_insight": "3 in this process, and a tetrahedral alkoxide intermediate is produced.",
+      "relevance_score": 0.33
+    },
+    {
+      "document": "chem1.pdf",
+      "section_title": "CH3CHO, CH3CH2OH, CH3OCH3, CH3CH2CH3",
+      "refined_text": "CH3CHO, CH3CH2OH, CH3OCH3, CH3CH2CH3 Fig.8.2: Nucleophilic attack on carbonyl carbon Would you expect benzaldehyde to be more reactive or less reactive in nucleophilic addition reactions than propanal? Explain your answer. The carbon atom of the carbonyl group of benzaldehyde is less electrophilic than carbon atom of the carbonyl group present in propanal. The polarity of the carbonyl group is red...",
+      "page_number": 10,
+      "reason": "Matched: reaction",
+      "summary_insight": "CH3CHO, CH3CH2OH, CH3OCH3, CH3CH2CH3 Fig.8.2: Nucleophilic attack on carbonyl carbon Would you expect benzaldehyde to be more reactive or less reactive in nucleophilic addition reactions than propanal? Explain your answer.",
+      "relevance_score": 0.17
+    },
+    {
+      "document": "chem1.pdf",
+      "section_title": "8.4 Chemical",
+      "refined_text": "8.4 Chemical 8.4 Chemical 8.4 Chemical 8.4 Chemical 8.4 Chemical Reactions Reactions Reactions",
+      "page_number": 10,
+      "reason": "Matched: reaction",
+      "summary_insight": "8.4 Chemical 8.4 Chemical 8.4 Chemical 8.4 Chemical 8.4 Chemical Reactions Reactions Reactions.",
+      "relevance_score": 0.17
+    },
+    {
+      "document": "chem1.pdf",
+      "section_title": "8.4 Chemical",
+      "refined_text": "8.4 Chemical 8.4 Chemical 8.4 Chemical 8.4 Chemical Reactions Reactions Reactions Reactions",
+      "page_number": 10,
+      "reason": "Matched: reaction",
+      "summary_insight": "8.4 Chemical 8.4 Chemical 8.4 Chemical 8.4 Chemical Reactions Reactions Reactions Reactions.",
+      "relevance_score": 0.17
+    },
+    {
+      "document": "chem1.pdf",
+      "section_title": "8.4 Chemical",
+      "refined_text": "8.4 Chemical 8.4 Chemical 8.4 Chemical Reactions Reactions Reactions Reactions Reactions",
+      "page_number": 10,
+      "reason": "Matched: reaction",
+      "summary_insight": "8.4 Chemical 8.4 Chemical 8.4 Chemical Reactions Reactions Reactions Reactions Reactions.",
+      "relevance_score": 0.17
+    },
+    {
+      "document": "chem1.pdf",
+      "section_title": "8.4 Chemical",
+      "refined_text": "8.4 Chemical 8.4 Chemical Reactions Reactions Reactions Reactions Reactions Rationalised 2023-24",
+      "page_number": 10,
+      "reason": "Matched: reaction",
+      "summary_insight": "8.4 Chemical 8.4 Chemical Reactions Reactions Reactions Reactions Reactions Rationalised 2023-24.",
+      "relevance_score": 0.17
+    },
+    {
+      "document": "chem1.pdf",
+      "section_title": "8.4 Chemical",
+      "refined_text": "8.4 Chemical Reactions Reactions Reactions Reactions Reactions Rationalised 2023-24",
+      "page_number": 10,
+      "reason": "Matched: reaction",
+      "summary_insight": "8.4 Chemical Reactions Reactions Reactions Reactions Reactions Rationalised 2023-24.",
+      "relevance_score": 0.17
+    },
+    {
+      "document": "chem1.pdf",
+      "section_title": "2,4-Dinitrophenyl-",
+      "refined_text": "2,4-Dinitrophenyl- 2,4 Dinitrophenyl- Semicarbazide Semicarbazone 2. Reduction (i) Reduction to alcohols: Aldehydes and ketones are reduced to primary and secondary alcohols respectively by sodium borohydride (NaBH4) or lithium aluminium hydride (LiAlH4) as",
+      "page_number": 12,
+      "reason": "Matched: reduction",
+      "summary_insight": "2,4-Dinitrophenyl- 2,4 Dinitrophenyl- Semicarbazide Semicarbazone 2.",
+      "relevance_score": 0.17
+    },
+    {
+      "document": "chem1.pdf",
+      "section_title": "2,4 Dinitrophenyl-",
+      "refined_text": "Reduction (i) Reduction to alcohols: Aldehydes and ketones are reduced to primary and secondary alcohols respectively by sodium borohydride (NaBH4) or lithium aluminium hydride (LiAlH4) as well as by catalytic hydrogenation (Unit 7, Class XII).",
+      "page_number": 12,
+      "reason": "Matched: reduction",
+      "summary_insight": "Reduction (i) Reduction to alcohols: Aldehydes and ketones are reduced to primary and secondary alcohols respectively by sodium borohydride (NaBH4) or lithium aluminium hydride (LiAlH4) as well as by catalytic hydrogenation (Unit 7, Class XII).",
+      "relevance_score": 0.17
+    },
+    {
+      "document": "chem1.pdf",
+      "section_title": "2. Reduction",
+      "refined_text": "Reduction (i) Reduction to alcohols: Aldehydes and ketones are reduced to primary and secondary alcohols respectively by sodium borohydride (NaBH4) or lithium aluminium hydride (LiAlH4) as well as by catalytic hydrogenation (Unit 7, Class XII). (ii) Reduction to hydrocarbons: The carbonyl group of aldehydes and ketones is reduced to CH2 group on treatment with zinc- amalgam and concentrated hydroc...",
+      "page_number": 12,
+      "reason": "Matched: reduction",
+      "summary_insight": "Reduction (i) Reduction to alcohols: Aldehydes and ketones are reduced to primary and secondary alcohols respectively by sodium borohydride (NaBH4) or lithium aluminium hydride (LiAlH4) as well as by catalytic hydrogenation (Unit 7, Class XII).",
+      "relevance_score": 0.17
+    },
+    {
+      "document": "chem1.pdf",
+      "section_title": "3. Oxidation",
+      "refined_text": "Oxidation Aldehydes differ from ketones in their oxidation reactions. Aldehydes are easily oxidised to carboxylic acids on treatment with common oxidising agents like nitric acid, potassium permanganate, potassium dichromate, etc. Even mild oxidising agents, mainly Tollens\u2019 reagent and Fehlings\u2019 reagent also oxidise aldehydes. Ketones are generally oxidised under vigorous conditions, i.e., strong ...",
+      "page_number": 13,
+      "reason": "Matched: reaction, oxidation",
+      "summary_insight": "Oxidation Aldehydes differ from ketones in their oxidation reactions.",
+      "relevance_score": 0.33
+    },
+    {
+      "document": "chem1.pdf",
+      "section_title": "4. Reactions due to a-hydrogen",
+      "refined_text": "Reactions due to a-hydrogen Acidity of a-hydrogens of aldehydes and ketones: The aldehydes and ketones undergo a number of reactions due to the acidic nature of a-hydrogen. The acidity of a-hydrogen atoms of carbonyl compounds is due to the strong electron withdrawing effect of the carbonyl group and resonance stabilisation of the conjugate base. (i) Aldol condensation: Aldehydes and ketones havin...",
+      "page_number": 15,
+      "reason": "Matched: reaction",
+      "summary_insight": "Reactions due to a-hydrogen Acidity of a-hydrogens of aldehydes and ketones: The aldehydes and ketones undergo a number of reactions due to the acidic nature of a-hydrogen.",
+      "relevance_score": 0.17
+    },
+    {
+      "document": "chem1.pdf",
+      "section_title": "5. Other reactions",
+      "refined_text": "Other reactions (i) Cannizzaro reaction: Aldehydes which do not have an a-hydrogen atom, undergo self oxidation and reduction (disproportionation) reaction on heating with concentrated alkali. In this reaction, one molecule of the aldehyde is reduced to alcohol while another is oxidised to carboxylic acid salt",
+      "page_number": 16,
+      "reason": "Matched: reaction, oxidation, reduction",
+      "summary_insight": "Other reactions (i) Cannizzaro reaction: Aldehydes which do not have an a-hydrogen atom, undergo self oxidation and reduction (disproportionation) reaction on heating with concentrated alkali.",
+      "relevance_score": 0.5
+    },
+    {
+      "document": "chem1.pdf",
+      "section_title": "8.5 Uses of",
+      "refined_text": "8.5 Uses of Uses of Uses of Uses of Uses of Aldehydes Aldehydes Aldehydes",
+      "page_number": 17,
+      "reason": "Matched: uses",
+      "summary_insight": "8.5 Uses of Uses of Uses of Uses of Uses of Aldehydes Aldehydes Aldehydes.",
+      "relevance_score": 0.2
+    },
+    {
+      "document": "chem1.pdf",
+      "section_title": "2-Methylpropanoic acid",
+      "refined_text": "2-Methylpropanoic acid HOOC-COOH Oxalic acid Ethanedioic acid HOOC -CH2-COOH Malonic acid Propanedioic acid HOOC -(CH2)2-COOH",
+      "page_number": 18,
+      "reason": "Accepted by pattern (fallback)",
+      "summary_insight": "2-Methylpropanoic acid HOOC-COOH Oxalic acid Ethanedioic acid HOOC -CH2-COOH Malonic acid Propanedioic acid HOOC -(CH2)2-COOH.",
+      "relevance_score": 0.5
+    },
+    {
+      "document": "chem1.pdf",
+      "section_title": "2-Phenylethanoic acid",
+      "refined_text": "2-Phenylethanoic acid Phthalic acid Benzene-1, 2-dicarboxylic acid In carboxylic acids, the bonds to the carboxyl carbon lie in one plane and are separated by about 120\u00b0. The carboxylic carbon is less electrophilic than carbonyl carbon because of the possible resonance structure shown below:",
+      "page_number": 19,
+      "reason": "Matched: structure, bond",
+      "summary_insight": "2-Phenylethanoic acid Phthalic acid Benzene-1, 2-dicarboxylic acid In carboxylic acids, the bonds to the carboxyl carbon lie in one plane and are separated by about 120\u00b0.",
+      "relevance_score": 0.33
+    },
+    {
+      "document": "chem1.pdf",
+      "section_title": "1. From primary alcohols and aldehydes",
+      "refined_text": "From primary alcohols and aldehydes Primary alcohols are readily oxidised to carboxylic acids with common oxidising agents such as potassium permanganate (KMnO4) in neutral, acidic or alkaline media or by potassium dichromate (K2Cr2O7) and chromium trioxide (CrO3) in acidic media (Jones reagent)",
+      "page_number": 19,
+      "reason": "Accepted by pattern (fallback)",
+      "summary_insight": "From primary alcohols and aldehydes Primary alcohols are readily oxidised to carboxylic acids with common oxidising agents such as potassium permanganate (KMnO4) in neutral, acidic or alkaline media or by potassium dichromate (K2Cr2O7) and chromium trioxide (CrO3) in acidic media (Jones reagent).",
+      "relevance_score": 0.5
+    },
+    {
+      "document": "chem1.pdf",
+      "section_title": "8.7 Methods of",
+      "refined_text": "8.7 Methods of Methods of Methods of Methods of Methods of Preparation Preparation Preparation",
+      "page_number": 19,
+      "reason": "Accepted by pattern (fallback)",
+      "summary_insight": "8.7 Methods of Methods of Methods of Methods of Methods of Preparation Preparation Preparation.",
+      "relevance_score": 0.5
+    },
+    {
+      "document": "chem1.pdf",
+      "section_title": "2. From alkylbenzenes",
+      "refined_text": "From alkylbenzenes Aromatic carboxylic acids can be prepared by vigorous oxidation of alkyl benzenes with chromic acid or acidic or alkaline potassium permanganate. The entire side chain is oxidised to the carboxyl group irrespective of length of the side chain. Primary and secondary alkyl groups are oxidised in this manner while tertiary group is not affected. Suitably substituted alkenes are als...",
+      "page_number": 20,
+      "reason": "Matched: oxidation",
+      "summary_insight": "From alkylbenzenes Aromatic carboxylic acids can be prepared by vigorous oxidation of alkyl benzenes with chromic acid or acidic or alkaline potassium permanganate.",
+      "relevance_score": 0.17
+    },
+    {
+      "document": "chem1.pdf",
+      "section_title": "3. From nitriles and amides",
+      "refined_text": "From nitriles and amides Nitriles are hydrolysed to amides and then to acids in the presence of H + or OH \uf02d as catalyst. Mild reaction conditions are used to stop the reaction at the amide stage",
+      "page_number": 20,
+      "reason": "Matched: reaction",
+      "summary_insight": "From nitriles and amides Nitriles are hydrolysed to amides and then to acids in the presence of H + or OH \uf02d as catalyst.",
+      "relevance_score": 0.17
+    },
+    {
+      "document": "chem1.pdf",
+      "section_title": "4. From Grignard reagents",
+      "refined_text": "From Grignard reagents Grignard reagents react with carbon dioxide (dry ice) to form salts of carboxylic acids which in turn give corresponding carboxylic acids after acidification with mineral acid. As we know, the Grignard reagents and nitriles can be prepared from alkyl halides (refer Unit 6, Class XII)",
+      "page_number": 20,
+      "reason": "Accepted by pattern (fallback)",
+      "summary_insight": "From Grignard reagents Grignard reagents react with carbon dioxide (dry ice) to form salts of carboxylic acids which in turn give corresponding carboxylic acids after acidification with mineral acid.",
+      "relevance_score": 0.5
+    },
+    {
+      "document": "chem1.pdf",
+      "section_title": "5. From acyl halides and anhydrides",
+      "refined_text": "From acyl halides and anhydrides Acid chlorides when hydrolysed with water give carboxylic acids or more readily hydrolysed with aqueous base to give carboxylate ions which on acidification provide corresponding carboxylic acids. Anhydrides on the other hand are hydrolysed to corresponding acid(s) with water. From esters Acidic hydrolysis of esters gives directly carboxylic acids while basic hydro...",
+      "page_number": 21,
+      "reason": "Accepted by pattern (fallback)",
+      "summary_insight": "From acyl halides and anhydrides Acid chlorides when hydrolysed with water give carboxylic acids or more readily hydrolysed with aqueous base to give carboxylate ions which on acidification provide corresponding carboxylic acids.",
+      "relevance_score": 0.5
+    },
+    {
+      "document": "chem1.pdf",
+      "section_title": "6. From esters",
+      "refined_text": "From esters Acidic hydrolysis of esters gives directly carboxylic acids while basic hydrolysis gives carboxylates, which on acidification give corresponding carboxylic acids. Example 8.5 Example 8.5 Example 8.5 Example 8.5",
+      "page_number": 21,
+      "reason": "Matched: example",
+      "summary_insight": "From esters Acidic hydrolysis of esters gives directly carboxylic acids while basic hydrolysis gives carboxylates, which on acidification give corresponding carboxylic acids.",
+      "relevance_score": 0.2
+    },
+    {
+      "document": "chem1.pdf",
+      "section_title": "8.8 Physical",
+      "refined_text": "8.8 Physical Physical Physical Physical Physical Properties Properties Properties",
+      "page_number": 23,
+      "reason": "Accepted by pattern (fallback)",
+      "summary_insight": "8.8 Physical Physical Physical Physical Physical Properties Properties Properties.",
+      "relevance_score": 0.5
+    },
+    {
+      "document": "chem1.pdf",
+      "section_title": "8.9 Chemical Reactions",
+      "refined_text": "8.9 Chemical Reactions Chemical Reactions Chemical Reactions Chemical Reactions Chemical Reactions In vapour state or in aprotic solvent Hydrogen bonding of",
+      "page_number": 23,
+      "reason": "Matched: bond",
+      "summary_insight": "8.9 Chemical Reactions Chemical Reactions Chemical Reactions Chemical Reactions Chemical Reactions In vapour state or in aprotic solvent Hydrogen bonding of.",
+      "relevance_score": 0.17
+    },
+    {
+      "document": "chem1.pdf",
+      "section_title": "0.23, 4.19 and 4.76, respectively.",
+      "refined_text": "Smaller the pKa, the stronger the acid ( the better it is as a proton donor). Strong acids have pKa values < 1, the acids with pKa values between 1 and 5 are considered to be moderately strong acids, weak acids have pKa values between 5 and 15, and extremely weak acids have pKa values >15. Carboxylic acids are weaker than mineral acids, but they are stronger acids than alcohols and many simple phe...",
+      "page_number": 24,
+      "reason": "Accepted by pattern (fallback)",
+      "summary_insight": "Smaller the pKa, the stronger the acid ( the better it is as a proton donor).",
+      "relevance_score": 0.5
+    },
+    {
+      "document": "chem1.pdf",
+      "section_title": "2 hybridised carbon",
+      "refined_text": "2 hybridised carbon to which carboxyl carbon is attached. The presence of electron withdrawing group on the phenyl of aromatic carboxylic acid increases their acidity while electron donating groups decrease their acidity",
+      "page_number": 25,
+      "reason": "Accepted by pattern (fallback)",
+      "summary_insight": "2 hybridised carbon to which carboxyl carbon is attached.",
+      "relevance_score": 0.5
+    },
+    {
+      "document": "chem1.pdf",
+      "section_title": "4-Methoxy",
+      "refined_text": "4-Methoxy benzoic acid (p = 4.46) Ka Benzoic acid (p = 4.19)",
+      "page_number": 25,
+      "reason": "Accepted by pattern (fallback)",
+      "summary_insight": "4-Methoxy benzoic acid (p = 4.46) Ka Benzoic acid (p = 4.19).",
+      "relevance_score": 0.5
+    },
+    {
+      "document": "chem1.pdf",
+      "section_title": "4-Nitrobenzoic",
+      "refined_text": "4-Nitrobenzoic acid (p = 3.41) Ka 1. Formation of anhydride Carboxylic acids on heating with mineral acids such as H2SO4 or with P2O5 give corresponding anhydride.",
+      "page_number": 25,
+      "reason": "Accepted by pattern (fallback)",
+      "summary_insight": "4-Nitrobenzoic acid (p = 3.41) Ka 1.",
+      "relevance_score": 0.5
+    },
+    {
+      "document": "chem1.pdf",
+      "section_title": "1. Formation of anhydride",
+      "refined_text": "Formation of anhydride Carboxylic acids on heating with mineral acids such as H2SO4 or with P2O5 give corresponding anhydride. Esterification Carboxylic acids are esterified with alcohols or phenols in the presence of a mineral acid such as concentrated H2SO4 or HCl gas as a catalyst",
+      "page_number": 25,
+      "reason": "Accepted by pattern (fallback)",
+      "summary_insight": "Formation of anhydride Carboxylic acids on heating with mineral acids such as H2SO4 or with P2O5 give corresponding anhydride.",
+      "relevance_score": 0.5
+    },
+    {
+      "document": "chem1.pdf",
+      "section_title": "2. Esterification",
+      "refined_text": "Esterification Carboxylic acids are esterified with alcohols or phenols in the presence of a mineral acid such as concentrated H2SO4 or HCl gas as a catalyst. 8.9.2 Reactions Involving Cleavage of C\u2013OH Bond",
+      "page_number": 25,
+      "reason": "Matched: bond",
+      "summary_insight": "Esterification Carboxylic acids are esterified with alcohols or phenols in the presence of a mineral acid such as concentrated H2SO4 or HCl gas as a catalyst.",
+      "relevance_score": 0.17
+    },
+    {
+      "document": "chem1.pdf",
+      "section_title": "3. Reactions with PCl5, PCl3 and SOCl2",
+      "refined_text": "Reactions with PCl5, PCl3 and SOCl2 The hydroxyl group of carboxylic acids, behaves like that of alcohols and is easily replaced by chlorine atom on treating with PCl5, PCl3 or SOCl2. Thionyl chloride (SOCl2) is preferred because the other two products are gaseous and escape the reaction mixture making the purification of the products easier. Reaction with ammonia Carboxylic acids react with ammon...",
+      "page_number": 26,
+      "reason": "Matched: reaction",
+      "summary_insight": "Reactions with PCl5, PCl3 and SOCl2 The hydroxyl group of carboxylic acids, behaves like that of alcohols and is easily replaced by chlorine atom on treating with PCl5, PCl3 or SOCl2.",
+      "relevance_score": 0.17
+    },
+    {
+      "document": "chem1.pdf",
+      "section_title": "4. Reaction with ammonia",
+      "refined_text": "Reaction with ammonia Carboxylic acids react with ammonia to give ammonium salt which on further heating at high temperature give amides",
+      "page_number": 26,
+      "reason": "Matched: reaction",
+      "summary_insight": "Reaction with ammonia Carboxylic acids react with ammonia to give ammonium salt which on further heating at high temperature give amides.",
+      "relevance_score": 0.17
+    },
+    {
+      "document": "chem1.pdf",
+      "section_title": "\u2013COOH",
+      "refined_text": "Reduction Carboxylic acids are reduced to primary alcohols by lithium aluminium hydride or better with diborane. Diborane does not easily reduce functional groups such as ester, nitro, halo, etc. Sodium borohydride does not reduce the carboxyl group",
+      "page_number": 27,
+      "reason": "Matched: reduction",
+      "summary_insight": "Reduction Carboxylic acids are reduced to primary alcohols by lithium aluminium hydride or better with diborane.",
+      "relevance_score": 0.17
+    },
+    {
+      "document": "chem1.pdf",
+      "section_title": "1. Reduction",
+      "refined_text": "Reduction Carboxylic acids are reduced to primary alcohols by lithium aluminium hydride or better with diborane. Diborane does not easily reduce functional groups such as ester, nitro, halo, etc. Sodium borohydride does not reduce the carboxyl group. Decarboxylation Carboxylic acids lose carbon dioxide to form hydrocarbons when their sodium salts are heated with sodalime (NaOH and CaO in the ratio...",
+      "page_number": 27,
+      "reason": "Matched: reduction",
+      "summary_insight": "Reduction Carboxylic acids are reduced to primary alcohols by lithium aluminium hydride or better with diborane.",
+      "relevance_score": 0.17
+    },
+    {
+      "document": "chem1.pdf",
+      "section_title": "2. Decarboxylation",
+      "refined_text": "Decarboxylation Carboxylic acids lose carbon dioxide to form hydrocarbons when their sodium salts are heated with sodalime (NaOH and CaO in the ratio of 3 : 1). The reaction is known as decarboxylation. Alkali metal salts of carboxylic acids also undergo decarboxylation on electrolysis of their aqueous solutions and form hydrocarbons having twice the number of carbon atoms present in the alkyl gro...",
+      "page_number": 27,
+      "reason": "Matched: reaction",
+      "summary_insight": "Decarboxylation Carboxylic acids lose carbon dioxide to form hydrocarbons when their sodium salts are heated with sodalime (NaOH and CaO in the ratio of 3 : 1).",
+      "relevance_score": 0.17
+    },
+    {
+      "document": "chem1.pdf",
+      "section_title": "3 : 1). The reaction is known as decarboxylation.",
+      "refined_text": "The reaction is known as decarboxylation. Alkali metal salts of carboxylic acids also undergo decarboxylation on electrolysis of their aqueous solutions and form hydrocarbons having twice the number of carbon atoms present in the alkyl group of the acid. The reaction is known as Kolbe electrolysis (Unit 9, Class XI). Halogenation Carboxylic acids having an a-hydrogen are halogenated at the a-posit...",
+      "page_number": 27,
+      "reason": "Matched: reaction",
+      "summary_insight": "The reaction is known as decarboxylation.",
+      "relevance_score": 0.17
+    },
+    {
+      "document": "chem1.pdf",
+      "section_title": "1. Halogenation",
+      "refined_text": "Halogenation Carboxylic acids having an a-hydrogen are halogenated at the a-position on treatment with chlorine or bromine in the presence of small amount of red phosphorus to give a-halocarboxylic acids. The reaction is known as Hell-Volhard-Zelinsky reaction. 8.9.4 Substitution Reactions in the Hydrocarbon Part",
+      "page_number": 27,
+      "reason": "Matched: reaction",
+      "summary_insight": "Halogenation Carboxylic acids having an a-hydrogen are halogenated at the a-position on treatment with chlorine or bromine in the presence of small amount of red phosphorus to give a-halocarboxylic acids.",
+      "relevance_score": 0.17
+    },
+    {
+      "document": "chem1.pdf",
+      "section_title": "8.9.4 Substitution",
+      "refined_text": "8.9.4 Substitution Reactions in the Hydrocarbon Part Rationalised 2023-24",
+      "page_number": 27,
+      "reason": "Matched: reaction",
+      "summary_insight": "8.9.4 Substitution Reactions in the Hydrocarbon Part Rationalised 2023-24.",
+      "relevance_score": 0.17
+    },
+    {
+      "document": "chem1.pdf",
+      "section_title": "8.10 Uses of",
+      "refined_text": "8.10 Uses of Uses of Uses of Uses of Uses of Carboxylic Carboxylic Carboxylic",
+      "page_number": 28,
+      "reason": "Matched: uses",
+      "summary_insight": "8.10 Uses of Uses of Uses of Uses of Uses of Carboxylic Carboxylic Carboxylic.",
+      "relevance_score": 0.2
+    },
+    {
+      "document": "chem1.pdf",
+      "section_title": "2. Ring substitution",
+      "refined_text": "Ring substitution Aromatic carboxylic acids undergo electrophilic substitution reactions in which the carboxyl group acts as a deactivating and meta-directing group. They however, do not undergo Friedel-Crafts reaction (because the carboxyl group is deactivating and the catalyst aluminium chloride (Lewis acid) gets bonded to the carboxyl group)",
+      "page_number": 28,
+      "reason": "Matched: bond",
+      "summary_insight": "Ring substitution Aromatic carboxylic acids undergo electrophilic substitution reactions in which the carboxyl group acts as a deactivating and meta-directing group.",
+      "relevance_score": 0.17
+    },
+    {
+      "document": "chem1.pdf",
+      "section_title": "CHO",
+      "refined_text": "CHO (vi) PhCOPh 8.5 Draw structures of the following derivatives. (i) The 2,4-dinitrophenylhydrazone of benzaldehyde (ii) Cyclopropanone oxime (iii) Acetaldehydedimethylacetal (iv) The semicarbazone of cyclobutanone",
+      "page_number": 29,
+      "reason": "Matched: structure",
+      "summary_insight": "CHO (vi) PhCOPh 8.5 Draw structures of the following derivatives.",
+      "relevance_score": 0.17
+    },
+    {
+      "document": "chem1.pdf",
+      "section_title": "4-Methoxybenzoic acid (acid strength)",
+      "refined_text": "4-Methoxybenzoic acid (acid strength) 8.13 Give simple chemical tests to distinguish between the following pairs of compounds. (i) Propanal and Propanone (ii) Acetophenone and Benzophenone (iii) Phenol and Benzoic acid (iv) Benzoic acid and Ethyl benzoate (v) Pentan-2-one and Pentan-3-one (vi) Benzaldehyde and Acetophenone",
+      "page_number": 30,
+      "reason": "Accepted by pattern (fallback)",
+      "summary_insight": "4-Methoxybenzoic acid (acid strength) 8.13 Give simple chemical tests to distinguish between the following pairs of compounds.",
+      "relevance_score": 0.5
+    },
+    {
+      "document": "chem1.pdf",
+      "section_title": "3-Phenylpropanoic acid",
+      "refined_text": "3-Phenylpropanoic acid (ii) 3-Methylbut-2-enoic acid (iii) 2-Methylcyclopentanecarboxylic acid. (iv) 2,4,6-Trinitrobenzoic acid 8.7 8.8 Rationalised 2023-24",
+      "page_number": 32,
+      "reason": "Accepted by pattern (fallback)",
+      "summary_insight": "3-Phenylpropanoic acid (ii) 3-Methylbut-2-enoic acid (iii) 2-Methylcyclopentanecarboxylic acid.",
+      "relevance_score": 0.5
+    },
+    {
+      "document": "chem1.pdf",
+      "section_title": "2-Methylcyclopentanecarboxylic acid.",
+      "refined_text": "(iv) 2,4,6-Trinitrobenzoic acid 8.7 8.8 Rationalised 2023-24",
+      "page_number": 32,
+      "reason": "Accepted by pattern (fallback)",
+      "summary_insight": "(iv) 2,4,6-Trinitrobenzoic acid 8.7 8.8 Rationalised 2023-24.",
+      "relevance_score": 0.5
+    },
+    {
+      "document": "chem2.pdf",
+      "section_title": "I. AMINES",
+      "refined_text": "AMINES Amines can be considered as derivatives of ammonia, obtained by replacement of one, two or all the three hydrogen atoms by alkyl and/or aryl groups. For example: Like ammonia, nitrogen atom of amines is trivalent and carries an unshared pair of electrons. Nitrogen orbitals in amines are therefore, sp3 hybridised and the geometry",
+      "page_number": 1,
+      "reason": "Matched: example",
+      "summary_insight": "AMINES Amines can be considered as derivatives of ammonia, obtained by replacement of one, two or all the three hydrogen atoms by alkyl and/or aryl groups.",
+      "relevance_score": 0.2
+    },
+    {
+      "document": "chem2.pdf",
+      "section_title": "9.1 Structure of Amines",
+      "refined_text": "9.1 Structure of Amines 9.1 Structure of Amines 9.1 Structure of Amines 9.1 Structure of Amines 9.1 Structure of Amines Rationalised 2023-24",
+      "page_number": 1,
+      "reason": "Matched: structure",
+      "summary_insight": "9.1 Structure of Amines 9.1 Structure of Amines 9.1 Structure of Amines 9.1 Structure of Amines 9.1 Structure of Amines Rationalised 2023-24.",
+      "relevance_score": 0.17
+    },
+    {
+      "document": "chem2.pdf",
+      "section_title": "9.1 Structure of Amines",
+      "refined_text": "9.1 Structure of Amines 9.1 Structure of Amines 9.1 Structure of Amines 9.1 Structure of Amines Rationalised 2023-24",
+      "page_number": 1,
+      "reason": "Matched: structure",
+      "summary_insight": "9.1 Structure of Amines 9.1 Structure of Amines 9.1 Structure of Amines 9.1 Structure of Amines Rationalised 2023-24.",
+      "relevance_score": 0.17
+    },
+    {
+      "document": "chem2.pdf",
+      "section_title": "9.1 Structure of Amines",
+      "refined_text": "9.1 Structure of Amines 9.1 Structure of Amines 9.1 Structure of Amines Rationalised 2023-24",
+      "page_number": 1,
+      "reason": "Matched: structure",
+      "summary_insight": "9.1 Structure of Amines 9.1 Structure of Amines 9.1 Structure of Amines Rationalised 2023-24.",
+      "relevance_score": 0.17
+    },
+    {
+      "document": "chem2.pdf",
+      "section_title": "9.1 Structure of Amines",
+      "refined_text": "9.1 Structure of Amines 9.1 Structure of Amines Rationalised 2023-24",
+      "page_number": 1,
+      "reason": "Matched: structure",
+      "summary_insight": "9.1 Structure of Amines 9.1 Structure of Amines Rationalised 2023-24.",
+      "relevance_score": 0.17
+    },
+    {
+      "document": "chem2.pdf",
+      "section_title": "9.1 Structure of Amines",
+      "refined_text": "9.1 Structure of Amines Rationalised 2023-24",
+      "page_number": 1,
+      "reason": "Matched: structure",
+      "summary_insight": "9.1 Structure of Amines Rationalised 2023-24.",
+      "relevance_score": 0.17
+    },
+    {
+      "document": "chem2.pdf",
+      "section_title": "2-Methylaniline",
+      "refined_text": "2-Methylaniline p-Bromoaniline 4-Bromobenzenamine or 4-Bromoaniline N,N-Dimethylaniline N,N-Dimethylbenzenamine Table 9.1: Nomenclature of Some Alkylamines and Arylamines",
+      "page_number": 3,
+      "reason": "Accepted by pattern (fallback)",
+      "summary_insight": "2-Methylaniline p-Bromoaniline 4-Bromobenzenamine or 4-Bromoaniline N,N-Dimethylaniline N,N-Dimethylbenzenamine Table 9.1: Nomenclature of Some Alkylamines and Arylamines.",
+      "relevance_score": 0.5
+    },
+    {
+      "document": "chem2.pdf",
+      "section_title": "4-Bromobenzenamine",
+      "refined_text": "4-Bromobenzenamine or 4-Bromoaniline N,N-Dimethylaniline N,N-Dimethylbenzenamine Table 9.1: Nomenclature of Some Alkylamines and Arylamines Rationalised 2023-24",
+      "page_number": 3,
+      "reason": "Accepted by pattern (fallback)",
+      "summary_insight": "4-Bromobenzenamine or 4-Bromoaniline N,N-Dimethylaniline N,N-Dimethylbenzenamine Table 9.1: Nomenclature of Some Alkylamines and Arylamines Rationalised 2023-24.",
+      "relevance_score": 0.5
+    },
+    {
+      "document": "chem2.pdf",
+      "section_title": "4-Bromoaniline",
+      "refined_text": "4-Bromoaniline N,N-Dimethylaniline N,N-Dimethylbenzenamine Table 9.1: Nomenclature of Some Alkylamines and Arylamines Rationalised 2023-24",
+      "page_number": 3,
+      "reason": "Accepted by pattern (fallback)",
+      "summary_insight": "4-Bromoaniline N,N-Dimethylaniline N,N-Dimethylbenzenamine Table 9.1: Nomenclature of Some Alkylamines and Arylamines Rationalised 2023-24.",
+      "relevance_score": 0.5
+    },
+    {
+      "document": "chem2.pdf",
+      "section_title": "1. Reduction of nitro compounds",
+      "refined_text": "Reduction of nitro compounds Nitro compounds are reduced to amines by passing hydrogen gas in the presence of finely divided nickel, palladium or platinum and also by reduction with metals in acidic medium. Nitroalkanes can also be similarly reduced to the corresponding alkanamines. Reduction with iron scrap and hydrochloric acid is preferred because FeCl2 formed gets hydrolysed to release hydroch...",
+      "page_number": 4,
+      "reason": "Matched: reduction",
+      "summary_insight": "Reduction of nitro compounds Nitro compounds are reduced to amines by passing hydrogen gas in the presence of finely divided nickel, palladium or platinum and also by reduction with metals in acidic medium.",
+      "relevance_score": 0.17
+    },
+    {
+      "document": "chem2.pdf",
+      "section_title": "2. Ammonolysis of alkyl halides",
+      "refined_text": "Ammonolysis of alkyl halides You have read (Unit 6, Class XII) that the carbon - halogen bond in alkyl or benzyl halides can be easily cleaved by a nucleophile. Hence, an alkyl or benzyl halide on reaction with an ethanolic solution of ammonia undergoes nucleophilic substitution reaction in which the halogen atom is replaced by an amino (\u2013NH2) group. This process of cleavage of the C\u2013X bond by amm...",
+      "page_number": 4,
+      "reason": "Matched: bond",
+      "summary_insight": "Ammonolysis of alkyl halides You have read (Unit 6, Class XII) that the carbon - halogen bond in alkyl or benzyl halides can be easily cleaved by a nucleophile.",
+      "relevance_score": 0.17
+    },
+    {
+      "document": "chem2.pdf",
+      "section_title": "9.4 Preparation",
+      "refined_text": "9.4 Preparation Preparation Preparation Preparation Preparation of Amines of Amines of Amines",
+      "page_number": 4,
+      "reason": "Accepted by pattern (fallback)",
+      "summary_insight": "9.4 Preparation Preparation Preparation Preparation Preparation of Amines of Amines of Amines.",
+      "relevance_score": 0.5
+    },
+    {
+      "document": "chem2.pdf",
+      "section_title": "3. Reduction of nitriles",
+      "refined_text": "Reduction of nitriles Nitriles on reduction with lithium aluminium hydride (LiAlH4) or catalytic hydrogenation produce primary amines. This reaction is used for ascent of amine series, i.e., for preparation of amines containing one carbon atom more than the starting amine. Reduction of amides The amides on reduction with lithium aluminium hydride yield amines.",
+      "page_number": 5,
+      "reason": "Matched: reaction, reduction",
+      "summary_insight": "Reduction of nitriles Nitriles on reduction with lithium aluminium hydride (LiAlH4) or catalytic hydrogenation produce primary amines.",
+      "relevance_score": 0.33
+    },
+    {
+      "document": "chem2.pdf",
+      "section_title": "4. Reduction of amides",
+      "refined_text": "Reduction of amides The amides on reduction with lithium aluminium hydride yield amines. Example 9.1 Example 9.1 Example 9.1 Example 9.1 Example 9.1",
+      "page_number": 5,
+      "reason": "Matched: reduction",
+      "summary_insight": "Reduction of amides The amides on reduction with lithium aluminium hydride yield amines.",
+      "relevance_score": 0.17
+    },
+    {
+      "document": "chem2.pdf",
+      "section_title": "5. Gabriel phthalimide synthesis",
+      "refined_text": "Gabriel phthalimide synthesis Gabriel synthesis is used for the preparation of primary amines. Phthalimide on treatment with ethanolic potassium hydroxide forms potassium salt of phthalimide which on heating with alkyl halide followed by alkaline hydrolysis produces the corresponding primary amine. Aromatic primary amines cannot be prepared by this method because aryl halides do not undergo nucleo...",
+      "page_number": 6,
+      "reason": "Accepted by pattern (fallback)",
+      "summary_insight": "Gabriel phthalimide synthesis Gabriel synthesis is used for the preparation of primary amines.",
+      "relevance_score": 0.5
+    },
+    {
+      "document": "chem2.pdf",
+      "section_title": "6. Hoffmann bromamide degradation reaction",
+      "refined_text": "Hoffmann bromamide degradation reaction Hoffmann developed a method for preparation of primary amines by treating an amide with bromine in an aqueous or ethanolic solution of sodium hydroxide. In this degradation reaction, migration of an alkyl or aryl group takes place from carbonyl carbon of the amide to the nitrogen atom. The amine so formed contains one carbon less than that present in the ami...",
+      "page_number": 6,
+      "reason": "Matched: reaction",
+      "summary_insight": "Hoffmann bromamide degradation reaction Hoffmann developed a method for preparation of primary amines by treating an amide with bromine in an aqueous or ethanolic solution of sodium hydroxide.",
+      "relevance_score": 0.17
+    },
+    {
+      "document": "chem2.pdf",
+      "section_title": "9.5 Physical",
+      "refined_text": "9.5 Physical Physical Physical Physical Physical Properties Properties Properties",
+      "page_number": 7,
+      "reason": "Accepted by pattern (fallback)",
+      "summary_insight": "9.5 Physical Physical Physical Physical Physical Properties Properties Properties.",
+      "relevance_score": 0.5
+    },
+    {
+      "document": "chem2.pdf",
+      "section_title": "1. Basic character of amines",
+      "refined_text": "Basic character of amines Amines, being basic in nature, react with acids to form salts. 9.6 9.6 9.6 9.6 9.6 Chemical Chemical",
+      "page_number": 8,
+      "reason": "Accepted by pattern (fallback)",
+      "summary_insight": "Basic character of amines Amines, being basic in nature, react with acids to form salts.",
+      "relevance_score": 0.5
+    },
+    {
+      "document": "chem2.pdf",
+      "section_title": "9.6 Chemical",
+      "refined_text": "9.6 Chemical Chemical Chemical Chemical Chemical Reactions Reactions Reactions",
+      "page_number": 8,
+      "reason": "Matched: reaction",
+      "summary_insight": "9.6 Chemical Chemical Chemical Chemical Chemical Reactions Reactions Reactions.",
+      "relevance_score": 0.17
+    },
+    {
+      "document": "chem2.pdf",
+      "section_title": "4.22. On the other hand, aromatic amines are weaker bases than",
+      "refined_text": "On the other hand, aromatic amines are weaker bases than ammonia due to the electron withdrawing nature of the aryl group. Name of amine pKb Methanamine 3.38 N-Methylmethanamine 3.27",
+      "page_number": 9,
+      "reason": "Accepted by pattern (fallback)",
+      "summary_insight": "On the other hand, aromatic amines are weaker bases than ammonia due to the electron withdrawing nature of the aryl group.",
+      "relevance_score": 0.5
+    },
+    {
+      "document": "chem2.pdf",
+      "section_title": "2. Alkylation",
+      "refined_text": "Alkylation Amines undergo alkylation on reaction with alkyl halides (refer Unit 6, Class XII). Acylation Aliphatic and aromatic primary and secondary amines react with acid chlorides, anhydrides and esters by nucleophilic substitution reaction. This reaction is known as acylation. You can consider this reaction as the replacement of hydrogen atom of \u2013NH2 or >N\u2013H",
+      "page_number": 12,
+      "reason": "Matched: reaction",
+      "summary_insight": "Alkylation Amines undergo alkylation on reaction with alkyl halides (refer Unit 6, Class XII).",
+      "relevance_score": 0.17
+    },
+    {
+      "document": "chem2.pdf",
+      "section_title": "6, Class XII).",
+      "refined_text": "Acylation Aliphatic and aromatic primary and secondary amines react with acid chlorides, anhydrides and esters by nucleophilic substitution reaction. This reaction is known as acylation. You can consider this reaction as the replacement of hydrogen atom of \u2013NH2 or >N\u2013H group by the acyl group. The products obtained by acylation reaction are known as amides. The reaction is carried out in the prese...",
+      "page_number": 12,
+      "reason": "Matched: reaction",
+      "summary_insight": "Acylation Aliphatic and aromatic primary and secondary amines react with acid chlorides, anhydrides and esters by nucleophilic substitution reaction.",
+      "relevance_score": 0.17
+    },
+    {
+      "document": "chem2.pdf",
+      "section_title": "3. Acylation",
+      "refined_text": "Acylation Aliphatic and aromatic primary and secondary amines react with acid chlorides, anhydrides and esters by nucleophilic substitution reaction. This reaction is known as acylation. You can consider this reaction as the replacement of hydrogen atom of \u2013NH2 or >N\u2013H group by the acyl group. The products obtained by acylation reaction are known as amides. The reaction is carried out in the prese...",
+      "page_number": 12,
+      "reason": "Matched: reaction",
+      "summary_insight": "Acylation Aliphatic and aromatic primary and secondary amines react with acid chlorides, anhydrides and esters by nucleophilic substitution reaction.",
+      "relevance_score": 0.17
+    },
+    {
+      "document": "chem2.pdf",
+      "section_title": "C6H5NH2, C2H5NH2, (C2H5)2NH,  NH3",
+      "refined_text": "C6H5NH2, C2H5NH2, (C2H5)2NH, NH3 The decreasing order of basic strength of the above amines and ammonia follows the following order: (C2H5)2NH > C2H5NH2 > NH3 > C6H5NH2 Example 9.4 Example 9.4 Example 9.4 Example 9.4",
+      "page_number": 12,
+      "reason": "Matched: example",
+      "summary_insight": "C6H5NH2, C2H5NH2, (C2H5)2NH, NH3 The decreasing order of basic strength of the above amines and ammonia follows the following order: (C2H5)2NH > C2H5NH2 > NH3 > C6H5NH2 Example 9.4 Example 9.4 Example 9.4 Example 9.4.",
+      "relevance_score": 0.2
+    },
+    {
+      "document": "chem2.pdf",
+      "section_title": "5 + HCl",
+      "refined_text": "5 + HCl N,N-Diethylbenzenesulphonamide C H 2 5 C H 2 5",
+      "page_number": 13,
+      "reason": "Accepted by pattern (fallback)",
+      "summary_insight": "5 + HCl N,N-Diethylbenzenesulphonamide C H 2 5 C H 2 5.",
+      "relevance_score": 0.5
+    },
+    {
+      "document": "chem2.pdf",
+      "section_title": "C H",
+      "refined_text": "C H 2 5 C H 2 5 4. Carbylamine reaction Aliphatic and aromatic primary amines on heating with chloroform",
+      "page_number": 13,
+      "reason": "Matched: reaction",
+      "summary_insight": "C H 2 5 C H 2 5 4.",
+      "relevance_score": 0.17
+    },
+    {
+      "document": "chem2.pdf",
+      "section_title": "C H",
+      "refined_text": "Carbylamine reaction Aliphatic and aromatic primary amines on heating with chloroform and ethanolic potassium hydroxide form isocyanides or carbylamines which are foul smelling substances. Secondary and tertiary amines do not show this reaction. This reaction is known as carbylamine",
+      "page_number": 13,
+      "reason": "Matched: reaction",
+      "summary_insight": "Carbylamine reaction Aliphatic and aromatic primary amines on heating with chloroform and ethanolic potassium hydroxide form isocyanides or carbylamines which are foul smelling substances.",
+      "relevance_score": 0.17
+    },
+    {
+      "document": "chem2.pdf",
+      "section_title": "4. Carbylamine reaction",
+      "refined_text": "Carbylamine reaction Aliphatic and aromatic primary amines on heating with chloroform and ethanolic potassium hydroxide form isocyanides or carbylamines which are foul smelling substances. Secondary and tertiary amines do not show this reaction. This reaction is known as carbylamine reaction or isocyanide test and is used as a test for primary amines. Reaction with nitrous acid Three classes of am...",
+      "page_number": 13,
+      "reason": "Matched: reaction",
+      "summary_insight": "Carbylamine reaction Aliphatic and aromatic primary amines on heating with chloroform and ethanolic potassium hydroxide form isocyanides or carbylamines which are foul smelling substances.",
+      "relevance_score": 0.17
+    },
+    {
+      "document": "chem2.pdf",
+      "section_title": "5. Reaction with nitrous acid",
+      "refined_text": "Reaction with nitrous acid Three classes of amines react differently with nitrous acid which is prepared in situ from a mineral acid and sodium nitrite. (a) Primary aliphatic amines react with nitrous acid to form aliphatic diazonium salts which being unstable, liberate nitrogen gas quantitatively and alcohols. Quantitative evolution of nitrogen is used in estimation of amino acids and proteins. (...",
+      "page_number": 13,
+      "reason": "Matched: reaction",
+      "summary_insight": "Reaction with nitrous acid Three classes of amines react differently with nitrous acid which is prepared in situ from a mineral acid and sodium nitrite.",
+      "relevance_score": 0.17
+    },
+    {
+      "document": "chem2.pdf",
+      "section_title": "6. Reaction with arylsulphonyl chloride",
+      "refined_text": "Reaction with arylsulphonyl chloride Benzenesulphonyl chloride (C6H5SO2Cl), which is also known as Hinsberg\u2019s reagent, reacts with primary and secondary amines to form sulphonamides. (a) The reaction of benzenesulphonyl chloride with primary amine yields N-ethylbenzenesulphonyl amide. The hydrogen attached to nitrogen in sulphonamide is strongly acidic due to the presence of strong electron withdr...",
+      "page_number": 13,
+      "reason": "Matched: reaction",
+      "summary_insight": "Reaction with arylsulphonyl chloride Benzenesulphonyl chloride (C6H5SO2Cl), which is also known as Hinsberg\u2019s reagent, reacts with primary and secondary amines to form sulphonamides.",
+      "relevance_score": 0.17
+    },
+    {
+      "document": "chem2.pdf",
+      "section_title": "7. Electrophilic substitution",
+      "refined_text": "Electrophilic substitution You have read earlier that aniline is a resonance hybrid of five structures. Where do you find the maximum electron density in these structures? Ortho- and para-positions to the \u2013NH2 group become centres of high electron density. Thus \u2013NH2 group is ortho and para directing and a powerful activating group. (a) Bromination: Aniline reacts with bromine water at room tempera...",
+      "page_number": 14,
+      "reason": "Matched: structure",
+      "summary_insight": "Electrophilic substitution You have read earlier that aniline is a resonance hybrid of five structures.",
+      "relevance_score": 0.17
+    },
+    {
+      "document": "chem2.pdf",
+      "section_title": "9.7 Method of",
+      "refined_text": "9.7 Method of Method of Method of Method of Method of Preparation Preparation Preparation",
+      "page_number": 16,
+      "reason": "Accepted by pattern (fallback)",
+      "summary_insight": "9.7 Method of Method of Method of Method of Method of Preparation Preparation Preparation.",
+      "relevance_score": 0.5
+    },
+    {
+      "document": "chem2.pdf",
+      "section_title": ", CN",
+      "refined_text": ", CN \u2013 and OH \u2013 which displace nitrogen from the aromatic ring. The nitrogen formed escapes from the reaction mixture as a gas. Replacement by halide or cyanide ion: The Cl \u2013, Br",
+      "page_number": 17,
+      "reason": "Matched: reaction",
+      "summary_insight": ", CN \u2013 and OH \u2013 which displace nitrogen from the aromatic ring.",
+      "relevance_score": 0.17
+    },
+    {
+      "document": "chem2.pdf",
+      "section_title": "1. Replacement by halide or cyanide ion: The Cl",
+      "refined_text": "Replacement by halide or cyanide ion: The Cl \u2013, Br \u2013 and CN \u2013 nucleophiles can easily be introduced in the benzene ring in the presence of Cu(I) ion. This reaction is called Sandmeyer reaction. Alternatively, chlorine or bromine can also be introduced in the benzene ring by treating the diazonium salt solution with corresponding",
+      "page_number": 17,
+      "reason": "Matched: reaction",
+      "summary_insight": "Replacement by halide or cyanide ion: The Cl \u2013, Br \u2013 and CN \u2013 nucleophiles can easily be introduced in the benzene ring in the presence of Cu(I) ion.",
+      "relevance_score": 0.17
+    },
+    {
+      "document": "chem2.pdf",
+      "section_title": "2. Replacement by iodide ion: Iodine is not easily introduced into",
+      "refined_text": "Replacement by iodide ion: Iodine is not easily introduced into the benzene ring directly, but, when the diazonium salt solution is treated with potassium iodide, iodobenzene is formed. Replacement by fluoride ion: When arenediazonium chloride is treated with fluoroboric acid, arene diazonium fluoroborate is precipitated which on heating decomposes to yield aryl fluoride. Replacement by H: Certain...",
+      "page_number": 17,
+      "reason": "Accepted by pattern (fallback)",
+      "summary_insight": "Replacement by iodide ion: Iodine is not easily introduced into the benzene ring directly, but, when the diazonium salt solution is treated with potassium iodide, iodobenzene is formed.",
+      "relevance_score": 0.5
+    },
+    {
+      "document": "chem2.pdf",
+      "section_title": "3. Replacement by fluoride ion: When arenediazonium chloride is",
+      "refined_text": "Replacement by fluoride ion: When arenediazonium chloride is treated with fluoroboric acid, arene diazonium fluoroborate is precipitated which on heating decomposes to yield aryl fluoride. Replacement by H: Certain mild reducing agents like hypophosphorous acid (phosphinic acid) or ethanol reduce diazonium salts to arenes and themselves get oxidised to phosphorous acid and ethanal, respectively",
+      "page_number": 17,
+      "reason": "Accepted by pattern (fallback)",
+      "summary_insight": "Replacement by fluoride ion: When arenediazonium chloride is treated with fluoroboric acid, arene diazonium fluoroborate is precipitated which on heating decomposes to yield aryl fluoride.",
+      "relevance_score": 0.5
+    },
+    {
+      "document": "chem2.pdf",
+      "section_title": "4. Replacement by H: Certain mild reducing agents like",
+      "refined_text": "Replacement by H: Certain mild reducing agents like hypophosphorous acid (phosphinic acid) or ethanol reduce diazonium salts to arenes and themselves get oxidised to phosphorous acid and ethanal, respectively",
+      "page_number": 17,
+      "reason": "Accepted by pattern (fallback)",
+      "summary_insight": "Replacement by H: Certain mild reducing agents like hypophosphorous acid (phosphinic acid) or ethanol reduce diazonium salts to arenes and themselves get oxidised to phosphorous acid and ethanal, respectively.",
+      "relevance_score": 0.5
+    },
+    {
+      "document": "chem2.pdf",
+      "section_title": "9.9 Chemical",
+      "refined_text": "9.9 Chemical Chemical Chemical Chemical Chemical Reactions Reactions Reactions",
+      "page_number": 17,
+      "reason": "Matched: reaction",
+      "summary_insight": "9.9 Chemical Chemical Chemical Chemical Chemical Reactions Reactions Reactions.",
+      "relevance_score": 0.17
+    },
+    {
+      "document": "chem2.pdf",
+      "section_title": "5. Replacement by hydroxyl group: If the temperature of the",
+      "refined_text": "Replacement by hydroxyl group: If the temperature of the diazonium salt solution is allowed to rise upto 283 K, the salt gets hydrolysed to phenol. Replacement by \u2013NO2 group: When diazonium fluoroborate is heated with aqueous sodium nitrite solution in the presence of copper, the diazonium group is replaced by \u2013NO2 group. Reactions involving retention of diazo group coupling reactions",
+      "page_number": 18,
+      "reason": "Matched: reaction",
+      "summary_insight": "Replacement by hydroxyl group: If the temperature of the diazonium salt solution is allowed to rise upto 283 K, the salt gets hydrolysed to phenol.",
+      "relevance_score": 0.17
+    },
+    {
+      "document": "chem2.pdf",
+      "section_title": "6. Replacement by \u2013NO2 group: When diazonium fluoroborate is",
+      "refined_text": "Replacement by \u2013NO2 group: When diazonium fluoroborate is heated with aqueous sodium nitrite solution in the presence of copper, the diazonium group is replaced by \u2013NO2 group. Reactions involving retention of diazo group coupling reactions The azo products obtained have an extended conjugate system having both the aromatic rings joined through the \u2013N=N\u2013 bond. These compounds are often coloured and...",
+      "page_number": 18,
+      "reason": "Matched: bond",
+      "summary_insight": "Replacement by \u2013NO2 group: When diazonium fluoroborate is heated with aqueous sodium nitrite solution in the presence of copper, the diazonium group is replaced by \u2013NO2 group.",
+      "relevance_score": 0.17
+    },
+    {
+      "document": "chem3.pdf",
+      "section_title": "3 hybridised carbon atom of an",
+      "refined_text": "3 hybridised carbon atom of an alkyl group. They are further classified as follows: Primary, secondary and tertiary alcohols: In these three types of alcohols, the \u2013OH group is attached to primary, secondary and tertiary carbon atom, respectively as depicted below: Allylic alcohols: In these alcohols, the \u2014OH group is attached to a sp 3 hybridised carbon adjacent to the carbon-carbon double",
+      "page_number": 2,
+      "reason": "Accepted by pattern (fallback)",
+      "summary_insight": "3 hybridised carbon atom of an alkyl group.",
+      "relevance_score": 0.5
+    },
+    {
+      "document": "chem3.pdf",
+      "section_title": "3 hybridised carbon adjacent to the carbon-carbon double",
+      "refined_text": "3 hybridised carbon adjacent to the carbon-carbon double bond, that is to an allylic carbon. For example Benzylic alcohols: In these alcohols, the \u2014OH group is attached to a sp 3\u2014hybridised carbon atom next to an aromatic ring. The classification of compounds makes their study systematic and hence simpler. Therefore, let us first learn how are alcohols, phenols",
+      "page_number": 2,
+      "reason": "Matched: bond",
+      "summary_insight": "3 hybridised carbon adjacent to the carbon-carbon double bond, that is to an allylic carbon.",
+      "relevance_score": 0.17
+    },
+    {
+      "document": "chem3.pdf",
+      "section_title": "3\u2014hybridised carbon atom next to an aromatic ring. For",
+      "refined_text": "3\u2014hybridised carbon atom next to an aromatic ring. The classification of compounds makes their study systematic and hence simpler. Therefore, let us first learn how are alcohols, phenols and ethers classified? Alcohols and phenols may be classified as mono\u2013, di\u2013, tri- or polyhydric compounds depending on whether they contain one, two, three or many hydroxyl groups respectively in their structures ...",
+      "page_number": 2,
+      "reason": "Matched: structure",
+      "summary_insight": "3\u2014hybridised carbon atom next to an aromatic ring.",
+      "relevance_score": 0.17
+    },
+    {
+      "document": "chem3.pdf",
+      "section_title": "7.1 Classification",
+      "refined_text": "7.1 Classification Classification Classification Classification Classification 7.1.1 Alcohols\u2014 Mono, Di,",
+      "page_number": 2,
+      "reason": "Accepted by pattern (fallback)",
+      "summary_insight": "7.1 Classification Classification Classification Classification Classification 7.1.1 Alcohols\u2014 Mono, Di,.",
+      "relevance_score": 0.5
+    },
+    {
+      "document": "chem3.pdf",
+      "section_title": "CH C",
+      "refined_text": "CH C CH3 CH3 (vi) 7.1 Classify the following as primary, secondary and tertiary alcohols: 7.2 Identify allylic alcohols in the above examples",
+      "page_number": 3,
+      "reason": "Matched: example",
+      "summary_insight": "CH C CH3 CH3 (vi) 7.1 Classify the following as primary, secondary and tertiary alcohols: 7.2 Identify allylic alcohols in the above examples.",
+      "relevance_score": 0.2
+    },
+    {
+      "document": "chem3.pdf",
+      "section_title": "CH3",
+      "refined_text": "CH3 CH3 (vi) 7.1 Classify the following as primary, secondary and tertiary alcohols: 7.2 Identify allylic alcohols in the above examples. Intext Questions Intext Questions Intext Questions",
+      "page_number": 3,
+      "reason": "Matched: example",
+      "summary_insight": "CH3 CH3 (vi) 7.1 Classify the following as primary, secondary and tertiary alcohols: 7.2 Identify allylic alcohols in the above examples.",
+      "relevance_score": 0.2
+    },
+    {
+      "document": "chem3.pdf",
+      "section_title": "CH3",
+      "refined_text": "CH3 (vi) 7.1 Classify the following as primary, secondary and tertiary alcohols: 7.2 Identify allylic alcohols in the above examples. Intext Questions Intext Questions Intext Questions Intext Questions",
+      "page_number": 3,
+      "reason": "Matched: example",
+      "summary_insight": "CH3 (vi) 7.1 Classify the following as primary, secondary and tertiary alcohols: 7.2 Identify allylic alcohols in the above examples.",
+      "relevance_score": 0.2
+    },
+    {
+      "document": "chem3.pdf",
+      "section_title": "7.1 Classify the following as primary, secondary and tertiary alcohols:",
+      "refined_text": "7.1 Classify the following as primary, secondary and tertiary alcohols: 7.2 Identify allylic alcohols in the above examples. Intext Questions Intext Questions Intext Questions Intext Questions Intext Questions 7.2 Nomenclature",
+      "page_number": 3,
+      "reason": "Matched: example",
+      "summary_insight": "7.1 Classify the following as primary, secondary and tertiary alcohols: 7.2 Identify allylic alcohols in the above examples.",
+      "relevance_score": 0.2
+    },
+    {
+      "document": "chem3.pdf",
+      "section_title": "7.2 Identify allylic alcohols in the above examples.",
+      "refined_text": "7.2 Identify allylic alcohols in the above examples. Intext Questions Intext Questions Intext Questions Intext Questions Intext Questions 7.2 Nomenclature 7.2 Nomenclature",
+      "page_number": 3,
+      "reason": "Matched: example",
+      "summary_insight": "7.2 Identify allylic alcohols in the above examples.",
+      "relevance_score": 0.2
+    },
+    {
+      "document": "chem3.pdf",
+      "section_title": "7.2 Nomenclature",
+      "refined_text": "7.2 Nomenclature 7.2 Nomenclature 7.2 Nomenclature 7.2 Nomenclature 7.2 Nomenclature (a) Alcohols: The common name of an alcohol is derived from the common name of the alkyl group and adding the word alcohol to it. For example, CH3OH is methyl alcohol.",
+      "page_number": 3,
+      "reason": "Matched: example",
+      "summary_insight": "7.2 Nomenclature 7.2 Nomenclature 7.2 Nomenclature 7.2 Nomenclature 7.2 Nomenclature (a) Alcohols: The common name of an alcohol is derived from the common name of the alkyl group and adding the word alcohol to it.",
+      "relevance_score": 0.2
+    },
+    {
+      "document": "chem3.pdf",
+      "section_title": "7.2 Nomenclature",
+      "refined_text": "7.2 Nomenclature 7.2 Nomenclature 7.2 Nomenclature 7.2 Nomenclature (a) Alcohols: The common name of an alcohol is derived from the common name of the alkyl group and adding the word alcohol to it. For example, CH3OH is methyl alcohol",
+      "page_number": 3,
+      "reason": "Matched: example",
+      "summary_insight": "7.2 Nomenclature 7.2 Nomenclature 7.2 Nomenclature 7.2 Nomenclature (a) Alcohols: The common name of an alcohol is derived from the common name of the alkyl group and adding the word alcohol to it.",
+      "relevance_score": 0.2
+    },
+    {
+      "document": "chem3.pdf",
+      "section_title": "7.2 Nomenclature",
+      "refined_text": "7.2 Nomenclature 7.2 Nomenclature 7.2 Nomenclature (a) Alcohols: The common name of an alcohol is derived from the common name of the alkyl group and adding the word alcohol to it. For example, CH3OH is methyl alcohol",
+      "page_number": 3,
+      "reason": "Matched: example",
+      "summary_insight": "7.2 Nomenclature 7.2 Nomenclature 7.2 Nomenclature (a) Alcohols: The common name of an alcohol is derived from the common name of the alkyl group and adding the word alcohol to it.",
+      "relevance_score": 0.2
+    },
+    {
+      "document": "chem3.pdf",
+      "section_title": "7.2 Nomenclature",
+      "refined_text": "7.2 Nomenclature 7.2 Nomenclature (a) Alcohols: The common name of an alcohol is derived from the common name of the alkyl group and adding the word alcohol to it. For example, CH3OH is methyl alcohol",
+      "page_number": 3,
+      "reason": "Matched: example",
+      "summary_insight": "7.2 Nomenclature 7.2 Nomenclature (a) Alcohols: The common name of an alcohol is derived from the common name of the alkyl group and adding the word alcohol to it.",
+      "relevance_score": 0.2
+    },
+    {
+      "document": "chem3.pdf",
+      "section_title": "7.2 Nomenclature",
+      "refined_text": "7.2 Nomenclature (a) Alcohols: The common name of an alcohol is derived from the common name of the alkyl group and adding the word alcohol to it. For example, CH3OH is methyl alcohol",
+      "page_number": 3,
+      "reason": "Matched: example",
+      "summary_insight": "7.2 Nomenclature (a) Alcohols: The common name of an alcohol is derived from the common name of the alkyl group and adding the word alcohol to it.",
+      "relevance_score": 0.2
+    },
+    {
+      "document": "chem3.pdf",
+      "section_title": "2-Methylpropan-1-ol",
+      "refined_text": "2-Methylpropan-1-ol tert-Butyl alcohol 2-Methylpropan-2-ol HO\u2013H2C\u2013CH2\u2013OH Ethylene glycol Ethane-1,2-diol Glycerol Propane -1, 2, 3-triol",
+      "page_number": 4,
+      "reason": "Accepted by pattern (fallback)",
+      "summary_insight": "2-Methylpropan-1-ol tert-Butyl alcohol 2-Methylpropan-2-ol HO\u2013H2C\u2013CH2\u2013OH Ethylene glycol Ethane-1,2-diol Glycerol Propane -1, 2, 3-triol.",
+      "relevance_score": 0.5
+    },
+    {
+      "document": "chem3.pdf",
+      "section_title": "2-Methylpropan-2-ol",
+      "refined_text": "2-Methylpropan-2-ol HO\u2013H2C\u2013CH2\u2013OH Ethylene glycol Ethane-1,2-diol Glycerol Propane -1, 2, 3-triol Compound Common name",
+      "page_number": 4,
+      "reason": "Accepted by pattern (fallback)",
+      "summary_insight": "2-Methylpropan-2-ol HO\u2013H2C\u2013CH2\u2013OH Ethylene glycol Ethane-1,2-diol Glycerol Propane -1, 2, 3-triol Compound Common name.",
+      "relevance_score": 0.5
+    },
+    {
+      "document": "chem3.pdf",
+      "section_title": "CH3",
+      "refined_text": "CH3 Cyclohexanol 2-Methylcyclopentanol (b) Phenols: The simplest hydroxy derivative of benzene is phenol. It is its common name and also an accepted IUPAC name. As structure of phenol involves a benzene ring, in its substituted compounds the terms ortho (1,2- disubstituted), meta (1,3-disubstituted) and para (1,4-disubstituted) are often used in the common names.",
+      "page_number": 4,
+      "reason": "Matched: structure",
+      "summary_insight": "CH3 Cyclohexanol 2-Methylcyclopentanol (b) Phenols: The simplest hydroxy derivative of benzene is phenol.",
+      "relevance_score": 0.17
+    },
+    {
+      "document": "chem3.pdf",
+      "section_title": "2-Methylcyclopentanol",
+      "refined_text": "2-Methylcyclopentanol (b) Phenols: The simplest hydroxy derivative of benzene is phenol. It is its common name and also an accepted IUPAC name. As structure of phenol involves a benzene ring, in its substituted compounds the terms ortho (1,2- disubstituted), meta (1,3-disubstituted) and para (1,4-disubstituted) are often used in the common names",
+      "page_number": 4,
+      "reason": "Matched: structure",
+      "summary_insight": "2-Methylcyclopentanol (b) Phenols: The simplest hydroxy derivative of benzene is phenol.",
+      "relevance_score": 0.17
+    },
+    {
+      "document": "chem3.pdf",
+      "section_title": "2-Methylphenol",
+      "refined_text": "2-Methylphenol 3-Methylphenol 4-Methylphenol Dihydroxy derivatives of benzene are known as 1, 2-, 1, 3- and 1, 4-benzenediol",
+      "page_number": 5,
+      "reason": "Accepted by pattern (fallback)",
+      "summary_insight": "2-Methylphenol 3-Methylphenol 4-Methylphenol Dihydroxy derivatives of benzene are known as 1, 2-, 1, 3- and 1, 4-benzenediol.",
+      "relevance_score": 0.5
+    },
+    {
+      "document": "chem3.pdf",
+      "section_title": "3-Methylphenol",
+      "refined_text": "3-Methylphenol 4-Methylphenol Dihydroxy derivatives of benzene are known as 1, 2-, 1, 3- and 1, 4-benzenediol",
+      "page_number": 5,
+      "reason": "Accepted by pattern (fallback)",
+      "summary_insight": "3-Methylphenol 4-Methylphenol Dihydroxy derivatives of benzene are known as 1, 2-, 1, 3- and 1, 4-benzenediol.",
+      "relevance_score": 0.5
+    },
+    {
+      "document": "chem3.pdf",
+      "section_title": "4-Methylphenol",
+      "refined_text": "4-Methylphenol Dihydroxy derivatives of benzene are known as 1, 2-, 1, 3- and 1, 4-benzenediol",
+      "page_number": 5,
+      "reason": "Accepted by pattern (fallback)",
+      "summary_insight": "4-Methylphenol Dihydroxy derivatives of benzene are known as 1, 2-, 1, 3- and 1, 4-benzenediol.",
+      "relevance_score": 0.5
+    },
+    {
+      "document": "chem3.pdf",
+      "section_title": "1-Methoxypropane",
+      "refined_text": "1-Methoxypropane C6H5OCH3 Methyl phenyl ether Methoxybenzene (Anisole) (Anisole) C6H5OCH2CH3 Ethyl phenyl ether",
+      "page_number": 5,
+      "reason": "Accepted by pattern (fallback)",
+      "summary_insight": "1-Methoxypropane C6H5OCH3 Methyl phenyl ether Methoxybenzene (Anisole) (Anisole) C6H5OCH2CH3 Ethyl phenyl ether.",
+      "relevance_score": 0.5
+    },
+    {
+      "document": "chem3.pdf",
+      "section_title": "1-Phenoxyheptane",
+      "refined_text": "1-Phenoxyheptane CH3 CH O 3 CH CH3 Methyl isopropyl ether 2-Methoxypropane",
+      "page_number": 5,
+      "reason": "Accepted by pattern (fallback)",
+      "summary_insight": "1-Phenoxyheptane CH3 CH O 3 CH CH3 Methyl isopropyl ether 2-Methoxypropane.",
+      "relevance_score": 0.5
+    },
+    {
+      "document": "chem3.pdf",
+      "section_title": "2-Methoxypropane",
+      "refined_text": "2-Methoxypropane Phenyl isopentyl ether 3- Methylbutoxybenzene CH3\u2013 O \u2013 CH2 \u2013 CH2 \u2013 OCH3 \u2014 1,2-Dimethoxyethane \u2014 2-Ethoxy-",
+      "page_number": 5,
+      "reason": "Accepted by pattern (fallback)",
+      "summary_insight": "2-Methoxypropane Phenyl isopentyl ether 3- Methylbutoxybenzene CH3\u2013 O \u2013 CH2 \u2013 CH2 \u2013 OCH3 \u2014 1,2-Dimethoxyethane \u2014 2-Ethoxy-.",
+      "relevance_score": 0.5
+    },
+    {
+      "document": "chem3.pdf",
+      "section_title": "3- Methylbutoxybenzene",
+      "refined_text": "3- Methylbutoxybenzene CH3\u2013 O \u2013 CH2 \u2013 CH2 \u2013 OCH3 \u2014 1,2-Dimethoxyethane \u2014 2-Ethoxy- -1,1-dimethylcyclohexane Rationalised 2023-24",
+      "page_number": 5,
+      "reason": "Accepted by pattern (fallback)",
+      "summary_insight": "3- Methylbutoxybenzene CH3\u2013 O \u2013 CH2 \u2013 CH2 \u2013 OCH3 \u2014 1,2-Dimethoxyethane \u2014 2-Ethoxy- -1,1-dimethylcyclohexane Rationalised 2023-24.",
+      "relevance_score": 0.5
+    },
+    {
+      "document": "chem3.pdf",
+      "section_title": "1,2-Dimethoxyethane",
+      "refined_text": "1,2-Dimethoxyethane \u2014 2-Ethoxy- -1,1-dimethylcyclohexane Rationalised 2023-24",
+      "page_number": 5,
+      "reason": "Accepted by pattern (fallback)",
+      "summary_insight": "1,2-Dimethoxyethane \u2014 2-Ethoxy- -1,1-dimethylcyclohexane Rationalised 2023-24.",
+      "relevance_score": 0.5
+    },
+    {
+      "document": "chem3.pdf",
+      "section_title": "NO2",
+      "refined_text": "NO2 OC H 2 5 Example 7.1 Example 7.1 Example 7.1 Example 7.1",
+      "page_number": 6,
+      "reason": "Matched: example",
+      "summary_insight": "NO2 OC H 2 5 Example 7.1 Example 7.1 Example 7.1 Example 7.1.",
+      "relevance_score": 0.2
+    },
+    {
+      "document": "chem3.pdf",
+      "section_title": "OC H",
+      "refined_text": "OC H 2 5 Example 7.1 Example 7.1 Example 7.1 Example 7.1 Example 7.1",
+      "page_number": 6,
+      "reason": "Matched: example",
+      "summary_insight": "OC H 2 5 Example 7.1 Example 7.1 Example 7.1 Example 7.1 Example 7.1.",
+      "relevance_score": 0.2
+    },
+    {
+      "document": "chem3.pdf",
+      "section_title": "7.3  Name the following compounds according to IUPAC system.",
+      "refined_text": "7.3 Name the following compounds according to IUPAC system. Intext Question Intext Question Intext Question Intext Question Intext Question (i) (ii)",
+      "page_number": 6,
+      "reason": "Accepted by pattern (fallback)",
+      "summary_insight": "7.3 Name the following compounds according to IUPAC system.",
+      "relevance_score": 0.5
+    },
+    {
+      "document": "chem3.pdf",
+      "section_title": "3 hybridised orbital of",
+      "refined_text": "3 hybridised orbital of carbon with a sp 3 hybridised orbital of oxygen. 7.1 depicts structural aspects of methanol, phenol and methoxymethane",
+      "page_number": 6,
+      "reason": "Accepted by pattern (fallback)",
+      "summary_insight": "3 hybridised orbital of carbon with a sp 3 hybridised orbital of oxygen.",
+      "relevance_score": 0.5
+    },
+    {
+      "document": "chem3.pdf",
+      "section_title": "3 hybridised orbital of oxygen. Fig. 7.1 depicts",
+      "refined_text": "7.1 depicts structural aspects of methanol, phenol and methoxymethane. 7.3 7.3 7.3 7.3 7.3 Structures of Structures of",
+      "page_number": 6,
+      "reason": "Matched: structure",
+      "summary_insight": "7.1 depicts structural aspects of methanol, phenol and methoxymethane.",
+      "relevance_score": 0.17
+    },
+    {
+      "document": "chem3.pdf",
+      "section_title": "7.3 Structures of",
+      "refined_text": "7.3 Structures of Structures of Structures of Structures of Structures of Functional Functional Functional",
+      "page_number": 6,
+      "reason": "Matched: structure",
+      "summary_insight": "7.3 Structures of Structures of Structures of Structures of Structures of Functional Functional Functional.",
+      "relevance_score": 0.17
+    },
+    {
+      "document": "chem3.pdf",
+      "section_title": "2 hybridised state of carbon to which oxygen",
+      "refined_text": "2 hybridised state of carbon to which oxygen is attached. In ethers, the four electron pairs, i.e., the two bond pairs and two lone pairs of electrons on oxygen are arranged approximately in a tetrahedral arrangement. The bond angle is slightly greater than the tetrahedral angle due to the repulsive interaction between the two bulky (\u2013R) groups. The C\u2013O bond length (141 pm) is almost the same as i...",
+      "page_number": 7,
+      "reason": "Matched: bond",
+      "summary_insight": "2 hybridised state of carbon to which oxygen is attached.",
+      "relevance_score": 0.17
+    },
+    {
+      "document": "chem3.pdf",
+      "section_title": "1. From alkenes",
+      "refined_text": "From alkenes (i) By acid catalysed hydration: Alkenes react with water in the presence of acid as catalyst to form alcohols. In case of unsymmetrical alkenes, the addition reaction takes place in accordance with Markovnikov\u2019s rule. Mechanism The mechanism of the reaction involves the following three steps: Step 1: Protonation of alkene to form carbocation by electrophilic",
+      "page_number": 7,
+      "reason": "Matched: reaction, step",
+      "summary_insight": "From alkenes (i) By acid catalysed hydration: Alkenes react with water in the presence of acid as catalyst to form alcohols.",
+      "relevance_score": 0.33
+    },
+    {
+      "document": "chem3.pdf",
+      "section_title": "H2O + H",
+      "refined_text": "H2O + H + \u00ae H3O + Step 2: Nucleophilic attack of water on carbocation. Step 3: Deprotonation to form an alcohol",
+      "page_number": 7,
+      "reason": "Matched: step",
+      "summary_insight": "H2O + H + \u00ae H3O + Step 2: Nucleophilic attack of water on carbocation.",
+      "relevance_score": 0.17
+    },
+    {
+      "document": "chem3.pdf",
+      "section_title": "7.4 Alcohols and",
+      "refined_text": "7.4 Alcohols and Alcohols and Alcohols and Alcohols and Alcohols and Phenols Phenols Phenols",
+      "page_number": 7,
+      "reason": "Accepted by pattern (fallback)",
+      "summary_insight": "7.4 Alcohols and Alcohols and Alcohols and Alcohols and Alcohols and Phenols Phenols Phenols.",
+      "relevance_score": 0.5
+    },
+    {
+      "document": "chem3.pdf",
+      "section_title": "2 carbon",
+      "refined_text": "2 carbon carrying greater number of hydrogen atoms. The alcohol so formed looks as if it has been formed by the addition of water to the alkene in a way opposite to the Markovnikov\u2019s rule. In this reaction, alcohol is obtained in excellent yield. From carbonyl compounds (i) By reduction of aldehydes and ketones: Aldehydes and ketones are reduced to the corresponding alcohols by addition of",
+      "page_number": 8,
+      "reason": "Matched: reaction, reduction",
+      "summary_insight": "2 carbon carrying greater number of hydrogen atoms.",
+      "relevance_score": 0.33
+    },
+    {
+      "document": "chem3.pdf",
+      "section_title": "2. From carbonyl compounds",
+      "refined_text": "From carbonyl compounds (i) By reduction of aldehydes and ketones: Aldehydes and ketones are reduced to the corresponding alcohols by addition of hydrogen in the presence of catalysts (catalytic hydrogenation). The usual catalyst is a finely divided metal such as platinum, palladium or nickel. It is also prepared by treating aldehydes and ketones with sodium borohydride (NaBH4) or lithium aluminiu...",
+      "page_number": 8,
+      "reason": "Matched: reduction",
+      "summary_insight": "From carbonyl compounds (i) By reduction of aldehydes and ketones: Aldehydes and ketones are reduced to the corresponding alcohols by addition of hydrogen in the presence of catalysts (catalytic hydrogenation).",
+      "relevance_score": 0.17
+    },
+    {
+      "document": "chem3.pdf",
+      "section_title": "RCH OH",
+      "refined_text": "RCH OH 2 However, LiAlH4 is an expensive reagent, and therefore, used for preparing special chemicals only. Commercially, acids are reduced to alcohols by converting them to the esters (Section 7.4.4), followed by their reduction using hydrogen in the presence of catalyst (catalytic hydrogenation)",
+      "page_number": 8,
+      "reason": "Matched: reduction",
+      "summary_insight": "RCH OH 2 However, LiAlH4 is an expensive reagent, and therefore, used for preparing special chemicals only.",
+      "relevance_score": 0.17
+    },
+    {
+      "document": "chem3.pdf",
+      "section_title": "7.4.4), followed by their reduction using hydrogen in the",
+      "refined_text": "7.4.4), followed by their reduction using hydrogen in the presence of catalyst (catalytic hydrogenation). R'OH H + Hydroboration - oxidation was first reported by H.C.",
+      "page_number": 8,
+      "reason": "Matched: oxidation, reduction",
+      "summary_insight": "7.4.4), followed by their reduction using hydrogen in the presence of catalyst (catalytic hydrogenation).",
+      "relevance_score": 0.33
+    },
+    {
+      "document": "chem3.pdf",
+      "section_title": "R'OH",
+      "refined_text": "R'OH H + Hydroboration - oxidation was first reported by H.C",
+      "page_number": 8,
+      "reason": "Matched: oxidation",
+      "summary_insight": "R'OH H + Hydroboration - oxidation was first reported by H.C.",
+      "relevance_score": 0.17
+    },
+    {
+      "document": "chem3.pdf",
+      "section_title": "3. From Grignard reagents",
+      "refined_text": "From Grignard reagents Alcohols are produced by the reaction of Grignard reagents (Unit 6, Class XII) with aldehydes and ketones. The first step of the reaction is the nucleophilic addition of Grignard reagent to the carbonyl group to form an adduct. Hydrolysis of the adduct yields an alcohol",
+      "page_number": 9,
+      "reason": "Matched: reaction, step",
+      "summary_insight": "From Grignard reagents Alcohols are produced by the reaction of Grignard reagents (Unit 6, Class XII) with aldehydes and ketones.",
+      "relevance_score": 0.33
+    },
+    {
+      "document": "chem3.pdf",
+      "section_title": "1. From haloarenes",
+      "refined_text": "From haloarenes Chlorobenzene is fused with NaOH at 623K and 320 atmospheric pressure. Phenol is obtained by acidification of sodium phenoxide so produced (Unit 6, Class XII). From benzenesulphonic acid Benzene is sulphonated with oleum and benzene sulphonic acid so formed is converted to sodium phenoxide on heating with molten sodium hydroxide. Acidification of the sodium salt gives phenol.",
+      "page_number": 10,
+      "reason": "Accepted by pattern (fallback)",
+      "summary_insight": "From haloarenes Chlorobenzene is fused with NaOH at 623K and 320 atmospheric pressure.",
+      "relevance_score": 0.5
+    },
+    {
+      "document": "chem3.pdf",
+      "section_title": "2. From benzenesulphonic acid",
+      "refined_text": "From benzenesulphonic acid Benzene is sulphonated with oleum and benzene sulphonic acid so formed is converted to sodium phenoxide on heating with molten sodium hydroxide. Acidification of the sodium salt gives phenol. From diazonium salts A diazonium salt is formed by treating an aromatic primary amine with nitrous acid (NaNO2 + HCl) at 273-278 K. Diazonium salts are hydrolysed to phenols by warm...",
+      "page_number": 10,
+      "reason": "Accepted by pattern (fallback)",
+      "summary_insight": "From benzenesulphonic acid Benzene is sulphonated with oleum and benzene sulphonic acid so formed is converted to sodium phenoxide on heating with molten sodium hydroxide.",
+      "relevance_score": 0.5
+    },
+    {
+      "document": "chem3.pdf",
+      "section_title": "3. From diazonium salts",
+      "refined_text": "From diazonium salts A diazonium salt is formed by treating an aromatic primary amine with nitrous acid (NaNO2 + HCl) at 273-278 K. Diazonium salts are hydrolysed to phenols by warming with water or by treating with dilute acids (Unit 9, Class XII)",
+      "page_number": 10,
+      "reason": "Accepted by pattern (fallback)",
+      "summary_insight": "From diazonium salts A diazonium salt is formed by treating an aromatic primary amine with nitrous acid (NaNO2 + HCl) at 273-278 K.",
+      "relevance_score": 0.5
+    },
+    {
+      "document": "chem3.pdf",
+      "section_title": "4. From cumene",
+      "refined_text": "From cumene Phenol is manufactured from the hydrocarbon, cumene. Cumene (isopropylbenzene) is oxidised in the presence of air to cumene hydroperoxide. It is converted to phenol and acetone by treating it with dilute acid. Acetone, a by-product of this reaction, is also obtained in large quantities by this method. Most of the worldwide production of phenol is",
+      "page_number": 10,
+      "reason": "Matched: reaction",
+      "summary_insight": "From cumene Phenol is manufactured from the hydrocarbon, cumene.",
+      "relevance_score": 0.17
+    },
+    {
+      "document": "chem3.pdf",
+      "section_title": "+ H O",
+      "refined_text": "+ H O 2 OH ONa + OH Na The above reactions show that alcohols and phenols are",
+      "page_number": 13,
+      "reason": "Matched: reaction",
+      "summary_insight": "+ H O 2 OH ONa + OH Na The above reactions show that alcohols and phenols are.",
+      "relevance_score": 0.17
+    },
+    {
+      "document": "chem3.pdf",
+      "section_title": "2 hybridised carbon of benzene ring which acts as an",
+      "refined_text": "2 hybridised carbon of benzene ring which acts as an electron withdrawing group. Due to this, the charge distribution in phenol molecule, as depicted in its resonance structures, causes the oxygen of \u2013OH group to be positive. The reaction of phenol with aqueous sodium hydroxide indicates that phenols are stronger acids than alcohols and water. Let us examine how a compound in which hydroxyl group ...",
+      "page_number": 14,
+      "reason": "Matched: structure",
+      "summary_insight": "2 hybridised carbon of benzene ring which acts as an electron withdrawing group.",
+      "relevance_score": 0.17
+    },
+    {
+      "document": "chem3.pdf",
+      "section_title": "2 hybridised carbon",
+      "refined_text": "2 hybridised carbon of phenol to which \u2013OH is attached, electron density decreases on oxygen. This increases the polarity of O\u2013H bond and results in an increase in ionisation of phenols than that of alcohols. Now let us examine the stabilities of alkoxide and phenoxide ions. In alkoxide ion, the negative charge is localised on oxygen while in phenoxide ion, the charge is delocalised. The delocalis...",
+      "page_number": 14,
+      "reason": "Matched: bond",
+      "summary_insight": "2 hybridised carbon of phenol to which \u2013OH is attached, electron density decreases on oxygen.",
+      "relevance_score": 0.17
+    },
+    {
+      "document": "chem3.pdf",
+      "section_title": "2,4, 6-trinitrophenol.",
+      "refined_text": "Example 7.4 Example 7.4 Example 7.4 Example 7.4 Example 7.4 Solution Solution",
+      "page_number": 15,
+      "reason": "Matched: example",
+      "summary_insight": "Example 7.4 Example 7.4 Example 7.4 Example 7.4 Example 7.4 Solution Solution.",
+      "relevance_score": 0.2
+    },
+    {
+      "document": "chem3.pdf",
+      "section_title": "2. Esterification",
+      "refined_text": "Esterification Alcohols and phenols react with carboxylic acids, acid chlorides and acid anhydrides to form esters. In substituted phenols, the presence of electron withdrawing groups such as nitro group, enhances the acidic strength of phenol. This effect is more pronounced when such a group is present at ortho and para positions. It is due to the effective delocalisation of negative charge in ph...",
+      "page_number": 15,
+      "reason": "Accepted by pattern (fallback)",
+      "summary_insight": "Esterification Alcohols and phenols react with carboxylic acids, acid chlorides and acid anhydrides to form esters.",
+      "relevance_score": 0.5
+    },
+    {
+      "document": "chem3.pdf",
+      "section_title": "COC",
+      "refined_text": "COC R/ArOCOR + HCl \u2019 The reaction with carboxylic acid and acid anhydride is carried out in the presence of a small amount of concentrated sulphuric acid. The reaction is reversible, and therefore, water is removed as soon as it is formed. The reaction with acid chloride is carried out in the presence of a base (pyridine) so as to neutralise HCl which is",
+      "page_number": 16,
+      "reason": "Matched: reaction",
+      "summary_insight": "COC R/ArOCOR + HCl \u2019 The reaction with carboxylic acid and acid anhydride is carried out in the presence of a small amount of concentrated sulphuric acid.",
+      "relevance_score": 0.17
+    },
+    {
+      "document": "chem3.pdf",
+      "section_title": "1. Reaction with hydrogen halides: Alcohols react with hydrogen",
+      "refined_text": "Reaction with hydrogen halides: Alcohols react with hydrogen halides to form alkyl halides (Refer Unit 6, Class XII). ROH + HX \u00ae R\u2013X + H2O The difference in reactivity of three classes of alcohols with HCl distinguishes them from one another (Lucas test). Alcohols are soluble in Lucas reagent (conc. HCl and ZnCl2) while their halides are immiscible and produce turbidity in solution. In case of ter...",
+      "page_number": 16,
+      "reason": "Matched: reaction",
+      "summary_insight": "Reaction with hydrogen halides: Alcohols react with hydrogen halides to form alkyl halides (Refer Unit 6, Class XII).",
+      "relevance_score": 0.17
+    },
+    {
+      "document": "chem3.pdf",
+      "section_title": "ROH + HX  \u00ae  R\u2013X + H2O",
+      "refined_text": "ROH + HX \u00ae R\u2013X + H2O The difference in reactivity of three classes of alcohols with HCl distinguishes them from one another (Lucas test). Alcohols are soluble in Lucas reagent (conc. HCl and ZnCl2) while their halides are immiscible and produce turbidity in solution. In case of tertiary alcohols, turbidity is produced immediately as they form the halides easily. Primary alcohols do not produce tur...",
+      "page_number": 16,
+      "reason": "Matched: case",
+      "summary_insight": "ROH + HX \u00ae R\u2013X + H2O The difference in reactivity of three classes of alcohols with HCl distinguishes them from one another (Lucas test).",
+      "relevance_score": 0.2
+    },
+    {
+      "document": "chem3.pdf",
+      "section_title": "2. Reaction with phosphorus trihalides: Alcohols are converted to",
+      "refined_text": "Reaction with phosphorus trihalides: Alcohols are converted to alkyl bromides by reaction with phosphorus tribromide (Refer Unit 6, Class XII). Dehydration: Alcohols undergo dehydration (removal of a molecule of water) to form alkenes on treating with a protic acid e.g., concentrated H2SO4 or H3PO4, or catalysts such as anhydrous zinc chloride or alumina. Ethanol undergoes dehydration by heating i...",
+      "page_number": 16,
+      "reason": "Matched: reaction",
+      "summary_insight": "Reaction with phosphorus trihalides: Alcohols are converted to alkyl bromides by reaction with phosphorus tribromide (Refer Unit 6, Class XII).",
+      "relevance_score": 0.17
+    },
+    {
+      "document": "chem3.pdf",
+      "section_title": "3. Dehydration: Alcohols undergo dehydration (removal of a molecule",
+      "refined_text": "Dehydration: Alcohols undergo dehydration (removal of a molecule of water) to form alkenes on treating with a protic acid e.g., concentrated H2SO4 or H3PO4, or catalysts such as anhydrous zinc chloride or alumina. Ethanol undergoes dehydration by heating it with concentrated H2SO4 at 443 K",
+      "page_number": 16,
+      "reason": "Accepted by pattern (fallback)",
+      "summary_insight": "Dehydration: Alcohols undergo dehydration (removal of a molecule of water) to form alkenes on treating with a protic acid e.g., concentrated H2SO4 or H3PO4, or catalysts such as anhydrous zinc chloride or alumina.",
+      "relevance_score": 0.5
+    },
+    {
+      "document": "chem3.pdf",
+      "section_title": "4. Oxidation: Oxidation of alcohols involves the formation of a carbon-",
+      "refined_text": "Oxidation: Oxidation of alcohols involves the formation of a carbon- oxygen double bond with cleavage of an O-H and C-H bonds. Such a cleavage and formation of bonds occur in oxidation reactions. These are also known as dehydrogenation reactions as these involve loss of dihydrogen from an alcohol molecule. Depending on the oxidising agent used, a primary alcohol is oxidised to an aldehyde which in...",
+      "page_number": 17,
+      "reason": "Matched: bond",
+      "summary_insight": "Oxidation: Oxidation of alcohols involves the formation of a carbon- oxygen double bond with cleavage of an O-H and C-H bonds.",
+      "relevance_score": 0.17
+    },
+    {
+      "document": "chem3.pdf",
+      "section_title": "R H",
+      "refined_text": "R H R C OH CHO \uf0be\uf0be\uf0be\uf0be\uf0ae A better reagent for oxidation of primary alcohols to aldehydes in good yield is pyridinium chlorochromate (PCC), a complex of",
+      "page_number": 18,
+      "reason": "Matched: oxidation",
+      "summary_insight": "R H R C OH CHO \uf0be\uf0be\uf0be\uf0be\uf0ae A better reagent for oxidation of primary alcohols to aldehydes in good yield is pyridinium chlorochromate (PCC), a complex of.",
+      "relevance_score": 0.17
+    },
+    {
+      "document": "chem3.pdf",
+      "section_title": "CHO",
+      "refined_text": "CHO \uf0be\uf0be\uf0be\uf0be\uf0ae A better reagent for oxidation of primary alcohols to aldehydes in good yield is pyridinium chlorochromate (PCC), a complex of chromium trioxide with pyridine and HCl",
+      "page_number": 18,
+      "reason": "Matched: oxidation",
+      "summary_insight": "CHO \uf0be\uf0be\uf0be\uf0be\uf0ae A better reagent for oxidation of primary alcohols to aldehydes in good yield is pyridinium chlorochromate (PCC), a complex of chromium trioxide with pyridine and HCl.",
+      "relevance_score": 0.17
+    },
+    {
+      "document": "chem3.pdf",
+      "section_title": "1. Electrophilic aromatic substitution",
+      "refined_text": "Electrophilic aromatic substitution In phenols, the reactions that take place on the aromatic ring are electrophilic substitution reactions (Unit 9, Class XI). The \u2013OH group attached to the benzene ring activates it towards electrophilic substitution. Also, it directs the incoming group to ortho and para positions in the ring as these positions become electron rich due to the resonance effect caus...",
+      "page_number": 19,
+      "reason": "Matched: reaction",
+      "summary_insight": "Electrophilic aromatic substitution In phenols, the reactions that take place on the aromatic ring are electrophilic substitution reactions (Unit 9, Class XI).",
+      "relevance_score": 0.17
+    },
+    {
+      "document": "chem3.pdf",
+      "section_title": "2,4,6-trinitrophenol. The product is commonly known as picric",
+      "refined_text": "The product is commonly known as picric acid. The yield of the reaction product is poor. Nowadays picric acid is prepared by treating phenol first with concentrated sulphuric acid which converts it to phenol-2,4-disulphonic acid, and then with concentrated nitric acid to get 2,4,6-trinitrophenol. Can you write the equations of the reactions involved? 2, 4, 6 - Trinitrophenol",
+      "page_number": 19,
+      "reason": "Matched: reaction",
+      "summary_insight": "The product is commonly known as picric acid.",
+      "relevance_score": 0.17
+    },
+    {
+      "document": "chem3.pdf",
+      "section_title": "2, 4, 6 - Trinitrophenol",
+      "refined_text": "2, 4, 6 - Trinitrophenol is a strong acid due to the presence of three electron withdrawing \u2013NO2 groups which facilitate the release of hydrogen ion",
+      "page_number": 19,
+      "reason": "Accepted by pattern (fallback)",
+      "summary_insight": "2, 4, 6 - Trinitrophenol is a strong acid due to the presence of three electron withdrawing \u2013NO2 groups which facilitate the release of hydrogen ion.",
+      "relevance_score": 0.5
+    },
+    {
+      "document": "chem3.pdf",
+      "section_title": "2,4,6-tribromophenol is formed as white precipitate.",
+      "refined_text": "2,4,6-tribromophenol is formed as white precipitate. Write the structures of the major products expected from the following reactions: (a) Mononitration of 3-methylphenol (b) Dinitration of 3-methylphenol (c) Mononitration of phenyl methanoate. The combined influence of \u2013OH and \u2013CH3 groups determine the position of the incoming group.",
+      "page_number": 20,
+      "reason": "Matched: structure",
+      "summary_insight": "2,4,6-tribromophenol is formed as white precipitate.",
+      "relevance_score": 0.17
+    },
+    {
+      "document": "chem3.pdf",
+      "section_title": "3. Reimer-Tiemann reaction",
+      "refined_text": "Reimer-Tiemann reaction On treating phenol with chloroform in the presence of sodium hydroxide, a \u2013CHO group is introduced at ortho position of benzene ring. This reaction is known as Reimer - Tiemann reaction. The intermediate substituted benzal chloride is hydrolysed in the presence of alkali to produce salicylaldehyde. Reaction of phenol with zinc dust Phenol is converted to benzene on heating ...",
+      "page_number": 21,
+      "reason": "Matched: reaction",
+      "summary_insight": "Reimer-Tiemann reaction On treating phenol with chloroform in the presence of sodium hydroxide, a \u2013CHO group is introduced at ortho position of benzene ring.",
+      "relevance_score": 0.17
+    },
+    {
+      "document": "chem3.pdf",
+      "section_title": "4. Reaction of phenol with zinc dust",
+      "refined_text": "Reaction of phenol with zinc dust Phenol is converted to benzene on heating with zinc dust. Oxidation Oxidation of phenol with chromic acid produces a conjugated diketone known as benzoquinone. In the presence of air, phenols are slowly oxidised to dark coloured mixtures",
+      "page_number": 21,
+      "reason": "Matched: reaction, oxidation",
+      "summary_insight": "Reaction of phenol with zinc dust Phenol is converted to benzene on heating with zinc dust.",
+      "relevance_score": 0.33
+    },
+    {
+      "document": "chem3.pdf",
+      "section_title": "5. Oxidation",
+      "refined_text": "Oxidation Oxidation of phenol with chromic acid produces a conjugated diketone known as benzoquinone. In the presence of air, phenols are slowly oxidised to dark coloured mixtures containing quinones",
+      "page_number": 21,
+      "reason": "Matched: oxidation",
+      "summary_insight": "Oxidation Oxidation of phenol with chromic acid produces a conjugated diketone known as benzoquinone.",
+      "relevance_score": 0.17
+    },
+    {
+      "document": "chem3.pdf",
+      "section_title": "1. Methanol",
+      "refined_text": "Methanol Methanol, CH3OH, also known as \u2018wood spirit\u2019, was produced by destructive distillation of wood. Today, most of the methanol is produced by catalytic hydrogenation of carbon monoxide at high pressure and temperature and in the presence of ZnO \u2013 Cr2O3 catalyst. Methanol is a colourless liquid and boils at 337 K. It is highly poisonous in nature. Ingestion of even small quantities of methano...",
+      "page_number": 22,
+      "reason": "Accepted by pattern (fallback)",
+      "summary_insight": "Methanol Methanol, CH3OH, also known as \u2018wood spirit\u2019, was produced by destructive distillation of wood.",
+      "relevance_score": 0.5
+    },
+    {
+      "document": "chem3.pdf",
+      "section_title": "2. Ethanol",
+      "refined_text": "Ethanol Ethanol, C2H5OH, is obtained commercially by fermentation, the oldest method is from sugars. The sugar in molasses, sugarcane or fruits such as grapes is converted to glucose and fructose, (both of which have the formula C6H12O6), in the presence of an enzyme, invertase. Glucose and fructose undergo fermentation in the presence of another enzyme, zymase, which is found in yeast. In wine ma...",
+      "page_number": 22,
+      "reason": "Accepted by pattern (fallback)",
+      "summary_insight": "Ethanol Ethanol, C2H5OH, is obtained commercially by fermentation, the oldest method is from sugars.",
+      "relevance_score": 0.5
+    },
+    {
+      "document": "chem3.pdf",
+      "section_title": "7.5 Some",
+      "refined_text": "7.5 Some Some Some Some Some Commercially Commercially Commercially",
+      "page_number": 22,
+      "reason": "Accepted by pattern (fallback)",
+      "summary_insight": "7.5 Some Some Some Some Some Commercially Commercially Commercially.",
+      "relevance_score": 0.5
+    },
+    {
+      "document": "chem3.pdf",
+      "section_title": "1. By dehydration of alcohols",
+      "refined_text": "By dehydration of alcohols Alcohols undergo dehydration in the presence of protic acids (H2SO4, H3PO4). The formation of the reaction product, alkene or ether depends on the reaction conditions. For example, ethanol is dehydrated to ethene in the presence of sulphuric acid at 443 K. At 413 K, ethoxyethane is the main product. The formation of ether is a nucleophilic bimolecular reaction (SN2) invo...",
+      "page_number": 23,
+      "reason": "Matched: reaction",
+      "summary_insight": "By dehydration of alcohols Alcohols undergo dehydration in the presence of protic acids (H2SO4, H3PO4).",
+      "relevance_score": 0.17
+    },
+    {
+      "document": "chem3.pdf",
+      "section_title": "7.6 Ethers",
+      "refined_text": "7.6 Ethers Ethers Ethers Ethers Ethers 7.6.1 Preparation of Ethers",
+      "page_number": 23,
+      "reason": "Accepted by pattern (fallback)",
+      "summary_insight": "7.6 Ethers Ethers Ethers Ethers Ethers 7.6.1 Preparation of Ethers.",
+      "relevance_score": 0.5
+    },
+    {
+      "document": "chem3.pdf",
+      "section_title": "2. Williamson synthesis",
+      "refined_text": "Williamson synthesis It is an important laboratory method for the preparation of symmetrical and unsymmetrical ethers. In this method, an alkyl halide is allowed to react with sodium alkoxide. R\u2013X + Na R \u2013O \u2019",
+      "page_number": 23,
+      "reason": "Accepted by pattern (fallback)",
+      "summary_insight": "Williamson synthesis It is an important laboratory method for the preparation of symmetrical and unsymmetrical ethers.",
+      "relevance_score": 0.5
+    },
+    {
+      "document": "chem3.pdf",
+      "section_title": "1849, he became",
+      "refined_text": "1849, he became Professor of Chemistry at University College, London",
+      "page_number": 23,
+      "reason": "Accepted by pattern (fallback)",
+      "summary_insight": "1849, he became Professor of Chemistry at University College, London.",
+      "relevance_score": 0.5
+    },
+    {
+      "document": "chem3.pdf",
+      "section_title": "1. Cleavage of C\u2013O bond in ethers",
+      "refined_text": "Cleavage of C\u2013O bond in ethers Ethers are the least reactive of the functional groups. The cleavage of C-O bond in ethers takes place under drastic conditions with excess of hydrogen halides. The reaction of dialkyl ether gives two alkyl halide molecules. Alkyl aryl ethers are cleaved at the alkyl-oxygen bond due to the more stable aryl-oxygen bond. The reaction yields phenol and alkyl halide.",
+      "page_number": 25,
+      "reason": "Matched: bond",
+      "summary_insight": "Cleavage of C\u2013O bond in ethers Ethers are the least reactive of the functional groups.",
+      "relevance_score": 0.17
+    },
+    {
+      "document": "chem3.pdf",
+      "section_title": "CH3",
+      "refined_text": "CH3 CH3 CH3 CH3 O It is because in step 2 of the reaction, the departure of leaving group (HO\u2013CH3) creates a more stable carbocation [(CH3)3C +], and the reaction",
+      "page_number": 26,
+      "reason": "Matched: reaction, step",
+      "summary_insight": "CH3 CH3 CH3 CH3 O It is because in step 2 of the reaction, the departure of leaving group (HO\u2013CH3) creates a more stable carbocation [(CH3)3C +], and the reaction.",
+      "relevance_score": 0.33
+    },
+    {
+      "document": "chem3.pdf",
+      "section_title": "CH3",
+      "refined_text": "CH3 CH3 CH3 O It is because in step 2 of the reaction, the departure of leaving group (HO\u2013CH3) creates a more stable carbocation [(CH3)3C +], and the reaction follows SN1 mechanism.",
+      "page_number": 26,
+      "reason": "Matched: reaction, step",
+      "summary_insight": "CH3 CH3 CH3 O It is because in step 2 of the reaction, the departure of leaving group (HO\u2013CH3) creates a more stable carbocation [(CH3)3C +], and the reaction follows SN1 mechanism.",
+      "relevance_score": 0.33
+    },
+    {
+      "document": "chem3.pdf",
+      "section_title": "CH3",
+      "refined_text": "CH3 CH3 O It is because in step 2 of the reaction, the departure of leaving group (HO\u2013CH3) creates a more stable carbocation [(CH3)3C +], and the reaction follows SN1 mechanism",
+      "page_number": 26,
+      "reason": "Matched: reaction, step",
+      "summary_insight": "CH3 CH3 O It is because in step 2 of the reaction, the departure of leaving group (HO\u2013CH3) creates a more stable carbocation [(CH3)3C +], and the reaction follows SN1 mechanism.",
+      "relevance_score": 0.33
+    },
+    {
+      "document": "chem3.pdf",
+      "section_title": "CH3",
+      "refined_text": "CH3 O It is because in step 2 of the reaction, the departure of leaving group (HO\u2013CH3) creates a more stable carbocation [(CH3)3C +], and the reaction follows SN1 mechanism. In case of anisole, methylphenyl oxonium ion,",
+      "page_number": 26,
+      "reason": "Matched: reaction, step",
+      "summary_insight": "CH3 O It is because in step 2 of the reaction, the departure of leaving group (HO\u2013CH3) creates a more stable carbocation [(CH3)3C +], and the reaction follows SN1 mechanism.",
+      "relevance_score": 0.33
+    },
+    {
+      "document": "chem3.pdf",
+      "section_title": "2 hybridised and there",
+      "refined_text": "2 hybridised and there is a partial double bond character. CH3 C CH3 CH3 O H",
+      "page_number": 26,
+      "reason": "Matched: bond",
+      "summary_insight": "2 hybridised and there is a partial double bond character.",
+      "relevance_score": 0.17
+    },
+    {
+      "document": "chem3.pdf",
+      "section_title": "2 hybridised carbon",
+      "refined_text": "2 hybridised carbon of phenol cannot undergo nucleophilic substitution reaction needed for conversion to the halide. Give the major products that are formed by heating each of the following ethers with HI. Example 7.7 Example 7.7 Example 7.7",
+      "page_number": 27,
+      "reason": "Matched: reaction, conversion",
+      "summary_insight": "2 hybridised carbon of phenol cannot undergo nucleophilic substitution reaction needed for conversion to the halide.",
+      "relevance_score": 0.33
+    },
+    {
+      "document": "chem3.pdf",
+      "section_title": "2. Electrophilic substitution",
+      "refined_text": "Electrophilic substitution The alkoxy group (-OR) is ortho, para directing and activates the aromatic ring towards electrophilic substitution in the same way as in phenol. (i) Halogenation: Phenylalkyl ethers undergo usual halogenation in the benzene ring, e.g., anisole undergoes bromination with bromine in ethanoic acid even in the absence of iron (III) bromide catalyst. It is due to the activati...",
+      "page_number": 27,
+      "reason": "Accepted by pattern (fallback)",
+      "summary_insight": "Electrophilic substitution The alkoxy group (-OR) is ortho, para directing and activates the aromatic ring towards electrophilic substitution in the same way as in phenol.",
+      "relevance_score": 0.5
+    },
+    {
+      "document": "chem3.pdf",
+      "section_title": "3 or sp",
+      "refined_text": "3 or sp 2 to which the \u2013OH group is attached. Ethers are classified on the basis of groups attached to the oxygen atom. Alcohols may be prepared (1) by hydration of alkenes (i) in presence of an acid and (ii) by hydroboration-oxidation reaction (2) from carbonyl compounds by (i) catalytic reduction and (ii) the action of Grignard reagents. Phenols may be prepared by (1) substitution of (i) halogen...",
+      "page_number": 29,
+      "reason": "Matched: reaction, oxidation, reduction",
+      "summary_insight": "3 or sp 2 to which the \u2013OH group is attached.",
+      "relevance_score": 0.5
+    },
+    {
+      "document": "chem3.pdf",
+      "section_title": "2 to",
+      "refined_text": "2 to which the \u2013OH group is attached. Ethers are classified on the basis of groups attached to the oxygen atom. Alcohols may be prepared (1) by hydration of alkenes (i) in presence of an acid and (ii) by hydroboration-oxidation reaction (2) from carbonyl compounds by (i) catalytic reduction and (ii) the action of Grignard reagents. Phenols may be prepared by (1) substitution of (i) halogen atom in...",
+      "page_number": 29,
+      "reason": "Matched: reaction, oxidation, reduction",
+      "summary_insight": "2 to which the \u2013OH group is attached.",
+      "relevance_score": 0.5
+    },
+    {
+      "document": "chem3.pdf",
+      "section_title": "7.1 Write IUPAC names of the following compounds:",
+      "refined_text": "7.1 Write IUPAC names of the following compounds: (i) (ii) (iii) (iv) (v) (vi) (vii)",
+      "page_number": 30,
+      "reason": "Accepted by pattern (fallback)",
+      "summary_insight": "7.1 Write IUPAC names of the following compounds: (i) (ii) (iii) (iv) (v) (vi) (vii).",
+      "relevance_score": 0.5
+    },
+    {
+      "document": "chem3.pdf",
+      "section_title": "7.2 Write structures of the compounds whose IUPAC names are as follows:",
+      "refined_text": "7.2 Write structures of the compounds whose IUPAC names are as follows: (i) 2-Methylbutan-2-ol (ii) 1-Phenylpropan-2-ol (iii) 3,5-Dimethylhexane \u20131, 3, 5-triol (iv) 2,3 \u2013 Diethylphenol (v) 1 \u2013 Ethoxypropane (vi) 2-Ethoxy-3-methylpentane (vii) Cyclohexylmethanol",
+      "page_number": 30,
+      "reason": "Matched: structure",
+      "summary_insight": "7.2 Write structures of the compounds whose IUPAC names are as follows: (i) 2-Methylbutan-2-ol (ii) 1-Phenylpropan-2-ol (iii) 3,5-Dimethylhexane \u20131, 3, 5-triol (iv) 2,3 \u2013 Diethylphenol (v) 1 \u2013 Ethoxypropane (vi) 2-Ethoxy-3-methylpentane (vii) Cyclohexylmethanol.",
+      "relevance_score": 0.17
+    },
+    {
+      "document": "chem3.pdf",
+      "section_title": "7.5 Alcohols are comparatively more soluble in water than hydrocarbons of",
+      "refined_text": "7.5 Alcohols are comparatively more soluble in water than hydrocarbons of comparable molecular masses. 7.6 What is meant by hydroboration-oxidation reaction? Illustrate it with an example. 7.7 Give the structures and IUPAC names of monohydric phenols of molecular formula, C7H8O. 7.8 While separating a mixture of ortho and para nitrophenols by steam distillation, name the isomer which will be steam...",
+      "page_number": 30,
+      "reason": "Matched: structure",
+      "summary_insight": "7.5 Alcohols are comparatively more soluble in water than hydrocarbons of comparable molecular masses.",
+      "relevance_score": 0.17
+    },
+    {
+      "document": "chem3.pdf",
+      "section_title": "7.6 What is meant by hydroboration-oxidation reaction? Illustrate it with an example.",
+      "refined_text": "7.6 What is meant by hydroboration-oxidation reaction? Illustrate it with an example. 7.7 Give the structures and IUPAC names of monohydric phenols of molecular formula, C7H8O. 7.8 While separating a mixture of ortho and para nitrophenols by steam distillation, name the isomer which will be steam volatile. 7.9 Give the equations of reactions for the preparation of phenol from cumene. 7.10 Write ch...",
+      "page_number": 30,
+      "reason": "Matched: structure",
+      "summary_insight": "7.6 What is meant by hydroboration-oxidation reaction? Illustrate it with an example.",
+      "relevance_score": 0.17
+    },
+    {
+      "document": "chem3.pdf",
+      "section_title": "7.7 Give the structures and IUPAC names of monohydric phenols of molecular",
+      "refined_text": "7.7 Give the structures and IUPAC names of monohydric phenols of molecular formula, C7H8O. 7.8 While separating a mixture of ortho and para nitrophenols by steam distillation, name the isomer which will be steam volatile. 7.9 Give the equations of reactions for the preparation of phenol from cumene. 7.10 Write chemical reaction for the preparation of phenol from chlorobenzene. 7.11 Write the mecha...",
+      "page_number": 30,
+      "reason": "Matched: structure",
+      "summary_insight": "7.7 Give the structures and IUPAC names of monohydric phenols of molecular formula, C7H8O.",
+      "relevance_score": 0.17
+    },
+    {
+      "document": "chem3.pdf",
+      "section_title": "7.8 While separating a mixture of ortho and para nitrophenols by steam",
+      "refined_text": "7.8 While separating a mixture of ortho and para nitrophenols by steam distillation, name the isomer which will be steam volatile. 7.9 Give the equations of reactions for the preparation of phenol from cumene. 7.10 Write chemical reaction for the preparation of phenol from chlorobenzene. 7.11 Write the mechanism of hydration of ethene to yield ethanol. 7.12 You are given benzene, conc. Write the e...",
+      "page_number": 30,
+      "reason": "Matched: reaction",
+      "summary_insight": "7.8 While separating a mixture of ortho and para nitrophenols by steam distillation, name the isomer which will be steam volatile.",
+      "relevance_score": 0.17
+    },
+    {
+      "document": "chem3.pdf",
+      "section_title": "7.10 Write chemical reaction for the preparation of phenol from chlorobenzene.",
+      "refined_text": "7.10 Write chemical reaction for the preparation of phenol from chlorobenzene. 7.11 Write the mechanism of hydration of ethene to yield ethanol. 7.12 You are given benzene, conc. Write the equations for the preparation of phenol using these reagents",
+      "page_number": 30,
+      "reason": "Matched: reaction",
+      "summary_insight": "7.10 Write chemical reaction for the preparation of phenol from chlorobenzene.",
+      "relevance_score": 0.17
+    },
+    {
+      "document": "chem3.pdf",
+      "section_title": "7.11 Write the mechanism of hydration of ethene to yield ethanol.",
+      "refined_text": "7.11 Write the mechanism of hydration of ethene to yield ethanol. 7.12 You are given benzene, conc. Write the equations for the preparation of phenol using these reagents",
+      "page_number": 30,
+      "reason": "Accepted by pattern (fallback)",
+      "summary_insight": "7.11 Write the mechanism of hydration of ethene to yield ethanol.",
+      "relevance_score": 0.5
+    },
+    {
+      "document": "chem3.pdf",
+      "section_title": "7.13 Show how will you synthesise:",
+      "refined_text": "7.13 Show how will you synthesise: (i) 1-phenylethanol from a suitable alkene. (ii) cyclohexylmethanol using an alkyl halide by an SN2 reaction. (iii) pentan-1-ol using a suitable alkyl halide? 7.14 Give two reactions that show the acidic nature of phenol. Compare acidity of phenol with that of ethanol. 7.15 Explain why is ortho nitrophenol more acidic than ortho methoxyphenol ? 7.16 Explain how d...",
+      "page_number": 31,
+      "reason": "Matched: reaction",
+      "summary_insight": "7.13 Show how will you synthesise: (i) 1-phenylethanol from a suitable alkene.",
+      "relevance_score": 0.17
+    },
+    {
+      "document": "chem3.pdf",
+      "section_title": "7.15 Explain why is ortho nitrophenol more acidic than ortho methoxyphenol ?",
+      "refined_text": "7.15 Explain why is ortho nitrophenol more acidic than ortho methoxyphenol ? 7.16 Explain how does the \u2013OH group attached to a carbon of benzene ring activate it towards electrophilic substitution? 7.17 Give equations of the following reactions: (i) Oxidation of propan-1-ol with alkaline KMnO4 solution. (ii) Bromine in CS2 with phenol. (iv) Treating phenol wih chloroform in presence of aqueous NaO...",
+      "page_number": 31,
+      "reason": "Matched: reaction, oxidation",
+      "summary_insight": "7.15 Explain why is ortho nitrophenol more acidic than ortho methoxyphenol ? 7.16 Explain how does the \u2013OH group attached to a carbon of benzene ring activate it towards electrophilic substitution? 7.17 Give equations of the following reactions: (i) Oxidation of propan-1-ol with alkaline KMnO4 solution.",
+      "relevance_score": 0.33
+    },
+    {
+      "document": "chem3.pdf",
+      "section_title": "7.17 Give equations of the following reactions:",
+      "refined_text": "7.17 Give equations of the following reactions: (i) Oxidation of propan-1-ol with alkaline KMnO4 solution. (ii) Bromine in CS2 with phenol. (iv) Treating phenol wih chloroform in presence of aqueous NaOH. 7.18 Explain the following with an example",
+      "page_number": 31,
+      "reason": "Matched: reaction, oxidation",
+      "summary_insight": "7.17 Give equations of the following reactions: (i) Oxidation of propan-1-ol with alkaline KMnO4 solution.",
+      "relevance_score": 0.33
+    },
+    {
+      "document": "chem3.pdf",
+      "section_title": "7.18 Explain the following with an example.",
+      "refined_text": "7.18 Explain the following with an example. 7.19 Write the mechanism of acid dehydration of ethanol to yield ethene. 7.20 How are the following conversions carried out? (i) Propene \u00ae Propan-2-ol.",
+      "page_number": 31,
+      "reason": "Matched: conversion",
+      "summary_insight": "7.18 Explain the following with an example.",
+      "relevance_score": 0.17
+    },
+    {
+      "document": "chem3.pdf",
+      "section_title": "7.19 Write the mechanism of acid dehydration of ethanol to yield ethene.",
+      "refined_text": "7.19 Write the mechanism of acid dehydration of ethanol to yield ethene. 7.20 How are the following conversions carried out? (i) Propene \u00ae Propan-2-ol. (ii) Benzyl chloride \u00ae Benzyl alcohol. (iii) Ethyl magnesium chloride \u00ae Propan-1-ol. (iv) Methyl magnesium bromide \u00ae 2-Methylpropan-2-ol. 7.21 Name the reagents used in the following reactions: (i) Oxidation of a primary alcohol to carboxylic acid.",
+      "page_number": 31,
+      "reason": "Matched: reaction, oxidation, conversion",
+      "summary_insight": "7.19 Write the mechanism of acid dehydration of ethanol to yield ethene.",
+      "relevance_score": 0.5
+    },
+    {
+      "document": "chem3.pdf",
+      "section_title": "7.20 How are the following conversions carried out?",
+      "refined_text": "7.20 How are the following conversions carried out? (i) Propene \u00ae Propan-2-ol. (ii) Benzyl chloride \u00ae Benzyl alcohol. (iii) Ethyl magnesium chloride \u00ae Propan-1-ol. (iv) Methyl magnesium bromide \u00ae 2-Methylpropan-2-ol. 7.21 Name the reagents used in the following reactions: (i) Oxidation of a primary alcohol to carboxylic acid. (ii) Oxidation of a primary alcohol to aldehyde.",
+      "page_number": 31,
+      "reason": "Matched: reaction, oxidation, conversion",
+      "summary_insight": "7.20 How are the following conversions carried out? (i) Propene \u00ae Propan-2-ol.",
+      "relevance_score": 0.5
+    },
+    {
+      "document": "chem3.pdf",
+      "section_title": "7.21 Name the reagents used in the following reactions:",
+      "refined_text": "7.21 Name the reagents used in the following reactions: (i) Oxidation of a primary alcohol to carboxylic acid. (ii) Oxidation of a primary alcohol to aldehyde. (iii) Bromination of phenol to 2,4,6-tribromophenol. (iv) Benzyl alcohol to benzoic acid. (v) Dehydration of propan-2-ol to propene. 7.22 Give reason for the higher boiling point of ethanol in comparison to",
+      "page_number": 31,
+      "reason": "Matched: reaction, oxidation",
+      "summary_insight": "7.21 Name the reagents used in the following reactions: (i) Oxidation of a primary alcohol to carboxylic acid.",
+      "relevance_score": 0.33
+    },
+    {
+      "document": "chem3.pdf",
+      "section_title": "7.23 Give IUPAC names of the following ethers:",
+      "refined_text": "7.23 Give IUPAC names of the following ethers: 7.24 Write the names of reagents and equations for the preparation of the following ethers by Williamson\u2019s synthesis: (i) 1-Propoxypropane (ii) Ethoxybenzene (iii) 2-Methoxy-2-methylpropane (iv) 1-Methoxyethane 7.25 Illustrate with examples the limitations of Williamson synthesis for the",
+      "page_number": 32,
+      "reason": "Matched: example",
+      "summary_insight": "7.23 Give IUPAC names of the following ethers: 7.24 Write the names of reagents and equations for the preparation of the following ethers by Williamson\u2019s synthesis: (i) 1-Propoxypropane (ii) Ethoxybenzene (iii) 2-Methoxy-2-methylpropane (iv) 1-Methoxyethane 7.25 Illustrate with examples the limitations of Williamson synthesis for the.",
+      "relevance_score": 0.2
+    },
+    {
+      "document": "chem3.pdf",
+      "section_title": "7.25 Illustrate with examples the limitations of Williamson synthesis for the",
+      "refined_text": "7.25 Illustrate with examples the limitations of Williamson synthesis for the preparation of certain types of ethers. 7.26 How is 1-propoxypropane synthesised from propan-1-ol? Write mechanism of this reaction. 7.27 Preparation of ethers by acid dehydration of secondary or tertiary alcohols is not a suitable method. 7.28 Write the equation of the reaction of hydrogen iodide with: (i) 1-propoxyprop...",
+      "page_number": 32,
+      "reason": "Matched: reaction",
+      "summary_insight": "7.25 Illustrate with examples the limitations of Williamson synthesis for the preparation of certain types of ethers.",
+      "relevance_score": 0.17
+    },
+    {
+      "document": "chem3.pdf",
+      "section_title": "7.26 How is 1-propoxypropane synthesised from propan-1-ol? Write mechanism",
+      "refined_text": "7.26 How is 1-propoxypropane synthesised from propan-1-ol? Write mechanism of this reaction. 7.27 Preparation of ethers by acid dehydration of secondary or tertiary alcohols is not a suitable method. 7.28 Write the equation of the reaction of hydrogen iodide with: (i) 1-propoxypropane (ii) methoxybenzene and (iii) benzyl ethyl ether. 7.29 Explain the fact that in aryl alkyl ethers (i) the alkoxy g...",
+      "page_number": 32,
+      "reason": "Matched: reaction",
+      "summary_insight": "7.26 How is 1-propoxypropane synthesised from propan-1-ol? Write mechanism of this reaction.",
+      "relevance_score": 0.17
+    },
+    {
+      "document": "chem3.pdf",
+      "section_title": "7.27 Preparation of ethers by acid dehydration of secondary or tertiary alcohols",
+      "refined_text": "7.27 Preparation of ethers by acid dehydration of secondary or tertiary alcohols is not a suitable method. 7.28 Write the equation of the reaction of hydrogen iodide with: (i) 1-propoxypropane (ii) methoxybenzene and (iii) benzyl ethyl ether. 7.29 Explain the fact that in aryl alkyl ethers (i) the alkoxy group activates the benzene ring towards electrophilic substitution and (ii) it directs the in...",
+      "page_number": 32,
+      "reason": "Matched: reaction",
+      "summary_insight": "7.27 Preparation of ethers by acid dehydration of secondary or tertiary alcohols is not a suitable method.",
+      "relevance_score": 0.17
+    },
+    {
+      "document": "chem3.pdf",
+      "section_title": "7.28 Write the equation of the reaction of hydrogen iodide with:",
+      "refined_text": "7.28 Write the equation of the reaction of hydrogen iodide with: (i) 1-propoxypropane (ii) methoxybenzene and (iii) benzyl ethyl ether. 7.29 Explain the fact that in aryl alkyl ethers (i) the alkoxy group activates the benzene ring towards electrophilic substitution and (ii) it directs the incoming substituents to ortho and para positions in benzene ring. 7.30 Write the mechanism of the reaction o...",
+      "page_number": 32,
+      "reason": "Matched: reaction",
+      "summary_insight": "7.28 Write the equation of the reaction of hydrogen iodide with: (i) 1-propoxypropane (ii) methoxybenzene and (iii) benzyl ethyl ether.",
+      "relevance_score": 0.17
+    },
+    {
+      "document": "chem3.pdf",
+      "section_title": "7.30 Write the mechanism of the reaction of HI with methoxymethane.",
+      "refined_text": "7.30 Write the mechanism of the reaction of HI with methoxymethane. 7.31 Write equations of the following reactions: (i) Friedel-Crafts reaction \u2013 alkylation of anisole. (iii) Bromination of anisole in ethanoic acid medium. 7.32 Show how would you synthesise the following alcohols from appropriate alkenes?",
+      "page_number": 32,
+      "reason": "Matched: reaction",
+      "summary_insight": "7.30 Write the mechanism of the reaction of HI with methoxymethane.",
+      "relevance_score": 0.17
+    },
+    {
+      "document": "chem3.pdf",
+      "section_title": "7.31 Write equations of the following reactions:",
+      "refined_text": "7.31 Write equations of the following reactions: (i) Friedel-Crafts reaction \u2013 alkylation of anisole. (iii) Bromination of anisole in ethanoic acid medium. 7.32 Show how would you synthesise the following alcohols from appropriate alkenes? CH3",
+      "page_number": 32,
+      "reason": "Matched: reaction",
+      "summary_insight": "7.31 Write equations of the following reactions: (i) Friedel-Crafts reaction \u2013 alkylation of anisole.",
+      "relevance_score": 0.17
+    },
+    {
+      "document": "chem3.pdf",
+      "section_title": "7.32 Show how would you synthesise the following alcohols from appropriate",
+      "refined_text": "7.32 Show how would you synthesise the following alcohols from appropriate alkenes? CH3 OH OH OH OH (i)",
+      "page_number": 32,
+      "reason": "Accepted by pattern (fallback)",
+      "summary_insight": "7.32 Show how would you synthesise the following alcohols from appropriate alkenes? CH3 OH OH OH OH (i).",
+      "relevance_score": 0.5
+    },
+    {
+      "document": "chem3.pdf",
+      "section_title": "7.33 When 3-methylbutan-2-ol is treated with HBr, the following reaction takes",
+      "refined_text": "7.33 When 3-methylbutan-2-ol is treated with HBr, the following reaction takes place: Give a mechanism for this reaction. (Hint : The secondary carbocation formed in step II rearranges to a more stable tertiary carbocation by a hydride ion shift from 3rd carbon atom",
+      "page_number": 32,
+      "reason": "Matched: reaction, step",
+      "summary_insight": "7.33 When 3-methylbutan-2-ol is treated with HBr, the following reaction takes place: Give a mechanism for this reaction.",
+      "relevance_score": 0.33
+    },
+    {
+      "document": "chem3.pdf",
+      "section_title": "7.1 Primary alcohols",
+      "refined_text": "7.1 Primary alcohols (i), (ii), (iii) Secondary alcohols (iv) and (v) Tertiary alcohols (vi) 7.2 Allylic alcohols (ii) and (vi)",
+      "page_number": 33,
+      "reason": "Accepted by pattern (fallback)",
+      "summary_insight": "7.1 Primary alcohols (i), (ii), (iii) Secondary alcohols (iv) and (v) Tertiary alcohols (vi) 7.2 Allylic alcohols (ii) and (vi).",
+      "relevance_score": 0.5
+    },
+    {
+      "document": "chem3.pdf",
+      "section_title": "7.2 Allylic alcohols",
+      "refined_text": "7.2 Allylic alcohols (ii) and (vi) 7.3 (i) 4-Chloro-3-ethyl-2-(1-methylethyl)-butan-1-ol (ii) 2, 5-Dimethylhexane-1,3-diol (iii) 3-Bromocyclohexanol (iv) Hex-1-en-3-ol (v) 2-Bromo-3-methylbut-2-en-1-ol",
+      "page_number": 33,
+      "reason": "Accepted by pattern (fallback)",
+      "summary_insight": "7.2 Allylic alcohols (ii) and (vi) 7.3 (i) 4-Chloro-3-ethyl-2-(1-methylethyl)-butan-1-ol (ii) 2, 5-Dimethylhexane-1,3-diol (iii) 3-Bromocyclohexanol (iv) Hex-1-en-3-ol (v) 2-Bromo-3-methylbut-2-en-1-ol.",
+      "relevance_score": 0.5
+    },
+    {
+      "document": "chem3.pdf",
+      "section_title": "7.7  (i) 1-Methylcyclohexene",
+      "refined_text": "7.7 (i) 1-Methylcyclohexene (ii) A Mixture of but-1-ene and but-2-ene. But-2-ene is the major product formed due to rearrangement to give secondary carbocation. 7.10 C H OH 2 5",
+      "page_number": 33,
+      "reason": "Accepted by pattern (fallback)",
+      "summary_insight": "7.7 (i) 1-Methylcyclohexene (ii) A Mixture of but-1-ene and but-2-ene.",
+      "relevance_score": 0.5
+    }
+  ]
+}

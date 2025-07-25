@@ -1,0 +1,17 @@
+{
+  "challenge_info": {
+    "challenge_id": "round_1b_003",
+    "test_case_name": "financial_insight_summary"
+  },
+  "documents": [
+    {"filename": "annual1.pdf", "title": "Annual Report FY 2020"},
+    {"filename": "annual2.pdf", "title": "Annual Report FY 2021"},
+    {"filename": "annual3.pdf", "title": "Annual Report FY 2022"}
+  ],
+  "persona": {
+    "role": "Financial Analyst"
+  },
+  "job_to_be_done": {
+    "task": "Extract financial performance insights and key business highlights from annual reports"
+  }
+}
