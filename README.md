@@ -45,7 +45,7 @@ adobe-round1b/
 
 ##  How to Run??
 
-### 1. Set up your environment
+### Set up your environment
 
 ```bash
 git clone https://github.com/Shri32/Adobe-Deepdoc-round1b-.git
@@ -54,11 +54,11 @@ python3 -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
 
-### 2. Run the processor
+### 1. Run the processor
 
 python3 app/summarizer.py
 
-###3. Output
+### 2. Output
 
 Each collection will generate:
 
@@ -82,7 +82,7 @@ Any Custom Job Provided by User – handled via fallback matching & title heuris
 
 Collection      	Output Link
 
-Research (Collection1)	View Output
+Research (Collection1)	[Sample Output - Collection 1](https://github.com/Shri32/Adobe-Deepdoc-round1b-/blob/main/Collection1/challenge1b_output.json)
 Chemistry (Collection2)	View Output
 Finance (Collection3)	View Output
 
