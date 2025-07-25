@@ -67,7 +67,7 @@ challenge1b_output.json under its folder
 Logs showing skipped/cleaned pages, matched titles, and scores
 ```
 
-##Supported Job Types
+### Supported Job Types
 
 The system supports intelligent filtering and matching based on the following categories:
 
