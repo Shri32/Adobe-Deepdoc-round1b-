@@ -47,7 +47,7 @@ adobe-round1b/
 
 ### Set up your environment
 
-```bash
+
 git clone https://github.com/Shri32/Adobe-Deepdoc-round1b-.git
 cd Adobe-Deepdoc-round1b-
 python3 -m venv venv
