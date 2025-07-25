@@ -83,9 +83,11 @@ Any Custom Job Provided by User – handled via fallback matching & title heuris
 Collection      	       Output Link
 
 
-Research (Collection1)	[Collection 1 Output](https://github.com/Shri32/Adobe-Deepdoc-round1b-/blob/main/Collection1/challenge1b_output.json)]
-Chemistry (Collection2) [Collection 2 Output](https://github.com/Shri32/Adobe-Deepdoc-round1b-/blob/main/Collection2/challenge1b_output.json)]
-Finance (Collection3)   [Collection 3 Output](https://github.com/Shri32/Adobe-Deepdoc-round1b-/blob/main/Collection3/challenge1b_output.json)]
+Research (Collection1):	[Collection 1 Output](https://github.com/Shri32/Adobe-Deepdoc-round1b-/blob/main/Collection1/challenge1b_output.json)]
+
+Chemistry (Collection2):[Collection 2 Output](https://github.com/Shri32/Adobe-Deepdoc-round1b-/blob/main/Collection2/challenge1b_output.json)]
+
+Finance (Collection3):  [Collection 3 Output](https://github.com/Shri32/Adobe-Deepdoc-round1b-/blob/main/Collection3/challenge1b_output.json)]
 
 Edit app/summarizer.py like:
 
