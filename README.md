@@ -54,11 +54,11 @@ python3 -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
 
-##2. Run the processor
+###2. Run the processor
 
 python3 app/summarizer.py
 
-##3. Output
+###3. Output
 
 Each collection will generate:
 
@@ -87,7 +87,7 @@ Chemistry (Collection2)	View Output
 Finance (Collection3)	View Output
 
 
-#Example Command to Process One Collection
+###Example Command to Process One Collection
 
 Edit app/summarizer.py like:
 
@@ -104,7 +104,7 @@ Move and rename as needed:
 
 mv output/round1b_output.json Collection1/challenge1b_output.json
 
-##Highlights & Engineering Achievements
+###Highlights & Engineering Achievements
 
 OCR fallback for even the weakest scanned PDFs
 
@@ -117,7 +117,7 @@ Smart handling of both image-based and text-based PDFs
 Fast, lightweight, and modular design
 
 
-## Final Notes
+### Final Notes
 
 All PDF extraction works offline.
 
