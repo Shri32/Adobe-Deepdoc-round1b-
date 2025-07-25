@@ -105,7 +105,7 @@ Move and rename as needed:
 
 mv output/round1b_output.json Collection1/challenge1b_output.json
 
-###Highlights & Engineering Achievements
+## Highlights & Engineering Achievements
 
 OCR fallback for even the weakest scanned PDFs
 
