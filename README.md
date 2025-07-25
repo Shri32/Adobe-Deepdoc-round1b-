@@ -83,8 +83,8 @@ Any Custom Job Provided by User – handled via fallback matching & title heuris
 Collection      	Output Link
 
 Research (Collection1)	[Sample Output - Collection 1](https://github.com/Shri32/Adobe-Deepdoc-round1b-/blob/main/Collection1/challenge1b_output.json)
-Chemistry (Collection2)	View Output
-Finance (Collection3)	View Output
+Chemistry (Collection2)	[Collection 2 Output](https://github.com/Shri32/Adobe-Deepdoc-round1b-/blob/main/Collection2/challenge1b_output.json)
+Finance (Collection3)	  [Collection 3 Output](https://github.com/Shri32/Adobe-Deepdoc-round1b-/blob/main/Collection3/challenge1b_output.json)
 
 
 ###Example Command to Process One Collection
