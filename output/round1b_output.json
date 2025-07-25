@@ -1,0 +1,931 @@
+{
+  "metadata": {
+    "input_documents": [
+      "rp1.pdf.pdf",
+      "rp2.pdf.pdf",
+      "rp4.pdf.pdf"
+    ],
+    "persona": "exam prep",
+    "job_to_be_done": "Prepare a exam report",
+    "processing_timestamp": "2025-07-25T02:47:16.348493"
+  },
+  "extracted_sections": [
+    {
+      "document": "rp1.pdf.pdf",
+      "page_number": 1,
+      "section_title": "129,450 clinical images\u2014two orders of magnitude larger than",
+      "importance_rank": 1
+    },
+    {
+      "document": "rp1.pdf.pdf",
+      "page_number": 1,
+      "section_title": "3,374 dermoscopy images.",
+      "importance_rank": 2
+    },
+    {
+      "document": "rp1.pdf.pdf",
+      "page_number": 2,
+      "section_title": "55.4 \u00b1\u200b 1.7% overall accuracy whereas the same two dermatologists",
+      "importance_rank": 2
+    },
+    {
+      "document": "rp1.pdf.pdf",
+      "page_number": 2,
+      "section_title": "92% malignant melanocytic lesion",
+      "importance_rank": 2
+    },
+    {
+      "document": "rp1.pdf.pdf",
+      "page_number": 2,
+      "section_title": "8% benign melanocytic lesion",
+      "importance_rank": 2
+    },
+    {
+      "document": "rp1.pdf.pdf",
+      "page_number": 3,
+      "section_title": "21 board-certified dermatologists on epidermal and melanocytic",
+      "importance_rank": 2
+    },
+    {
+      "document": "rp1.pdf.pdf",
+      "page_number": 3,
+      "section_title": "71 malignant and 40 benign. The slight performance decrease reflects",
+      "importance_rank": 2
+    },
+    {
+      "document": "rp1.pdf.pdf",
+      "page_number": 4,
+      "section_title": "RESEARCH",
+      "importance_rank": 1
+    },
+    {
+      "document": "rp1.pdf.pdf",
+      "page_number": 4,
+      "section_title": "13.\t Cerwall, P. & Report, E. M. Ericssons mobility report https://www.ericsson.com/",
+      "importance_rank": 2
+    },
+    {
+      "document": "rp1.pdf.pdf",
+      "page_number": 4,
+      "section_title": "15.\t Burroni, M. et al. Melanoma computer-aided diagnosis: reliability and",
+      "importance_rank": 2
+    },
+    {
+      "document": "rp1.pdf.pdf",
+      "page_number": 4,
+      "section_title": "18.\t Gutman, D. et al. Skin lesion analysis toward melanoma detection. International",
+      "importance_rank": 2
+    },
+    {
+      "document": "rp1.pdf.pdf",
+      "page_number": 4,
+      "section_title": "19.\t Binder, M. et al. Epiluminescence microscopy-based classification of",
+      "importance_rank": 2
+    },
+    {
+      "document": "rp1.pdf.pdf",
+      "page_number": 4,
+      "section_title": "23.\t Ramlakhan, K. & Shang, Y. A mobile automated skin lesion classification",
+      "importance_rank": 2
+    },
+    {
+      "document": "rp1.pdf.pdf",
+      "page_number": 4,
+      "section_title": "25.\t Deng, J. et al. Imagenet: A large-scale hierarchical image database. EEE",
+      "importance_rank": 2
+    },
+    {
+      "document": "rp1.pdf.pdf",
+      "page_number": 4,
+      "section_title": "26.\t Mnih, V. et al. Human-level control through deep reinforcement learning.",
+      "importance_rank": 2
+    },
+    {
+      "document": "rp1.pdf.pdf",
+      "page_number": 4,
+      "section_title": "30.\t Abadi, M. et al. Tensorflow: large-scale machine learning on heterogeneous",
+      "importance_rank": 2
+    },
+    {
+      "document": "rp1.pdf.pdf",
+      "page_number": 5,
+      "section_title": "111 (71 malignant, 40 benign) images, respectively. Their counterparts of Fig. 3b",
+      "importance_rank": 2
+    },
+    {
+      "document": "rp1.pdf.pdf",
+      "page_number": 5,
+      "section_title": "2014 ImageNet Challenge following ref. 9. We then remove the final classification",
+      "importance_rank": 2
+    },
+    {
+      "document": "rp1.pdf.pdf",
+      "page_number": 6,
+      "section_title": "RESEARCH",
+      "importance_rank": 1
+    },
+    {
+      "document": "rp1.pdf.pdf",
+      "page_number": 8,
+      "section_title": "RESEARCH",
+      "importance_rank": 1
+    },
+    {
+      "document": "rp1.pdf.pdf",
+      "page_number": 10,
+      "section_title": "RESEARCH",
+      "importance_rank": 1
+    },
+    {
+      "document": "rp2.pdf.pdf",
+      "page_number": 1,
+      "section_title": "1-Department of Computer Engineering, Shiraz branch, Islamic Azad University, Shiraz, Iran",
+      "importance_rank": 2
+    },
+    {
+      "document": "rp2.pdf.pdf",
+      "page_number": 1,
+      "section_title": "2-Department of Electrical Engineering, Shiraz branch, Islamic Azad University, Shiraz, Iran",
+      "importance_rank": 2
+    },
+    {
+      "document": "rp2.pdf.pdf",
+      "page_number": 1,
+      "section_title": "3-Legal Medicine Research Center, Iranian Legal Medicine Organization, Tehran, Iran",
+      "importance_rank": 2
+    },
+    {
+      "document": "rp2.pdf.pdf",
+      "page_number": 1,
+      "section_title": "1. Introduction",
+      "importance_rank": 1
+    },
+    {
+      "document": "rp2.pdf.pdf",
+      "page_number": 3,
+      "section_title": "2. Methods and materials",
+      "importance_rank": 2
+    },
+    {
+      "document": "rp2.pdf.pdf",
+      "page_number": 3,
+      "section_title": "2.1. Materials",
+      "importance_rank": 2
+    },
+    {
+      "document": "rp2.pdf.pdf",
+      "page_number": 4,
+      "section_title": "2.2. Methods",
+      "importance_rank": 2
+    },
+    {
+      "document": "rp2.pdf.pdf",
+      "page_number": 5,
+      "section_title": "2.2.1. Google\u2019s Inception v3",
+      "importance_rank": 2
+    },
+    {
+      "document": "rp2.pdf.pdf",
+      "page_number": 5,
+      "section_title": "2.2.2. InceptionResNet v2",
+      "importance_rank": 2
+    },
+    {
+      "document": "rp2.pdf.pdf",
+      "page_number": 6,
+      "section_title": "2.2.4. DenseNet 201",
+      "importance_rank": 2
+    },
+    {
+      "document": "rp2.pdf.pdf",
+      "page_number": 6,
+      "section_title": "3. Results",
+      "importance_rank": 2
+    },
+    {
+      "document": "rp2.pdf.pdf",
+      "page_number": 8,
+      "section_title": "201 and ResNet 152 have achieved better results overall.",
+      "importance_rank": 2
+    },
+    {
+      "document": "rp2.pdf.pdf",
+      "page_number": 11,
+      "section_title": "4. Discussion",
+      "importance_rank": 2
+    },
+    {
+      "document": "rp2.pdf.pdf",
+      "page_number": 12,
+      "section_title": "5. Conclusion and Future works",
+      "importance_rank": 2
+    },
+    {
+      "document": "rp2.pdf.pdf",
+      "page_number": 12,
+      "section_title": "6. References",
+      "importance_rank": 2
+    },
+    {
+      "document": "rp2.pdf.pdf",
+      "page_number": 14,
+      "section_title": "4 dermoscopic algorithms by nonexperts for the diagnosis of melanocytic lesions,\" vol.",
+      "importance_rank": 2
+    },
+    {
+      "document": "rp4.pdf.pdf",
+      "page_number": 1,
+      "section_title": "1. Motivation",
+      "importance_rank": 2
+    },
+    {
+      "document": "rp4.pdf.pdf",
+      "page_number": 2,
+      "section_title": "2. Fitzpatrick 17k Dataset",
+      "importance_rank": 2
+    },
+    {
+      "document": "rp4.pdf.pdf",
+      "page_number": 2,
+      "section_title": "3,905 images from Atlas Dermatologico [4, 26].",
+      "importance_rank": 2
+    },
+    {
+      "document": "rp4.pdf.pdf",
+      "page_number": 2,
+      "section_title": "6.3% as characteristic (resembling the appearance of such",
+      "importance_rank": 2
+    },
+    {
+      "document": "rp4.pdf.pdf",
+      "page_number": 2,
+      "section_title": "2,263 malignant lesions, and 12,080 non-neoplastic lesions.",
+      "importance_rank": 2
+    },
+    {
+      "document": "rp4.pdf.pdf",
+      "page_number": 2,
+      "section_title": "312 images with Fitzpatrick skin type annotations provided",
+      "importance_rank": 1
+    },
+    {
+      "document": "rp4.pdf.pdf",
+      "page_number": 3,
+      "section_title": "7,755 images of the lightest skin types (1 & 2), 6,089 im-",
+      "importance_rank": 2
+    },
+    {
+      "document": "rp4.pdf.pdf",
+      "page_number": 3,
+      "section_title": "114 skin conditions for Fitzpatrick skin types 1 through",
+      "importance_rank": 2
+    },
+    {
+      "document": "rp4.pdf.pdf",
+      "page_number": 3,
+      "section_title": "3. For the remaining Fitpatrick skin types, there are 113",
+      "importance_rank": 2
+    },
+    {
+      "document": "rp4.pdf.pdf",
+      "page_number": 3,
+      "section_title": "3. Classifying Skin Conditions with a Deep",
+      "importance_rank": 2
+    },
+    {
+      "document": "rp4.pdf.pdf",
+      "page_number": 3,
+      "section_title": "3.1. Methodology",
+      "importance_rank": 2
+    },
+    {
+      "document": "rp4.pdf.pdf",
+      "page_number": 3,
+      "section_title": "40% change of dropping, a layer with the number of pre-",
+      "importance_rank": 2
+    },
+    {
+      "document": "rp4.pdf.pdf",
+      "page_number": 3,
+      "section_title": "1,074,532 are trainable.",
+      "importance_rank": 2
+    },
+    {
+      "document": "rp4.pdf.pdf",
+      "page_number": 3,
+      "section_title": "0 to 15 degrees, randomly altering the brightness, contrast,",
+      "importance_rank": 2
+    },
+    {
+      "document": "rp4.pdf.pdf",
+      "page_number": 3,
+      "section_title": "224 pixels by 224 pixels, and normalizing the image arrays",
+      "importance_rank": 2
+    },
+    {
+      "document": "rp4.pdf.pdf",
+      "page_number": 3,
+      "section_title": "3.2. Results",
+      "importance_rank": 2
+    },
+    {
+      "document": "rp4.pdf.pdf",
+      "page_number": 4,
+      "section_title": "93.3% accuracy on 1 condition (30 images).",
+      "importance_rank": 2
+    },
+    {
+      "document": "rp4.pdf.pdf",
+      "page_number": 4,
+      "section_title": "4.1. Methodology",
+      "importance_rank": 2
+    },
+    {
+      "document": "rp4.pdf.pdf",
+      "page_number": 5,
+      "section_title": "4.2. Results",
+      "importance_rank": 2
+    },
+    {
+      "document": "rp4.pdf.pdf",
+      "page_number": 5,
+      "section_title": "14 and 15. For each entry, we calculate the proportion of",
+      "importance_rank": 2
+    },
+    {
+      "document": "rp4.pdf.pdf",
+      "page_number": 5,
+      "section_title": "14, a modified version of the ITA thresholds described by",
+      "importance_rank": 2
+    },
+    {
+      "document": "rp4.pdf.pdf",
+      "page_number": 5,
+      "section_title": "5. Conclusion",
+      "importance_rank": 2
+    },
+    {
+      "document": "rp4.pdf.pdf",
+      "page_number": 8,
+      "section_title": "2020 challenge dataset. International Skin Imaging Collab-",
+      "importance_rank": 2
+    },
+    {
+      "document": "rp4.pdf.pdf",
+      "page_number": 9,
+      "section_title": "35th annual international conference of the IEEE engineer-",
+      "importance_rank": 2
+    }
+  ],
+  "subsection_analysis": [
+    {
+      "document": "rp1.pdf.pdf",
+      "section_title": "129,450 clinical images\u2014two orders of magnitude larger than",
+      "refined_text": "129,450 clinical images\u2014two orders of magnitude larger than previous datasets12\u2014consisting of 2,032 different diseases. We test its performance against 21 board-certified dermatologists on biopsy-proven clinical images with two critical binary classification use cases: keratinocyte carcinomas versus benign seborrheic keratoses; and malignant melanomas versus benign nevi. The first case represents ...",
+      "page_number": 1,
+      "reason": "Matched: case",
+      "summary_insight": "129,450 clinical images\u2014two orders of magnitude larger than previous datasets12\u2014consisting of 2,032 different diseases.",
+      "relevance_score": 0.2
+    },
+    {
+      "document": "rp1.pdf.pdf",
+      "section_title": "3,374 dermoscopy images.",
+      "refined_text": "Deep learning algorithms, powered by advances in computation and very large datasets25, have recently been shown to exceed human \u00adperformance in visual tasks such as playing Atari games26, \u00adstrategic board games like Go27 and object recognition6. In this paper we \u00adoutline the development of a CNN that matches the \u00adperformance of \u00addermatologists at three key diagnostic tasks: \u00admelanoma \u00adclassificat...",
+      "page_number": 1,
+      "reason": "Accepted by pattern (fallback)",
+      "summary_insight": "Deep learning algorithms, powered by advances in computation and very large datasets25, have recently been shown to exceed human \u00adperformance in visual tasks such as playing Atari games26, \u00adstrategic board games like Go27 and object recognition6.",
+      "relevance_score": 0.5
+    },
+    {
+      "document": "rp1.pdf.pdf",
+      "section_title": "55.4 \u00b1\u200b 1.7% overall accuracy whereas the same two dermatologists",
+      "refined_text": "55.4 \u00b1\u200b 1.7% overall accuracy whereas the same two dermatologists attain 53.3% and 55.0% accuracy. A CNN trained on a finer disease partition performs better than one trained directly on three or nine classes (see Extended Data Table 2), demonstrating the effectiveness of our partitioning algorithm. Because images of the validation set are labelled by dermatologists, but not necessarily confirmed ...",
+      "page_number": 2,
+      "reason": "Accepted by pattern (fallback)",
+      "summary_insight": "55.4 \u00b1\u200b 1.7% overall accuracy whereas the same two dermatologists attain 53.3% and 55.0% accuracy.",
+      "relevance_score": 0.5
+    },
+    {
+      "document": "rp1.pdf.pdf",
+      "section_title": "92% malignant melanocytic lesion",
+      "refined_text": "92% malignant melanocytic lesion 8% benign melanocytic lesion Skin lesion image Convolution AvgPool MaxPool Concat Dropout",
+      "page_number": 2,
+      "reason": "Accepted by pattern (fallback)",
+      "summary_insight": "92% malignant melanocytic lesion 8% benign melanocytic lesion Skin lesion image Convolution AvgPool MaxPool Concat Dropout.",
+      "relevance_score": 0.5
+    },
+    {
+      "document": "rp1.pdf.pdf",
+      "section_title": "8% benign melanocytic lesion",
+      "refined_text": "8% benign melanocytic lesion Skin lesion image Convolution AvgPool MaxPool Concat Dropout Fully connected",
+      "page_number": 2,
+      "reason": "Accepted by pattern (fallback)",
+      "summary_insight": "8% benign melanocytic lesion Skin lesion image Convolution AvgPool MaxPool Concat Dropout Fully connected.",
+      "relevance_score": 0.5
+    },
+    {
+      "document": "rp1.pdf.pdf",
+      "section_title": "21 board-certified dermatologists on epidermal and melanocytic",
+      "refined_text": "21 board-certified dermatologists on epidermal and melanocytic lesion classification (Fig. For each image the dermatologists were asked whether to biopsy/treat the lesion or reassure the patient. Each red point on the plots represents the sensitivity and specificity of a \u00adsingle \u00addermatologist. The CNN outperforms any dermatologist whose \u00adsensitivity and specificity point falls below the blue curv...",
+      "page_number": 3,
+      "reason": "Accepted by pattern (fallback)",
+      "summary_insight": "21 board-certified dermatologists on epidermal and melanocytic lesion classification (Fig.",
+      "relevance_score": 0.5
+    },
+    {
+      "document": "rp1.pdf.pdf",
+      "section_title": "71 malignant and 40 benign. The slight performance decrease reflects",
+      "refined_text": "The slight performance decrease reflects differences in the difficulty of the images tested rather than the diagnostic accuracies of visual versus dermoscopic examination. b, The deep learning CNN exhibits reliable cancer classification when tested on a larger dataset. We tested the CNN on more images to demonstrate robust and reliable cancer classification. The CNN\u2019s curves are smoother owing to ...",
+      "page_number": 3,
+      "reason": "Accepted by pattern (fallback)",
+      "summary_insight": "The slight performance decrease reflects differences in the difficulty of the images tested rather than the diagnostic accuracies of visual versus dermoscopic examination.",
+      "relevance_score": 0.5
+    },
+    {
+      "document": "rp1.pdf.pdf",
+      "section_title": "RESEARCH",
+      "refined_text": "RESEARCH the CNN, which most do. The green points represent the average of the dermatologists (average sensitivity and specificity of all red points), with error bars denoting one standard deviation. The area under the curve (AUC) for each case is over 91%. The images for this \u00adcomparison (135 \u00adepidermal, 130 melanocytic and 111 melanocytic \u00addermoscopy images) are \u00adsampled from the full test sets....",
+      "page_number": 4,
+      "reason": "Matched: case",
+      "summary_insight": "RESEARCH the CNN, which most do.",
+      "relevance_score": 0.2
+    },
+    {
+      "document": "rp1.pdf.pdf",
+      "section_title": "13.\t Cerwall, P. & Report, E. M. Ericssons mobility report https://www.ericsson.com/",
+      "refined_text": "Ericssons mobility report https://www.ericsson.com/ res/docs/2016/ericsson-mobility-report-2016.pdf (2016). Accuracy of computer diagnosis of melanoma: a quantitative meta-analysis. Melanoma computer-aided diagnosis: reliability and feasibility study. Kittler, H., Pehamberger, H., Wolff, K",
+      "page_number": 4,
+      "reason": "Accepted by pattern (fallback)",
+      "summary_insight": "Ericssons mobility report https://www.ericsson.com/ res/docs/2016/ericsson-mobility-report-2016.pdf (2016).",
+      "relevance_score": 0.5
+    },
+    {
+      "document": "rp1.pdf.pdf",
+      "section_title": "15.\t Burroni, M. et al. Melanoma computer-aided diagnosis: reliability and",
+      "refined_text": "Melanoma computer-aided diagnosis: reliability and feasibility study. Kittler, H., Pehamberger, H., Wolff, K. In Machine Learning in Medical Imaging (eds Zhou, L., Wang, L., Wang, Q. & Shi, Y.) 118\u2013126 (Springer, 2015). Skin lesion analysis toward melanoma detection. International Symposium on Biomedical Imaging (ISBI), (International Skin Imaging",
+      "page_number": 4,
+      "reason": "Accepted by pattern (fallback)",
+      "summary_insight": "Melanoma computer-aided diagnosis: reliability and feasibility study.",
+      "relevance_score": 0.5
+    },
+    {
+      "document": "rp1.pdf.pdf",
+      "section_title": "18.\t Gutman, D. et al. Skin lesion analysis toward melanoma detection. International",
+      "refined_text": "Skin lesion analysis toward melanoma detection. International Symposium on Biomedical Imaging (ISBI), (International Skin Imaging Collaboration (ISIC), 2016). Epiluminescence microscopy-based classification of pigmented skin lesions using computerized image analysis and an artificial neural network. In Skin Cancer and UV Radiation (eds Altmeyer, P., Hoffmann, K. & St\u00fccker, M.) 1064\u20131070 (Springer,...",
+      "page_number": 4,
+      "reason": "Accepted by pattern (fallback)",
+      "summary_insight": "Skin lesion analysis toward melanoma detection.",
+      "relevance_score": 0.5
+    },
+    {
+      "document": "rp1.pdf.pdf",
+      "section_title": "19.\t Binder, M. et al. Epiluminescence microscopy-based classification of",
+      "refined_text": "Epiluminescence microscopy-based classification of pigmented skin lesions using computerized image analysis and an artificial neural network. In Skin Cancer and UV Radiation (eds Altmeyer, P., Hoffmann, K. & St\u00fccker, M.) 1064\u20131070 (Springer, 1997). Model predicting survival in stage I melanoma based on tumor progression. Classification of melanocytic lesions with color and texture",
+      "page_number": 4,
+      "reason": "Accepted by pattern (fallback)",
+      "summary_insight": "Epiluminescence microscopy-based classification of pigmented skin lesions using computerized image analysis and an artificial neural network.",
+      "relevance_score": 0.5
+    },
+    {
+      "document": "rp1.pdf.pdf",
+      "section_title": "23.\t Ramlakhan, K. & Shang, Y. A mobile automated skin lesion classification",
+      "refined_text": "A mobile automated skin lesion classification system. 23rd IEEE International Conference on Tools with Artificial Intelligence (ICTAI) 138\u2013141 (2011). & Schaefer, G.) 63\u201386 (Springer, 2013). Imagenet: A large-scale hierarchical image database. EEE Conference on Computer Vision and Pattern Recognition 248\u2013255 (CVPR, 2009).",
+      "page_number": 4,
+      "reason": "Accepted by pattern (fallback)",
+      "summary_insight": "A mobile automated skin lesion classification system.",
+      "relevance_score": 0.5
+    },
+    {
+      "document": "rp1.pdf.pdf",
+      "section_title": "25.\t Deng, J. et al. Imagenet: A large-scale hierarchical image database. EEE",
+      "refined_text": "Imagenet: A large-scale hierarchical image database. EEE Conference on Computer Vision and Pattern Recognition 248\u2013255 (CVPR, 2009). Human-level control through deep reinforcement learning. Mastering the game of Go with deep neural networks and tree search",
+      "page_number": 4,
+      "reason": "Accepted by pattern (fallback)",
+      "summary_insight": "Imagenet: A large-scale hierarchical image database.",
+      "relevance_score": 0.5
+    },
+    {
+      "document": "rp1.pdf.pdf",
+      "section_title": "26.\t Mnih, V. et al. Human-level control through deep reinforcement learning.",
+      "refined_text": "Human-level control through deep reinforcement learning. Mastering the game of Go with deep neural networks and tree search. Van der Maaten, L., & Hinton, G",
+      "page_number": 4,
+      "reason": "Accepted by pattern (fallback)",
+      "summary_insight": "Human-level control through deep reinforcement learning.",
+      "relevance_score": 0.5
+    },
+    {
+      "document": "rp1.pdf.pdf",
+      "section_title": "30.\t Abadi, M. et al. Tensorflow: large-scale machine learning on heterogeneous",
+      "refined_text": "Tensorflow: large-scale machine learning on heterogeneous distributed systems. Acknowledgements We thank the Thrun laboratory for their support and ideas. We thank members of the dermatology departments at Stanford University, University of Pennsylvania, Massachusetts General Hospital and University of Iowa for completing our tests. This study was supported by funding from the Baxter Foundation to...",
+      "page_number": 4,
+      "reason": "Accepted by pattern (fallback)",
+      "summary_insight": "Tensorflow: large-scale machine learning on heterogeneous distributed systems.",
+      "relevance_score": 0.5
+    },
+    {
+      "document": "rp1.pdf.pdf",
+      "section_title": "111 (71 malignant, 40 benign) images, respectively. Their counterparts of Fig. 3b",
+      "refined_text": "111 (71 malignant, 40 benign) images, respectively. 3b used 707 (450 malignant, 257 benign), 225 (58 malignant, 167 benign), and 1,010 (88 malignant, 922 benign) images, respectively. The number of images used for Fig. 3b was based on the availability of biopsy labelled data (that is, malignant melanocytic lesions are exceedingly rare compared to benign melanocytic lesions). These numbers are stat...",
+      "page_number": 5,
+      "reason": "Accepted by pattern (fallback)",
+      "summary_insight": "111 (71 malignant, 40 benign) images, respectively.",
+      "relevance_score": 0.5
+    },
+    {
+      "document": "rp1.pdf.pdf",
+      "section_title": "2014 ImageNet Challenge following ref. 9. We then remove the final classification",
+      "refined_text": "We then remove the final classification layer from the network and retrain it with our dataset, fine-tuning the parameters across all layers. During training we resize each image to 299 \u00d7\u200b 299 pixels in order to make it compatible with the original dimensions of the Inception v3 network architecture and leverage the natural-image features learned by the ImageNet \u00adpretrained network. This procedure...",
+      "page_number": 5,
+      "reason": "Accepted by pattern (fallback)",
+      "summary_insight": "We then remove the final classification layer from the network and retrain it with our dataset, fine-tuning the parameters across all layers.",
+      "relevance_score": 0.5
+    },
+    {
+      "document": "rp1.pdf.pdf",
+      "section_title": "RESEARCH",
+      "refined_text": "RESEARCH Extended Data Figure 1 | Procedure for calculating inference class probabilities from training class probabilities. Illustrative example of the inference procedure using a subset of the taxonomy and mock training/inference classes. Inference classes (for example, malignant and benign lesions) correspond to the red nodes in the tree. Training classes (for example, amelanotic melanoma, blue...",
+      "page_number": 6,
+      "reason": "Matched: example",
+      "summary_insight": "RESEARCH Extended Data Figure 1 | Procedure for calculating inference class probabilities from training class probabilities.",
+      "relevance_score": 0.2
+    },
+    {
+      "document": "rp1.pdf.pdf",
+      "section_title": "RESEARCH",
+      "refined_text": "RESEARCH Extended Data Figure 3 | Saliency maps for nine example images from the second validation strategy. a\u2013i, Saliency maps for example images from each of the nine clinical disease classes of the second validation strategy reveal the pixels that most influence a CNN\u2019s prediction. Saliency maps show the pixel gradients with respect to the CNN\u2019s loss function. Darker pixels represent those with...",
+      "page_number": 8,
+      "reason": "Matched: example",
+      "summary_insight": "RESEARCH Extended Data Figure 3 | Saliency maps for nine example images from the second validation strategy.",
+      "relevance_score": 0.2
+    },
+    {
+      "document": "rp1.pdf.pdf",
+      "section_title": "RESEARCH",
+      "refined_text": "RESEARCH Extended Data Table 1 | Disease-partitioning algorithm This algorithm uses the taxonomy to partition the diseases into fine-grained training classes. We find that training on these finer classes improves the classification accuracy of coarser inference classes. The algorithm begins with the top node and recursively descends the taxonomy (line 19), turning nodes into training classes if th...",
+      "page_number": 10,
+      "reason": "Matched: uses",
+      "summary_insight": "RESEARCH Extended Data Table 1 | Disease-partitioning algorithm This algorithm uses the taxonomy to partition the diseases into fine-grained training classes.",
+      "relevance_score": 0.2
+    },
+    {
+      "document": "rp2.pdf.pdf",
+      "section_title": "1-Department of Computer Engineering, Shiraz branch, Islamic Azad University, Shiraz, Iran",
+      "refined_text": "1-Department of Computer Engineering, Shiraz branch, Islamic Azad University, Shiraz, Iran 2-Department of Electrical Engineering, Shiraz branch, Islamic Azad University, Shiraz, Iran 3-Legal Medicine Research Center, Iranian Legal Medicine Organization, Tehran, Iran Abstract In this paper, the effectiveness and capability of convolutional neural networks have been studied in the classification of...",
+      "page_number": 1,
+      "reason": "Accepted by pattern (fallback)",
+      "summary_insight": "1-Department of Computer Engineering, Shiraz branch, Islamic Azad University, Shiraz, Iran 2-Department of Electrical Engineering, Shiraz branch, Islamic Azad University, Shiraz, Iran 3-Legal Medicine Research Center, Iranian Legal Medicine Organization, Tehran, Iran Abstract In this paper, the effectiveness and capability of convolutional neural networks have been studied in the classification of.",
+      "relevance_score": 0.5
+    },
+    {
+      "document": "rp2.pdf.pdf",
+      "section_title": "2-Department of Electrical Engineering, Shiraz branch, Islamic Azad University, Shiraz, Iran",
+      "refined_text": "2-Department of Electrical Engineering, Shiraz branch, Islamic Azad University, Shiraz, Iran 3-Legal Medicine Research Center, Iranian Legal Medicine Organization, Tehran, Iran Abstract In this paper, the effectiveness and capability of convolutional neural networks have been studied in the classification of 8 skin diseases. Different pre-trained state-of-the-art architectures (DenseNet 201, ResNe...",
+      "page_number": 1,
+      "reason": "Accepted by pattern (fallback)",
+      "summary_insight": "2-Department of Electrical Engineering, Shiraz branch, Islamic Azad University, Shiraz, Iran 3-Legal Medicine Research Center, Iranian Legal Medicine Organization, Tehran, Iran Abstract In this paper, the effectiveness and capability of convolutional neural networks have been studied in the classification of 8 skin diseases.",
+      "relevance_score": 0.5
+    },
+    {
+      "document": "rp2.pdf.pdf",
+      "section_title": "3-Legal Medicine Research Center, Iranian Legal Medicine Organization, Tehran, Iran",
+      "refined_text": "3-Legal Medicine Research Center, Iranian Legal Medicine Organization, Tehran, Iran Abstract In this paper, the effectiveness and capability of convolutional neural networks have been studied in the classification of 8 skin diseases. Different pre-trained state-of-the-art architectures (DenseNet 201, ResNet 152, Inception v3, InceptionResNet v2) were used and applied on 10135 dermoscopy skin image...",
+      "page_number": 1,
+      "reason": "Accepted by pattern (fallback)",
+      "summary_insight": "3-Legal Medicine Research Center, Iranian Legal Medicine Organization, Tehran, Iran Abstract In this paper, the effectiveness and capability of convolutional neural networks have been studied in the classification of 8 skin diseases.",
+      "relevance_score": 0.5
+    },
+    {
+      "document": "rp2.pdf.pdf",
+      "section_title": "1. Introduction",
+      "refined_text": "Introduction Skin cancer is the most widespread cancer diagnosed in the US [1]. Melanoma is the most dangerous type of skin cancer which has been one of the most important challenges of the public health in recent years [2]. According to the latest statistics, 91270 new cases of melanoma is predicted to be diagnosed in the United States in 2018 [1]. The rates of melanoma occurrence and the mortali...",
+      "page_number": 1,
+      "reason": "Matched: case",
+      "summary_insight": "Introduction Skin cancer is the most widespread cancer diagnosed in the US [1].",
+      "relevance_score": 0.2
+    },
+    {
+      "document": "rp2.pdf.pdf",
+      "section_title": "2. Methods and materials",
+      "refined_text": "Materials In this research, the aim is to differentiate between not only melanoma and nevus, but also non- melanocytic pigmented lesions which are common in practice. Therefore, a combination of two public datasets is utilized in this paper to classify different skin cancer images by pre-trained convolutional neural networks. The first one is the HAM10000 dataset [44] which is served as a benchmar...",
+      "page_number": 3,
+      "reason": "Accepted by pattern (fallback)",
+      "summary_insight": "Materials In this research, the aim is to differentiate between not only melanoma and nevus, but also non- melanocytic pigmented lesions which are common in practice.",
+      "relevance_score": 0.5
+    },
+    {
+      "document": "rp2.pdf.pdf",
+      "section_title": "2.1. Materials",
+      "refined_text": "Materials In this research, the aim is to differentiate between not only melanoma and nevus, but also non- melanocytic pigmented lesions which are common in practice. Therefore, a combination of two public datasets is utilized in this paper to classify different skin cancer images by pre-trained convolutional neural networks. The first one is the HAM10000 dataset [44] which is served as a benchmar...",
+      "page_number": 3,
+      "reason": "Accepted by pattern (fallback)",
+      "summary_insight": "Materials In this research, the aim is to differentiate between not only melanoma and nevus, but also non- melanocytic pigmented lesions which are common in practice.",
+      "relevance_score": 0.5
+    },
+    {
+      "document": "rp2.pdf.pdf",
+      "section_title": "2.2. Methods",
+      "refined_text": "Methods In over past few years, more advanced convolutional neural networks have been developed by researchers in order to solve computer vision problems more accurately. In this paper to classify skin cancer images, we utilized 4 deep convolutional neural networks pre-trained on ImageNet [46] using TensorFlow [47] which is a deep learning framework developed by Google. We split 70% of the dataset...",
+      "page_number": 4,
+      "reason": "Accepted by pattern (fallback)",
+      "summary_insight": "Methods In over past few years, more advanced convolutional neural networks have been developed by researchers in order to solve computer vision problems more accurately.",
+      "relevance_score": 0.5
+    },
+    {
+      "document": "rp2.pdf.pdf",
+      "section_title": "2.2.1. Google\u2019s Inception v3",
+      "refined_text": "Google\u2019s Inception v3 Google\u2019s Inception v3 architecture [48] was re-trained on our dataset by fine-tuning across all layers and replacing top layers with one averagepooling, two fully connected and finally the softmax layer allowing to classify 8 diagnostic categories. The size of input images was all resized to (299, 299) to be compatible with this model. Learning rate was set to 0.0007 and stoc...",
+      "page_number": 5,
+      "reason": "Accepted by pattern (fallback)",
+      "summary_insight": "Google\u2019s Inception v3 Google\u2019s Inception v3 architecture [48] was re-trained on our dataset by fine-tuning across all layers and replacing top layers with one averagepooling, two fully connected and finally the softmax layer allowing to classify 8 diagnostic categories.",
+      "relevance_score": 0.5
+    },
+    {
+      "document": "rp2.pdf.pdf",
+      "section_title": "2.2.2. InceptionResNet v2",
+      "refined_text": "InceptionResNet v2 InceptionResNet v2 architecture [49] was re-trained on our dataset by fine-tuning across all layers and replacing top layers with one globalaveragepooling, one fully connected and finally the softmax layer allowing to classify 8 diagnostic categories. The size of input images was all resized to (224, 224) to be compatible with this model. Learning rate was set to 0.0006 and stoc...",
+      "page_number": 5,
+      "reason": "Accepted by pattern (fallback)",
+      "summary_insight": "InceptionResNet v2 InceptionResNet v2 architecture [49] was re-trained on our dataset by fine-tuning across all layers and replacing top layers with one globalaveragepooling, one fully connected and finally the softmax layer allowing to classify 8 diagnostic categories.",
+      "relevance_score": 0.5
+    },
+    {
+      "document": "rp2.pdf.pdf",
+      "section_title": "2.2.4. DenseNet 201",
+      "refined_text": "DenseNet 201 DenseNet 201 architecture [51] was re-trained on our dataset by fine-tuning across all layers and replacing top layers with one globalaveragepooling and the softmax layer allowing to classify 8 diagnostic categories. The size of input images was all resized to (224, 224) to be compatible with this model. Learning rate was set to 0.0006 and stochastic gradient descent algorithm (SGD) w...",
+      "page_number": 6,
+      "reason": "Accepted by pattern (fallback)",
+      "summary_insight": "DenseNet 201 DenseNet 201 architecture [51] was re-trained on our dataset by fine-tuning across all layers and replacing top layers with one globalaveragepooling and the softmax layer allowing to classify 8 diagnostic categories.",
+      "relevance_score": 0.5
+    },
+    {
+      "document": "rp2.pdf.pdf",
+      "section_title": "3. Results",
+      "refined_text": "Results In this section, we present our findings and show the diagnostic accuracy of trained models in comparison to an approved board of dermatologists. In this paper, a total of eight different types of major skin cancer categories is used. The evaluation and results of trained models is calculated by common classification metrics which are defined as follows: \ud835\udc43\ud835\udc5f\ud835\udc52\ud835\udc50\ud835\udc56\ud835\udc60\ud835\udc56\ud835\udc5c\ud835\udc5b (\ud835\udc5d\ud835\udc5c\ud835\udc60\ud835\udc56\ud835\udc61\ud835\udc56\ud835\udc63\ud835\udc52 \ud835\udc5d\ud835\udc5f\ud835\udc52\ud835\udc51\ud835\udc56\ud835\udc50\ud835\udc61\ud835\udc56\ud835\udc63\ud835\udc52 \ud835\udc63\ud835\udc4e\ud835\udc59\ud835\udc62...",
+      "page_number": 6,
+      "reason": "Accepted by pattern (fallback)",
+      "summary_insight": "Results In this section, we present our findings and show the diagnostic accuracy of trained models in comparison to an approved board of dermatologists.",
+      "relevance_score": 0.5
+    },
+    {
+      "document": "rp2.pdf.pdf",
+      "section_title": "201 and ResNet 152 have achieved better results overall.",
+      "refined_text": "201 and ResNet 152 have achieved better results overall.",
+      "page_number": 8,
+      "reason": "Accepted by pattern (fallback)",
+      "summary_insight": "201 and ResNet 152 have achieved better results overall.",
+      "relevance_score": 0.5
+    },
+    {
+      "document": "rp2.pdf.pdf",
+      "section_title": "4. Discussion",
+      "refined_text": "Discussion Skin cancer disease has been the most diagnosed cancer in the U.S each year [1, 3]. In recent years with the great success of deep convolutional neural networks in AI community, there has been made many efforts to analyze medical images [52-54]. To investigate this purpose further, we demonstrate the capability of CNNs to diagnose varied types of dermoscopy skin lesion images. This stud...",
+      "page_number": 11,
+      "reason": "Accepted by pattern (fallback)",
+      "summary_insight": "Discussion Skin cancer disease has been the most diagnosed cancer in the U.S each year [1, 3].",
+      "relevance_score": 0.5
+    },
+    {
+      "document": "rp2.pdf.pdf",
+      "section_title": "5. Conclusion and Future works",
+      "refined_text": "Conclusion and Future works In conclusion, this study investigated the ability of deep convolutional neural networks in the classification of 8 major skin diseases. Our results show that state-of-the-art deep learning architectures trained on dermoscopy images (10135 in total) outperforms dermatologists. We showed that with use of very deep convolutional neural networks and fine-tuning them on der...",
+      "page_number": 12,
+      "reason": "Accepted by pattern (fallback)",
+      "summary_insight": "Conclusion and Future works In conclusion, this study investigated the ability of deep convolutional neural networks in the classification of 8 major skin diseases.",
+      "relevance_score": 0.5
+    },
+    {
+      "document": "rp2.pdf.pdf",
+      "section_title": "6. References",
+      "refined_text": "Society, \"Cancer Facts & Figures 2018,\" Atlanta, American Cancer Society, 2018. Koh, \"Melanoma screening: focusing the public health journey,\" vol. Stratigos, \"Emerging trends in the epidemiology of",
+      "page_number": 12,
+      "reason": "Accepted by pattern (fallback)",
+      "summary_insight": "Society, \"Cancer Facts & Figures 2018,\" Atlanta, American Cancer Society, 2018.",
+      "relevance_score": 0.5
+    },
+    {
+      "document": "rp2.pdf.pdf",
+      "section_title": "4 dermoscopic algorithms by nonexperts for the diagnosis of melanocytic lesions,\" vol.",
+      "refined_text": "4 dermoscopic algorithms by nonexperts for the diagnosis of melanocytic lesions,\" vol. Carli et al., \"Pattern analysis, not simplified algorithms, is the most reliable method for teaching dermoscopy for melanoma diagnosis to residents in dermatology,\" vol. Burroni et al., \"Melanoma computer-aided diagnosis: reliability and feasibility study,\"",
+      "page_number": 14,
+      "reason": "Accepted by pattern (fallback)",
+      "summary_insight": "4 dermoscopic algorithms by nonexperts for the diagnosis of melanocytic lesions,\" vol.",
+      "relevance_score": 0.5
+    },
+    {
+      "document": "rp4.pdf.pdf",
+      "section_title": "1. Motivation",
+      "refined_text": "Motivation How does the accuracy of deep neural network mod- els trained to classify clinical images of skin conditions vary across skin color? The emergence of deep neural net- work models that can accurately classify images of skin conditions presents an opportunity to improve dermatology and healthcare at large [23, 36, 51, 48, 12]. But, the data upon which these models are trained are mostly m...",
+      "page_number": 1,
+      "reason": "Accepted by pattern (fallback)",
+      "summary_insight": "Motivation How does the accuracy of deep neural network mod- els trained to classify clinical images of skin conditions vary across skin color? The emergence of deep neural net- work models that can accurately classify images of skin conditions presents an opportunity to improve dermatology and healthcare at large [23, 36, 51, 48, 12].",
+      "relevance_score": 0.5
+    },
+    {
+      "document": "rp4.pdf.pdf",
+      "section_title": "2. Fitzpatrick 17k Dataset",
+      "refined_text": "Fitzpatrick 17k Dataset The Fitzpatrick 17k dataset contains 16,577 clinical im- ages with skin condition labels and skin type labels based on the Fitzpatrick scoring system [25]. The dataset is ac- cessible at https://github.com/mattgroh/\ufb01tzpatrick17k. The images are sourced from two online open-source dermatology atlases: 12,672 images from DermaAmin and 3,905 images from Atlas Dermatologico [4,...",
+      "page_number": 2,
+      "reason": "Accepted by pattern (fallback)",
+      "summary_insight": "Fitzpatrick 17k Dataset The Fitzpatrick 17k dataset contains 16,577 clinical im- ages with skin condition labels and skin type labels based on the Fitzpatrick scoring system [25].",
+      "relevance_score": 0.5
+    },
+    {
+      "document": "rp4.pdf.pdf",
+      "section_title": "3,905 images from Atlas Dermatologico [4, 26].",
+      "refined_text": "3,905 images from Atlas Dermatologico [4, 26]. These sources include images and their corresponding skin condi- tion label. While these labels are not known to be con\ufb01rmed by a biopsy, these images and their skin condition labels have been used and cited in dermatology and computer vi- sion literature a number of times [23, 29, 9, 45, 6, 50, 53]. As a data quality check, we asked a board-certi\ufb01ed ...",
+      "page_number": 2,
+      "reason": "Accepted by pattern (fallback)",
+      "summary_insight": "3,905 images from Atlas Dermatologico [4, 26].",
+      "relevance_score": 0.5
+    },
+    {
+      "document": "rp4.pdf.pdf",
+      "section_title": "6.3% as characteristic (resembling the appearance of such",
+      "refined_text": "6.3% as characteristic (resembling the appearance of such a condition but not clearly diagnostic), 3.4% are considered wrongly labeled, and 2.0% are labeled as other. A second board-certi\ufb01ed dermatologist also examined this sample of images and con\ufb01rmed the error rate. This error rate is con- sistent with the 3.4% average error rate in the most com- monly used test datasets for computer vision, na...",
+      "page_number": 2,
+      "reason": "Accepted by pattern (fallback)",
+      "summary_insight": "6.3% as characteristic (resembling the appearance of such a condition but not clearly diagnostic), 3.4% are considered wrongly labeled, and 2.0% are labeled as other.",
+      "relevance_score": 0.5
+    },
+    {
+      "document": "rp4.pdf.pdf",
+      "section_title": "2,263 malignant lesions, and 12,080 non-neoplastic lesions.",
+      "refined_text": "2,263 malignant lesions, and 12,080 non-neoplastic lesions. At a slightly more granular level, images of skin condi- tions are split into nine categories: 10,886 images labeled in\ufb02ammatory, 1,352 malignant epidermal, 1,194 genoder- matoses, 1,067 benign dermal, 931 benign epidermal, 573 malignant melanoma, 236 benign melanocyte, 182 malig- nant cutaneous lymphoma, and 156 malignant dermal. At the ...",
+      "page_number": 2,
+      "reason": "Accepted by pattern (fallback)",
+      "summary_insight": "2,263 malignant lesions, and 12,080 non-neoplastic lesions.",
+      "relevance_score": 0.5
+    },
+    {
+      "document": "rp4.pdf.pdf",
+      "section_title": "312 images with Fitzpatrick skin type annotations provided",
+      "refined_text": "312 images with Fitzpatrick skin type annotations provided by a board-certi\ufb01ed dermatologist. This annotation process resulted in 72,277 annotations in total. In the Fitzpatrick 17k dataset, there are signi\ufb01cantly more images of light skin types than dark skin",
+      "page_number": 2,
+      "reason": "Matched: process",
+      "summary_insight": "312 images with Fitzpatrick skin type annotations provided by a board-certi\ufb01ed dermatologist.",
+      "relevance_score": 0.17
+    },
+    {
+      "document": "rp4.pdf.pdf",
+      "section_title": "7,755 images of the lightest skin types (1 & 2), 6,089 im-",
+      "refined_text": "7,755 images of the lightest skin types (1 & 2), 6,089 im- ages of the middle skin types (3 & 4), and 2,168 images of the darkest skin types (5 & 6). Table 1 presents the distri- bution of images by skin type for each of the three highest level categorizations of skin conditions. A small portion of the dataset (565 images) are labeled as unknown, which indicates that the team of annotators could n...",
+      "page_number": 3,
+      "reason": "Accepted by pattern (fallback)",
+      "summary_insight": "7,755 images of the lightest skin types (1 & 2), 6,089 im- ages of the middle skin types (3 & 4), and 2,168 images of the darkest skin types (5 & 6).",
+      "relevance_score": 0.5
+    },
+    {
+      "document": "rp4.pdf.pdf",
+      "section_title": "114 skin conditions for Fitzpatrick skin types 1 through",
+      "refined_text": "114 skin conditions for Fitzpatrick skin types 1 through 3. For the remaining Fitpatrick skin types, there are 113 skin conditions represented in type 4, 112 represented in type 5, and 89 represented in type 6. In other words, 25 of the 114 skin conditions in this dataset have no exam- ples in Fitzparick type 6 skin. The mean Fitzpatrick skin types across these skin condition labels ranges from 1....",
+      "page_number": 3,
+      "reason": "Accepted by pattern (fallback)",
+      "summary_insight": "114 skin conditions for Fitzpatrick skin types 1 through 3.",
+      "relevance_score": 0.5
+    },
+    {
+      "document": "rp4.pdf.pdf",
+      "section_title": "3. For the remaining Fitpatrick skin types, there are 113",
+      "refined_text": "For the remaining Fitpatrick skin types, there are 113 skin conditions represented in type 4, 112 represented in type 5, and 89 represented in type 6. In other words, 25 of the 114 skin conditions in this dataset have no exam- ples in Fitzparick type 6 skin. The mean Fitzpatrick skin types across these skin condition labels ranges from 1.77 for basal cell carcionma morpheaform to 4.25 for pityrias...",
+      "page_number": 3,
+      "reason": "Accepted by pattern (fallback)",
+      "summary_insight": "For the remaining Fitpatrick skin types, there are 113 skin conditions represented in type 4, 112 represented in type 5, and 89 represented in type 6.",
+      "relevance_score": 0.5
+    },
+    {
+      "document": "rp4.pdf.pdf",
+      "section_title": "3. Classifying Skin Conditions with a Deep",
+      "refined_text": "Classifying Skin Conditions with a Deep Neural Network 3.1. Methodology We train a transfer learning model based on a VGG-16 deep neural network architecture [47] pre-trained on Ima- geNet [20]. We replace the last fully connected 1000 unit layer with the following sequence of layers: a fully con- nected 256 unit layer, a ReLU layer, dropout layer with a",
+      "page_number": 3,
+      "reason": "Accepted by pattern (fallback)",
+      "summary_insight": "Classifying Skin Conditions with a Deep Neural Network 3.1.",
+      "relevance_score": 0.5
+    },
+    {
+      "document": "rp4.pdf.pdf",
+      "section_title": "3.1. Methodology",
+      "refined_text": "Methodology We train a transfer learning model based on a VGG-16 deep neural network architecture [47] pre-trained on Ima- geNet [20]. We replace the last fully connected 1000 unit layer with the following sequence of layers: a fully con- nected 256 unit layer, a ReLU layer, dropout layer with a 40% change of dropping, a layer with the number of pre- dicted categories, and \ufb01nally a softmax layer.",
+      "page_number": 3,
+      "reason": "Accepted by pattern (fallback)",
+      "summary_insight": "Methodology We train a transfer learning model based on a VGG-16 deep neural network architecture [47] pre-trained on Ima- geNet [20].",
+      "relevance_score": 0.5
+    },
+    {
+      "document": "rp4.pdf.pdf",
+      "section_title": "40% change of dropping, a layer with the number of pre-",
+      "refined_text": "40% change of dropping, a layer with the number of pre- dicted categories, and \ufb01nally a softmax layer. As a re- sult, the model has 135,335,076 total parameters of which 1,074,532 are trainable. We train the model by using the Adam optimization algorithm to minimize negative log likelihood loss.",
+      "page_number": 3,
+      "reason": "Accepted by pattern (fallback)",
+      "summary_insight": "40% change of dropping, a layer with the number of pre- dicted categories, and \ufb01nally a softmax layer.",
+      "relevance_score": 0.5
+    },
+    {
+      "document": "rp4.pdf.pdf",
+      "section_title": "1,074,532 are trainable.",
+      "refined_text": "We train the model by using the Adam optimization algorithm to minimize negative log likelihood loss. We address class imbalance by using a weighted random sampler where the weights are determined by each skin condition\u2019s inverse frequency in the dataset. We perform a number of transformations to images before",
+      "page_number": 3,
+      "reason": "Accepted by pattern (fallback)",
+      "summary_insight": "We train the model by using the Adam optimization algorithm to minimize negative log likelihood loss.",
+      "relevance_score": 0.5
+    },
+    {
+      "document": "rp4.pdf.pdf",
+      "section_title": "0 to 15 degrees, randomly altering the brightness, contrast,",
+      "refined_text": "0 to 15 degrees, randomly altering the brightness, contrast, saturation, and hue of each image, randomly \ufb02ipping the image horizontally or not, center cropping the image to be 224 pixels by 224 pixels, and normalizing the image arrays by the ImageNet means and standard deviations. We evaluate the classi\ufb01er\u2019s performance via 5 ap- proaches: (1) testing on the subset of images labeled by a board-cer...",
+      "page_number": 3,
+      "reason": "Accepted by pattern (fallback)",
+      "summary_insight": "0 to 15 degrees, randomly altering the brightness, contrast, saturation, and hue of each image, randomly \ufb02ipping the image horizontally or not, center cropping the image to be 224 pixels by 224 pixels, and normalizing the image arrays by the ImageNet means and standard deviations.",
+      "relevance_score": 0.5
+    },
+    {
+      "document": "rp4.pdf.pdf",
+      "section_title": "224 pixels by 224 pixels, and normalizing the image arrays",
+      "refined_text": "224 pixels by 224 pixels, and normalizing the image arrays by the ImageNet means and standard deviations. We evaluate the classi\ufb01er\u2019s performance via 5 ap- proaches: (1) testing on the subset of images labeled by a board-certi\ufb01ed dermatologist as diagnostic of the labeled condition and training on the rest of the data (2) testing on a randomly selected 20% of the images where the random se- lectio...",
+      "page_number": 3,
+      "reason": "Accepted by pattern (fallback)",
+      "summary_insight": "224 pixels by 224 pixels, and normalizing the image arrays by the ImageNet means and standard deviations.",
+      "relevance_score": 0.5
+    },
+    {
+      "document": "rp4.pdf.pdf",
+      "section_title": "3.2. Results",
+      "refined_text": "Results We report results of training the model on all 114 skin conditions across 7 different selections of holdout sets in Table 3. In the random holdout, the model produces a 20.2% overall accuracy on exactly identifying the labeled skin con- dition present in the image. The top-2 accuracy (the rate at which the \ufb01rst or second prediction of the model is the",
+      "page_number": 3,
+      "reason": "Accepted by pattern (fallback)",
+      "summary_insight": "Results We report results of training the model on all 114 skin conditions across 7 different selections of holdout sets in Table 3.",
+      "relevance_score": 0.5
+    },
+    {
+      "document": "rp4.pdf.pdf",
+      "section_title": "93.3% accuracy on 1 condition (30 images).",
+      "refined_text": "93.3% accuracy on 1 condition (30 images). When we train the model on the 3 category partition of non-neoplastic, benign, and malignant, the model pro- duces an accuracy of 62.4% on the random holdout (ran- dom guessing would produce 33.3% accuracy). Likewise, the model trained on the 9 category partition produces an accuracy of 36.1% on the random holdout (random guess- ing would produce 11.1% ac...",
+      "page_number": 4,
+      "reason": "Accepted by pattern (fallback)",
+      "summary_insight": "93.3% accuracy on 1 condition (30 images).",
+      "relevance_score": 0.5
+    },
+    {
+      "document": "rp4.pdf.pdf",
+      "section_title": "4.1. Methodology",
+      "refined_text": "Methodology An alternative approach to annotating images with Fitz- patrick labels is estimating skin tone via individual typol- ogy angle (ITA), which is calculated based on statistical features of image pixels and is negatively correlated with the melanin index [55]. Ideally, ITA is calculated over pix- els in a segmented region highlighting only non-diseased skin [31]. But, segmentation masks a...",
+      "page_number": 4,
+      "reason": "Accepted by pattern (fallback)",
+      "summary_insight": "Methodology An alternative approach to annotating images with Fitz- patrick labels is estimating skin tone via individual typol- ogy angle (ITA), which is calculated based on statistical features of image pixels and is negatively correlated with the melanin index [55].",
+      "relevance_score": 0.5
+    },
+    {
+      "document": "rp4.pdf.pdf",
+      "section_title": "4.2. Results",
+      "refined_text": "Results In Table 5, we compare ITA calculations on both the full images and YCbCr masks with Fitzpatrick skin type labels. Furthermore, we compare two different methods for calcu- lating Fitzpatrick type given ITA, as described in Equations 14 and 15. For each entry, we calculate the proportion of ITA scores in the range of plus or minus one of the anno- tated Fitzpatrick score.",
+      "page_number": 5,
+      "reason": "Accepted by pattern (fallback)",
+      "summary_insight": "Results In Table 5, we compare ITA calculations on both the full images and YCbCr masks with Fitzpatrick skin type labels.",
+      "relevance_score": 0.5
+    },
+    {
+      "document": "rp4.pdf.pdf",
+      "section_title": "14 and 15. For each entry, we calculate the proportion of",
+      "refined_text": "For each entry, we calculate the proportion of ITA scores in the range of plus or minus one of the anno- tated Fitzpatrick score. Fitzpatrick(ITA) = \uf8f1 \uf8f4 \uf8f4 \uf8f4",
+      "page_number": 5,
+      "reason": "Accepted by pattern (fallback)",
+      "summary_insight": "For each entry, we calculate the proportion of ITA scores in the range of plus or minus one of the anno- tated Fitzpatrick score.",
+      "relevance_score": 0.5
+    },
+    {
+      "document": "rp4.pdf.pdf",
+      "section_title": "14, a modified version of the ITA thresholds described by",
+      "refined_text": "14, a modi\ufb01ed version of the ITA thresholds described by Kinyanjui et al. The columns labeled \u201cEmpirical\u201d follow Equation 15, which we developed based on the em- pirical distribution of ITA scores minimizing overall error. Figure 1 plots the empirical distribution of ITA scores for each Fitzpatrick skin type label. The discrepancy between Fitzpatrick skin type labels and the ITA approach appears t...",
+      "page_number": 5,
+      "reason": "Accepted by pattern (fallback)",
+      "summary_insight": "14, a modi\ufb01ed version of the ITA thresholds described by Kinyanjui et al.",
+      "relevance_score": 0.5
+    },
+    {
+      "document": "rp4.pdf.pdf",
+      "section_title": "5. Conclusion",
+      "refined_text": "Conclusion We present the Fitzpatrick 17k, a new dataset consist- ing of 16,577 clinical images of 114 different skin condi- tions annotated with Fitzpatrick skin type labels. These images are sourced from Atlas Dermatologico and Derma Amin and contain 3.6 times more images of the two light- est Fitzpatrick skin types than the two darkest Fitzpatrick",
+      "page_number": 5,
+      "reason": "Accepted by pattern (fallback)",
+      "summary_insight": "Conclusion We present the Fitzpatrick 17k, a new dataset consist- ing of 16,577 clinical images of 114 different skin condi- tions annotated with Fitzpatrick skin type labels.",
+      "relevance_score": 0.5
+    },
+    {
+      "document": "rp4.pdf.pdf",
+      "section_title": "2020 challenge dataset. International Skin Imaging Collab-",
+      "refined_text": "International Skin Imaging Collab- oration, 2020. [18] Marc Combalia, Noel CF Codella, Veronica Rotemberg, Brian Helba, Veronica Vilaplana, Ofer Reiter, Cristina Car- rera, Alicia Barreiro, Allan C Halpern, Susana Puig, et al. Bcn20000: Dermoscopic lesions in the wild. [19] Bo Cowgill and Catherine E Tucker",
+      "page_number": 8,
+      "reason": "Accepted by pattern (fallback)",
+      "summary_insight": "International Skin Imaging Collab- oration, 2020.",
+      "relevance_score": 0.5
+    },
+    {
+      "document": "rp4.pdf.pdf",
+      "section_title": "35th annual international conference of the IEEE engineer-",
+      "refined_text": "35th annual international conference of the IEEE engineer- ing in medicine and biology society (EMBC), pages 5437\u2013 5440. [38] Michele Merler, Nalini Ratha, Rogerio S. [39] Curtis G Northcutt, Anish Athalye, and Jonas Mueller. Per- vasive label errors in test sets destabilize machine learning benchmarks",
+      "page_number": 9,
+      "reason": "Accepted by pattern (fallback)",
+      "summary_insight": "35th annual international conference of the IEEE engineer- ing in medicine and biology society (EMBC), pages 5437\u2013 5440.",
+      "relevance_score": 0.5
+    }
+  ]
+}
