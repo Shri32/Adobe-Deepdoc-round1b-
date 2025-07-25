@@ -55,7 +55,7 @@ source venv/bin/activate
 pip install -r requirements.txt
 
 ### 1. Run the processor
-
+```bash
 python3 app/summarizer.py
 
 ### 2. Output
@@ -65,6 +65,7 @@ Each collection will generate:
 challenge1b_output.json under its folder
 
 Logs showing skipped/cleaned pages, matched titles, and scores
+```
 
 ##Supported Job Types
 
